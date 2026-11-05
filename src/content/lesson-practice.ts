@@ -119,10 +119,10 @@ export const lessonPractice: Record<string, QuizQuestion[]> = {
       explanation: 'The standard phrase is "This is [name] calling about ...".',
     },
     {
-      question: '"___ explain the alarm system to her?" is the most polite request.',
-      options: ['I wonder if you could', 'I wonder if', 'Do you think'],
+      question: '___ you explain the alarm system to her?',
+      options: ['Would', 'Do', 'Are'],
       answer: 0,
-      explanation: 'I wonder if you could + verb is an indirect, polite request.',
+      explanation: 'Would you + verb is a polite request: Would you explain the alarm system to her?',
     },
     {
       question: 'Are the requests in Exercise 4A direct or indirect?',
