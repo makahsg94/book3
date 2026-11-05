@@ -229,6 +229,21 @@ export default function LessonPage() {
             </section>
           )}
 
+          {lesson.practice && lesson.practice.length > 0 && (
+            <section>
+              <SectionTitle
+                icon={<IconTarget size={17} className="text-brand-600" />}
+                title="Lesson practice"
+                hint={`Exercises from ${lesson.code} — choose an answer and check it.`}
+              />
+              <Quiz
+                id={`practice-${lesson.code}`}
+                title={`${lesson.code} practice`}
+                questions={lesson.practice}
+              />
+            </section>
+          )}
+
           {lesson.quiz && (
             <section>
               <SectionTitle icon={<IconTarget size={17} className="text-accent-600" />} title="Practice" hint="Check your grammar and vocabulary from this unit." />
@@ -246,7 +261,7 @@ export default function LessonPage() {
             </section>
           )}
 
-          {!lesson.quiz && (
+          {!lesson.quiz && !lesson.practice && (
             <section className="rounded-xl border border-dashed border-[var(--line-strong)] bg-[var(--bg)]/35 p-4 text-center">
               <p className="text-sm font-semibold text-[var(--ink)]">Finished this lesson?</p>
               <p className="mt-0.5 text-xs text-[var(--ink-faint)]">

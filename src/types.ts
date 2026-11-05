@@ -64,6 +64,7 @@ export interface Lesson {
   videos: VideoRef[]
   grammar?: GrammarRef
   vocab?: VocabGroup
+  practice?: QuizQuestion[]
   quiz?: {
     id: string
     title: string

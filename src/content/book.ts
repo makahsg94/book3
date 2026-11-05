@@ -5,6 +5,7 @@ import transcripts from './transcripts.json'
 import { grammarByCode } from './grammar'
 import { vocabByCode } from './vocabulary'
 import { unitQuizzes } from './quizzes'
+import { lessonPractice } from './lesson-practice'
 
 type RawAudio = { original: string; file: string; code: string; track: string }
 type RawVideo = { original: string; file: string; unit: number; kind: VideoRef['kind'] }
@@ -843,6 +844,7 @@ export const units: Unit[] = unitSeeds.map((seed) => {
       videos: videoForLesson(seed, lesson),
       grammar: grammarByCode[lesson.code],
       vocab: vocabByCode[lesson.code],
+      practice: lessonPractice[lesson.code],
       quiz: quiz
         ? {
             id: `unit-${seed.number}`,
