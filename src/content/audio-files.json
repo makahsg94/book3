@@ -1,0 +1,488 @@
+[
+  {
+    "original": "SO3_B1+_SB_1A_Audio_1_01.mp3",
+    "file": "/audio/1A_1_01.mp3",
+    "code": "1A",
+    "track": "1_01"
+  },
+  {
+    "original": "SO3_B1+_SB_1A_Audio_1_02.mp3",
+    "file": "/audio/1A_1_02.mp3",
+    "code": "1A",
+    "track": "1_02"
+  },
+  {
+    "original": "SO3_B1+_SB_1A_Audio_VB1_01.mp3",
+    "file": "/audio/1A_VB1_01.mp3",
+    "code": "1A",
+    "track": "VB1_01"
+  },
+  {
+    "original": "SO3_B1+_SB_1B_Audio_1_03.mp3",
+    "file": "/audio/1B_1_03.mp3",
+    "code": "1B",
+    "track": "1_03"
+  },
+  {
+    "original": "SO3_B1+_SB_1C_Audio_1_04.mp3",
+    "file": "/audio/1C_1_04.mp3",
+    "code": "1C",
+    "track": "1_04"
+  },
+  {
+    "original": "SO3_B1+_SB_1C_Audio_1_05.mp3",
+    "file": "/audio/1C_1_05.mp3",
+    "code": "1C",
+    "track": "1_05"
+  },
+  {
+    "original": "SO3_B1+_SB_1C_Audio_1_06.mp3",
+    "file": "/audio/1C_1_06.mp3",
+    "code": "1C",
+    "track": "1_06"
+  },
+  {
+    "original": "SO3_B1+_SB_1C_Audio_1_07.mp3",
+    "file": "/audio/1C_1_07.mp3",
+    "code": "1C",
+    "track": "1_07"
+  },
+  {
+    "original": "SO3_B1+_SB_1C_Audio_MB1_01.mp3",
+    "file": "/audio/1C_MB1_01.mp3",
+    "code": "1C",
+    "track": "MB1_01"
+  },
+  {
+    "original": "SO3_B1+_SB_1C_Audio_MB1_02.mp3",
+    "file": "/audio/1C_MB1_02.mp3",
+    "code": "1C",
+    "track": "MB1_02"
+  },
+  {
+    "original": "SO3_B1+_SB_1R_Audio_R1_01.mp3",
+    "file": "/audio/1R_R1_01.mp3",
+    "code": "1R",
+    "track": "R1_01"
+  },
+  {
+    "original": "SO3_B1+_SB_2A_Audio_2_01.mp3",
+    "file": "/audio/2A_2_01.mp3",
+    "code": "2A",
+    "track": "2_01"
+  },
+  {
+    "original": "SO3_B1+_SB_2A_Audio_2_02.mp3",
+    "file": "/audio/2A_2_02.mp3",
+    "code": "2A",
+    "track": "2_02"
+  },
+  {
+    "original": "SO3_B1+_SB_2B_Audio_2_03.mp3",
+    "file": "/audio/2B_2_03.mp3",
+    "code": "2B",
+    "track": "2_03"
+  },
+  {
+    "original": "SO3_B1+_SB_2B_Audio_2_04.mp3",
+    "file": "/audio/2B_2_04.mp3",
+    "code": "2B",
+    "track": "2_04"
+  },
+  {
+    "original": "SO3_B1+_SB_2B_Audio_2_05.mp3",
+    "file": "/audio/2B_2_05.mp3",
+    "code": "2B",
+    "track": "2_05"
+  },
+  {
+    "original": "SO3_B1+_SB_2B_Audio_2_06.mp3",
+    "file": "/audio/2B_2_06.mp3",
+    "code": "2B",
+    "track": "2_06"
+  },
+  {
+    "original": "SO3_B1+_SB_2C_Audio_2_07.mp3",
+    "file": "/audio/2C_2_07.mp3",
+    "code": "2C",
+    "track": "2_07"
+  },
+  {
+    "original": "SO3_B1+_SB_2C_Audio_2_08.mp3",
+    "file": "/audio/2C_2_08.mp3",
+    "code": "2C",
+    "track": "2_08"
+  },
+  {
+    "original": "SO3_B1+_SB_2C_Audio_2_09.mp3",
+    "file": "/audio/2C_2_09.mp3",
+    "code": "2C",
+    "track": "2_09"
+  },
+  {
+    "original": "SO3_B1+_SB_2D_Audio_2_10.mp3",
+    "file": "/audio/2D_2_10.mp3",
+    "code": "2D",
+    "track": "2_10"
+  },
+  {
+    "original": "SO3_B1+_SB_2R_Audio_R2_01.mp3",
+    "file": "/audio/2R_R2_01.mp3",
+    "code": "2R",
+    "track": "R2_01"
+  },
+  {
+    "original": "SO3_B1+_SB_3A_Audio_3_01.mp3",
+    "file": "/audio/3A_3_01.mp3",
+    "code": "3A",
+    "track": "3_01"
+  },
+  {
+    "original": "SO3_B1+_SB_3A_Audio_3_02.mp3",
+    "file": "/audio/3A_3_02.mp3",
+    "code": "3A",
+    "track": "3_02"
+  },
+  {
+    "original": "SO3_B1+_SB_3B_Audio_3_03.mp3",
+    "file": "/audio/3B_3_03.mp3",
+    "code": "3B",
+    "track": "3_03"
+  },
+  {
+    "original": "SO3_B1+_SB_3B_Audio_3_04.mp3",
+    "file": "/audio/3B_3_04.mp3",
+    "code": "3B",
+    "track": "3_04"
+  },
+  {
+    "original": "SO3_B1+_SB_3B_Audio_3_05.mp3",
+    "file": "/audio/3B_3_05.mp3",
+    "code": "3B",
+    "track": "3_05"
+  },
+  {
+    "original": "SO3_B1+_SB_3C_Audio_3_06.mp3",
+    "file": "/audio/3C_3_06.mp3",
+    "code": "3C",
+    "track": "3_06"
+  },
+  {
+    "original": "SO3_B1+_SB_3C_Audio_3_07.mp3",
+    "file": "/audio/3C_3_07.mp3",
+    "code": "3C",
+    "track": "3_07"
+  },
+  {
+    "original": "SO3_B1+_SB_3C_Audio_3_08.mp3",
+    "file": "/audio/3C_3_08.mp3",
+    "code": "3C",
+    "track": "3_08"
+  },
+  {
+    "original": "SO3_B1+_SB_3C_Audio_MB3_01.mp3",
+    "file": "/audio/3C_MB3_01.mp3",
+    "code": "3C",
+    "track": "MB3_01"
+  },
+  {
+    "original": "SO3_B1+_SB_3C_Audio_VB3_01.mp3",
+    "file": "/audio/3C_VB3_01.mp3",
+    "code": "3C",
+    "track": "VB3_01"
+  },
+  {
+    "original": "SO3_B1+_SB_3R_Audio_R3_01.mp3",
+    "file": "/audio/3R_R3_01.mp3",
+    "code": "3R",
+    "track": "R3_01"
+  },
+  {
+    "original": "SO3_B1+_SB_4A_Audio_4_01.mp3",
+    "file": "/audio/4A_4_01.mp3",
+    "code": "4A",
+    "track": "4_01"
+  },
+  {
+    "original": "SO3_B1+_SB_4B_Audio_4_02.mp3",
+    "file": "/audio/4B_4_02.mp3",
+    "code": "4B",
+    "track": "4_02"
+  },
+  {
+    "original": "SO3_B1+_SB_4B_Audio_4_03.mp3",
+    "file": "/audio/4B_4_03.mp3",
+    "code": "4B",
+    "track": "4_03"
+  },
+  {
+    "original": "SO3_B1+_SB_4C_Audio_4_04.mp3",
+    "file": "/audio/4C_4_04.mp3",
+    "code": "4C",
+    "track": "4_04"
+  },
+  {
+    "original": "SO3_B1+_SB_4C_Audio_4_05.mp3",
+    "file": "/audio/4C_4_05.mp3",
+    "code": "4C",
+    "track": "4_05"
+  },
+  {
+    "original": "SO3_B1+_SB_4D_Audio_4_06.mp3",
+    "file": "/audio/4D_4_06.mp3",
+    "code": "4D",
+    "track": "4_06"
+  },
+  {
+    "original": "SO3_B1+_SB_4R_Audio_R4_01.mp3",
+    "file": "/audio/4R_R4_01.mp3",
+    "code": "4R",
+    "track": "R4_01"
+  },
+  {
+    "original": "SO3_B1+_SB_5A_Audio_5_01.mp3",
+    "file": "/audio/5A_5_01.mp3",
+    "code": "5A",
+    "track": "5_01"
+  },
+  {
+    "original": "SO3_B1+_SB_5A_Audio_5_02.mp3",
+    "file": "/audio/5A_5_02.mp3",
+    "code": "5A",
+    "track": "5_02"
+  },
+  {
+    "original": "SO3_B1+_SB_5A_Audio_5_03.mp3",
+    "file": "/audio/5A_5_03.mp3",
+    "code": "5A",
+    "track": "5_03"
+  },
+  {
+    "original": "SO3_B1+_SB_5B_Audio_5_04.mp3",
+    "file": "/audio/5B_5_04.mp3",
+    "code": "5B",
+    "track": "5_04"
+  },
+  {
+    "original": "SO3_B1+_SB_5B_Audio_VB5_01.mp3",
+    "file": "/audio/5B_VB5_01.mp3",
+    "code": "5B",
+    "track": "VB5_01"
+  },
+  {
+    "original": "SO3_B1+_SB_5C_Audio_5_05.mp3",
+    "file": "/audio/5C_5_05.mp3",
+    "code": "5C",
+    "track": "5_05"
+  },
+  {
+    "original": "SO3_B1+_SB_5C_Audio_5_06.mp3",
+    "file": "/audio/5C_5_06.mp3",
+    "code": "5C",
+    "track": "5_06"
+  },
+  {
+    "original": "SO3_B1+_SB_5C_Audio_5_07.mp3",
+    "file": "/audio/5C_5_07.mp3",
+    "code": "5C",
+    "track": "5_07"
+  },
+  {
+    "original": "SO3_B1+_SB_5C_Audio_MB5_01.mp3",
+    "file": "/audio/5C_MB5_01.mp3",
+    "code": "5C",
+    "track": "MB5_01"
+  },
+  {
+    "original": "SO3_B1+_SB_5R_Audio_R5_01.mp3",
+    "file": "/audio/5R_R5_01.mp3",
+    "code": "5R",
+    "track": "R5_01"
+  },
+  {
+    "original": "SO3_B1+_SB_6A_Audio_6_01.mp3",
+    "file": "/audio/6A_6_01.mp3",
+    "code": "6A",
+    "track": "6_01"
+  },
+  {
+    "original": "SO3_B1+_SB_6A_Audio_6_02.mp3",
+    "file": "/audio/6A_6_02.mp3",
+    "code": "6A",
+    "track": "6_02"
+  },
+  {
+    "original": "SO3_B1+_SB_6B_Audio_6_03.mp3",
+    "file": "/audio/6B_6_03.mp3",
+    "code": "6B",
+    "track": "6_03"
+  },
+  {
+    "original": "SO3_B1+_SB_6C_Audio_6_04.mp3",
+    "file": "/audio/6C_6_04.mp3",
+    "code": "6C",
+    "track": "6_04"
+  },
+  {
+    "original": "SO3_B1+_SB_6C_Audio_6_05.mp3",
+    "file": "/audio/6C_6_05.mp3",
+    "code": "6C",
+    "track": "6_05"
+  },
+  {
+    "original": "SO3_B1+_SB_6C_Audio_6_06.mp3",
+    "file": "/audio/6C_6_06.mp3",
+    "code": "6C",
+    "track": "6_06"
+  },
+  {
+    "original": "SO3_B1+_SB_6C_Audio_MB6_01.mp3",
+    "file": "/audio/6C_MB6_01.mp3",
+    "code": "6C",
+    "track": "MB6_01"
+  },
+  {
+    "original": "SO3_B1+_SB_6D_Audio_6_07.mp3",
+    "file": "/audio/6D_6_07.mp3",
+    "code": "6D",
+    "track": "6_07"
+  },
+  {
+    "original": "SO3_B1+_SB_6R_Audio_R6_01.mp3",
+    "file": "/audio/6R_R6_01.mp3",
+    "code": "6R",
+    "track": "R6_01"
+  },
+  {
+    "original": "SO3_B1+_SB_7A_Audio_7_01.mp3",
+    "file": "/audio/7A_7_01.mp3",
+    "code": "7A",
+    "track": "7_01"
+  },
+  {
+    "original": "SO3_B1+_SB_7A_Audio_7_02.mp3",
+    "file": "/audio/7A_7_02.mp3",
+    "code": "7A",
+    "track": "7_02"
+  },
+  {
+    "original": "SO3_B1+_SB_7A_Audio_7_03.mp3",
+    "file": "/audio/7A_7_03.mp3",
+    "code": "7A",
+    "track": "7_03"
+  },
+  {
+    "original": "SO3_B1+_SB_7A_Audio_7_04.mp3",
+    "file": "/audio/7A_7_04.mp3",
+    "code": "7A",
+    "track": "7_04"
+  },
+  {
+    "original": "SO3_B1+_SB_7B_Audio_7_05.mp3",
+    "file": "/audio/7B_7_05.mp3",
+    "code": "7B",
+    "track": "7_05"
+  },
+  {
+    "original": "SO3_B1+_SB_7B_Audio_VB7_01.mp3",
+    "file": "/audio/7B_VB7_01.mp3",
+    "code": "7B",
+    "track": "VB7_01"
+  },
+  {
+    "original": "SO3_B1+_SB_7C_Audio_7_06.mp3",
+    "file": "/audio/7C_7_06.mp3",
+    "code": "7C",
+    "track": "7_06"
+  },
+  {
+    "original": "SO3_B1+_SB_7C_Audio_7_07.mp3",
+    "file": "/audio/7C_7_07.mp3",
+    "code": "7C",
+    "track": "7_07"
+  },
+  {
+    "original": "SO3_B1+_SB_7C_Audio_7_08.mp3",
+    "file": "/audio/7C_7_08.mp3",
+    "code": "7C",
+    "track": "7_08"
+  },
+  {
+    "original": "SO3_B1+_SB_7C_Audio_7_09.mp3",
+    "file": "/audio/7C_7_09.mp3",
+    "code": "7C",
+    "track": "7_09"
+  },
+  {
+    "original": "SO3_B1+_SB_7C_Audio_7_10.mp3",
+    "file": "/audio/7C_7_10.mp3",
+    "code": "7C",
+    "track": "7_10"
+  },
+  {
+    "original": "SO3_B1+_SB_7R_Audio_R7_01.mp3",
+    "file": "/audio/7R_R7_01.mp3",
+    "code": "7R",
+    "track": "R7_01"
+  },
+  {
+    "original": "SO3_B1+_SB_8A_Audio_8_01.mp3",
+    "file": "/audio/8A_8_01.mp3",
+    "code": "8A",
+    "track": "8_01"
+  },
+  {
+    "original": "SO3_B1+_SB_8B_Audio_8_02.mp3",
+    "file": "/audio/8B_8_02.mp3",
+    "code": "8B",
+    "track": "8_02"
+  },
+  {
+    "original": "SO3_B1+_SB_8B_Audio_8_03.mp3",
+    "file": "/audio/8B_8_03.mp3",
+    "code": "8B",
+    "track": "8_03"
+  },
+  {
+    "original": "SO3_B1+_SB_8B_Audio_8_04.mp3",
+    "file": "/audio/8B_8_04.mp3",
+    "code": "8B",
+    "track": "8_04"
+  },
+  {
+    "original": "SO3_B1+_SB_8B_Audio_VB8_01.mp3",
+    "file": "/audio/8B_VB8_01.mp3",
+    "code": "8B",
+    "track": "VB8_01"
+  },
+  {
+    "original": "SO3_B1+_SB_8C_Audio_8_05.mp3",
+    "file": "/audio/8C_8_05.mp3",
+    "code": "8C",
+    "track": "8_05"
+  },
+  {
+    "original": "SO3_B1+_SB_8C_Audio_8_06.mp3",
+    "file": "/audio/8C_8_06.mp3",
+    "code": "8C",
+    "track": "8_06"
+  },
+  {
+    "original": "SO3_B1+_SB_8C_Audio_8_07.mp3",
+    "file": "/audio/8C_8_07.mp3",
+    "code": "8C",
+    "track": "8_07"
+  },
+  {
+    "original": "SO3_B1+_SB_8C_Audio_MB8_01.mp3",
+    "file": "/audio/8C_MB8_01.mp3",
+    "code": "8C",
+    "track": "MB8_01"
+  },
+  {
+    "original": "SO3_B1+_SB_8R_Audio_R8_01.mp3",
+    "file": "/audio/8R_R8_01.mp3",
+    "code": "8R",
+    "track": "R8_01"
+  }
+]
