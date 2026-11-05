@@ -5,6 +5,7 @@ import { useProgress } from '../lib/progress'
 import { playSound } from '../lib/sounds'
 import { burstConfetti } from '../lib/confetti'
 import PageViewer from '../components/PageViewer'
+import PageText from '../components/PageText'
 import { AudioList } from '../components/AudioPlayer'
 import { VideoList } from '../components/VideoCard'
 import Quiz from '../components/Quiz'
@@ -147,6 +148,7 @@ export default function LessonPage() {
               action={<span className="rounded-full bg-[var(--bg)] px-2 py-0.5 text-[10px] text-[var(--ink-faint)]">pp. {lesson.pages[0]}–{lesson.pages[1]}</span>}
             />
             <PageViewer pages={lesson.pdfPages} printedPages={pageNumbers(lesson.pages)} title={`${lesson.code} ${lesson.title}`} />
+            <PageText pages={lesson.pdfPages} printedPages={pageNumbers(lesson.pages)} />
           </section>
 
           {otherPages.length > 0 && (
@@ -158,6 +160,7 @@ export default function LessonPage() {
                 action={<span className="rounded-full bg-[var(--bg)] px-2 py-0.5 text-[10px] text-[var(--ink-faint)]">pp. {unit.pages[0]}–{unit.pages[1]}</span>}
               />
               <PageViewer pages={otherPages} printedPages={otherPrintedPages} title={`Unit ${unit.number}`} />
+              <PageText pages={otherPages} printedPages={otherPrintedPages} />
             </section>
           )}
 

@@ -26,6 +26,7 @@ export function VideoCard({
 }) {
   const [started, setStarted] = useState(false)
   const [failed, setFailed] = useState(false)
+  const [showScript, setShowScript] = useState(false)
   const src = asset(video.file)
 
   return (
@@ -83,6 +84,24 @@ export function VideoCard({
           <span className="rounded-full bg-[var(--bg)] px-2 py-0.5 text-[10px] font-semibold text-[var(--ink-soft)] ring-1 ring-[var(--line)]">
             {started ? 'Video' : 'Click to play'}
           </span>
+        </div>
+      )}
+
+      {video.transcript && (
+        <div className="border-t border-[var(--line)] px-4 py-3">
+          <button
+            type="button"
+            onClick={() => setShowScript((value) => !value)}
+            className="rounded-full border border-[var(--line)] px-2.5 py-1 text-[11px] font-semibold text-[var(--ink-soft)] transition hover:border-brand-500 hover:text-brand-600 dark:hover:text-brand-300"
+            aria-expanded={showScript}
+          >
+            {showScript ? 'Hide script' : 'Show script'}
+          </button>
+          {showScript && (
+            <div className="mt-2 max-h-72 overflow-auto whitespace-pre-line rounded-lg bg-[var(--bg)] p-3 text-[13px] leading-relaxed text-[var(--ink-soft)]">
+              {video.transcript}
+            </div>
+          )}
         </div>
       )}
     </article>

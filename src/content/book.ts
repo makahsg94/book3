@@ -1,6 +1,7 @@
 import type { AudioTrack, Lesson, Unit, VideoRef } from '../types'
 import audioFiles from './audio-files.json'
 import videoFiles from './video-files.json'
+import transcripts from './transcripts.json'
 import { grammarByCode } from './grammar'
 import { vocabByCode } from './vocabulary'
 import { unitQuizzes } from './quizzes'
@@ -15,10 +16,26 @@ function trackLabel(track: string) {
   return track.replace('_', '.')
 }
 
+const audioTranscripts = transcripts.audio as Record<string, string>
+const videoTranscripts = transcripts.video as Record<string, string>
+
+// "VB1_01" -> "VB 1.01", "R1_01" -> "R 1.01", "1_01" -> "1.01"
+function transcriptKey(track: string) {
+  const match = track.match(/^(VB|MB|R)?(\d+)_(\d+)$/)
+  if (!match) return track
+  const [, prefix, unit, number] = match
+  return `${prefix ? `${prefix} ` : ''}${unit}.${number}`
+}
+
 const audioByCode: Record<string, AudioTrack[]> = {}
 for (const item of audioFiles as RawAudio[]) {
   const list = (audioByCode[item.code] ??= [])
-  list.push({ label: trackLabel(item.track), file: item.file, note: item.track })
+  list.push({
+    label: trackLabel(item.track),
+    file: item.file,
+    note: item.track,
+    transcript: audioTranscripts[transcriptKey(item.track)],
+  })
 }
 
 const videosByUnit: Record<number, VideoRef[]> = {}
@@ -33,6 +50,7 @@ for (const item of videoFiles as RawVideo[]) {
     title: videoTitles[item.kind],
     file: item.file,
     kind: item.kind,
+    transcript: videoTranscripts[`${item.unit}:${item.kind}`],
   })
 }
 

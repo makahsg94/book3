@@ -3,6 +3,7 @@ export interface AudioTrack {
   file: string
   page?: number
   note?: string
+  transcript?: string
 }
 
 export interface VideoRef {
@@ -10,6 +11,7 @@ export interface VideoRef {
   file: string
   kind: 'streetint' | 'vlogs' | 'programmes'
   note?: string
+  transcript?: string
 }
 
 export interface VocabItem {
