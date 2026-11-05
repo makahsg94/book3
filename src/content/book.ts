@@ -843,6 +843,7 @@ export const units: Unit[] = unitSeeds.map((seed) => {
     question: seed.question,
     intro: seed.intro,
     pages: seed.pages,
+    pdfPages: pdfRange(seed.pages),
     overviewPdf: seed.pages[0] - 1,
     objectives: seed.objectives,
     videos,

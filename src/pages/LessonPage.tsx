@@ -23,6 +23,10 @@ import {
   IconVideo,
 } from '../components/Icons'
 
+function pageNumbers([from, to]: [number, number]) {
+  return Array.from({ length: to - from + 1 }, (_, index) => from + index)
+}
+
 function GrammarParagraphs({ paragraphs }: { paragraphs: string[] }) {
   return (
     <div className="prose-book max-w-none text-sm leading-relaxed text-[var(--ink-soft)]">
@@ -83,6 +87,9 @@ export default function LessonPage() {
   const done = isComplete(unit.number, lesson.id)
   const prev = previousLesson(String(unit.number), lesson.id)
   const next = nextLesson(String(unit.number), lesson.id)
+  const unitPrintedPages = pageNumbers(unit.pages)
+  const otherPages = unit.pdfPages.filter((page) => !lesson.pdfPages.includes(page))
+  const otherPrintedPages = unitPrintedPages.filter((_, index) => !lesson.pdfPages.includes(unit.pdfPages[index]))
   const labels = [
     lesson.labels.skills && { label: lesson.labels.skills, tone: 'warm' as const },
     lesson.labels.grammar && { label: lesson.labels.grammar, tone: 'brand' as const },
@@ -139,8 +146,20 @@ export default function LessonPage() {
               hint="Click any page to open the full-size image."
               action={<span className="rounded-full bg-[var(--bg)] px-2 py-0.5 text-[10px] text-[var(--ink-faint)]">pp. {lesson.pages[0]}–{lesson.pages[1]}</span>}
             />
-            <PageViewer pages={lesson.pdfPages} title={`${lesson.code} ${lesson.title}`} />
+            <PageViewer pages={lesson.pdfPages} printedPages={pageNumbers(lesson.pages)} title={`${lesson.code} ${lesson.title}`} />
           </section>
+
+          {otherPages.length > 0 && (
+            <section>
+              <SectionTitle
+                icon={<IconBook size={17} className="text-brand-600" />}
+                title={`Rest of Unit ${unit.number}`}
+                hint={`The other ${otherPages.length} page${otherPages.length === 1 ? '' : 's'} of this unit, after the lesson pages above.`}
+                action={<span className="rounded-full bg-[var(--bg)] px-2 py-0.5 text-[10px] text-[var(--ink-faint)]">pp. {unit.pages[0]}–{unit.pages[1]}</span>}
+              />
+              <PageViewer pages={otherPages} printedPages={otherPrintedPages} title={`Unit ${unit.number}`} />
+            </section>
+          )}
 
           <section>
             <SectionTitle icon={<IconEar size={17} className="text-accent-600" />} title="Listen" hint={`${lesson.audio.length} audio track${lesson.audio.length === 1 ? '' : 's'} for ${lesson.code}.`} />

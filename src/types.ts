@@ -77,6 +77,7 @@ export interface Unit {
   question: string
   intro: string
   pages: [number, number]
+  pdfPages: number[]
   overviewPdf: number
   objectives: string[]
   videos: VideoRef[]

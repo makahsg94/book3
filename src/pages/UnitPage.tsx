@@ -71,7 +71,7 @@ export default function UnitPage() {
 
       <section className="grid gap-5 md:grid-cols-[0.8fr_1.2fr]">
         <div>
-          <PageViewer pages={[unit.overviewPdf]} title={`Unit ${unit.number} opener`} compact />
+          <PageViewer pages={[unit.overviewPdf]} printedPages={[unit.pages[0]]} title={`Unit ${unit.number} opener`} compact />
           <p className="mt-2 text-center text-[10px] text-[var(--ink-faint)]">
             Unit opener · printed page {unit.pages[0]}
           </p>
