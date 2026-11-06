@@ -6,6 +6,7 @@ import { useProgress } from '../lib/progress'
 import { pageImage } from '../lib/assets'
 import Reveal from '../components/Reveal'
 import AnimatedBar from '../components/AnimatedBar'
+import LineMap from '../components/LineMap'
 import {
   IconArrowUpRight,
   IconBook,
@@ -182,6 +183,8 @@ export default function HomePage() {
           })}
         </div>
       </section>
+
+      <LineMap />
 
       <section className="grid gap-3 sm:grid-cols-3">
         {[
