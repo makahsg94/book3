@@ -121,8 +121,7 @@ export default function LessonPage() {
         </div>
       </PageHeader>
 
-      <div className="grid gap-6 lg:grid-cols-[1fr_280px]">
-        <div className="min-w-0 space-y-7">
+      <div className="space-y-7">
           <section className="rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4">
             <SectionTitle icon={<IconTarget size={17} className="text-brand-600" />} title="In this lesson" />
             <ul className="grid gap-2 sm:grid-cols-2">
@@ -269,7 +268,7 @@ export default function LessonPage() {
           )}
         </div>
 
-        <aside className="space-y-3 lg:sticky lg:top-28 lg:self-start">
+        <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <div className="rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4">
             <div className="flex items-center justify-between gap-2">
               <p className="text-[10px] font-bold uppercase tracking-[0.16em] text-[var(--ink-faint)]">Your progress</p>
@@ -357,8 +356,7 @@ export default function LessonPage() {
               Open the page image in full screen, then play the audio. Follow the exercise numbers in the book as you listen.
             </p>
           </div>
-        </aside>
-      </div>
+        </div>
 
       <div className="mt-8 flex flex-wrap items-center justify-between gap-3 border-t border-[var(--line)] pt-4">
         <div className="flex gap-2">
