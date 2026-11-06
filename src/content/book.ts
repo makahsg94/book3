@@ -6,6 +6,14 @@ import { grammarByCode } from './grammar'
 import { vocabByCode } from './vocabulary'
 import { unitQuizzes } from './quizzes'
 import { lessonPractice } from './lesson-practice'
+import { unit1Blocks } from './units/unit-01'
+import { unit2Blocks } from './units/unit-02'
+import { unit3Blocks } from './units/unit-03'
+import { unit4Blocks } from './units/unit-04'
+import { unit5Blocks } from './units/unit-05'
+import { unit6Blocks } from './units/unit-06'
+import { unit7Blocks } from './units/unit-07'
+import { unit8Blocks } from './units/unit-08'
 
 type RawAudio = { original: string; file: string; code: string; track: string }
 type RawVideo = { original: string; file: string; unit: number; kind: VideoRef['kind'] }
@@ -845,6 +853,7 @@ export const units: Unit[] = unitSeeds.map((seed) => {
       grammar: grammarByCode[lesson.code],
       vocab: vocabByCode[lesson.code],
       practice: lessonPractice[lesson.code],
+      blocks: ({1:unit1Blocks,2:unit2Blocks,3:unit3Blocks,4:unit4Blocks,5:unit5Blocks,6:unit6Blocks,7:unit7Blocks,8:unit8Blocks})[seed.number]?.[lesson.code],
       quiz: quiz
         ? {
             id: `unit-${seed.number}`,
