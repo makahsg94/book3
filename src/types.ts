@@ -65,6 +65,7 @@ export interface Lesson {
   grammar?: GrammarRef
   vocab?: VocabGroup
   practice?: QuizQuestion[]
+  blocks?: any[]
   quiz?: {
     id: string
     title: string
