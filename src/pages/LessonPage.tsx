@@ -88,9 +88,6 @@ export default function LessonPage() {
   const done = isComplete(unit.number, lesson.id)
   const prev = previousLesson(String(unit.number), lesson.id)
   const next = nextLesson(String(unit.number), lesson.id)
-  const unitPrintedPages = pageNumbers(unit.pages)
-  const otherPages = unit.pdfPages.filter((page) => !lesson.pdfPages.includes(page))
-  const otherPrintedPages = unitPrintedPages.filter((_, index) => !lesson.pdfPages.includes(unit.pdfPages[index]))
   const labels = [
     lesson.labels.skills && { label: lesson.labels.skills, tone: 'warm' as const },
     lesson.labels.grammar && { label: lesson.labels.grammar, tone: 'brand' as const },
@@ -151,23 +148,12 @@ export default function LessonPage() {
             <PageText pages={lesson.pdfPages} printedPages={pageNumbers(lesson.pages)} />
           </section>
 
-          {otherPages.length > 0 && (
+          {lesson.audio.length > 0 && (
             <section>
-              <SectionTitle
-                icon={<IconBook size={17} className="text-brand-600" />}
-                title={`Rest of Unit ${unit.number}`}
-                hint={`The other ${otherPages.length} page${otherPages.length === 1 ? '' : 's'} of this unit, after the lesson pages above.`}
-                action={<span className="rounded-full bg-[var(--bg)] px-2 py-0.5 text-[10px] text-[var(--ink-faint)]">pp. {unit.pages[0]}–{unit.pages[1]}</span>}
-              />
-              <PageViewer pages={otherPages} printedPages={otherPrintedPages} title={`Unit ${unit.number}`} />
-              <PageText pages={otherPages} printedPages={otherPrintedPages} />
+              <SectionTitle icon={<IconEar size={17} className="text-accent-600" />} title="Listen" hint={`${lesson.audio.length} audio track${lesson.audio.length === 1 ? '' : 's'} for ${lesson.code}.`} />
+              <AudioList tracks={lesson.audio} />
             </section>
           )}
-
-          <section>
-            <SectionTitle icon={<IconEar size={17} className="text-accent-600" />} title="Listen" hint={`${lesson.audio.length} audio track${lesson.audio.length === 1 ? '' : 's'} for ${lesson.code}.`} />
-            <AudioList tracks={lesson.audio} />
-          </section>
 
           {lesson.videos.length > 0 && (
             <section>
@@ -233,20 +219,26 @@ export default function LessonPage() {
             <section>
               <SectionTitle
                 icon={<IconTarget size={17} className="text-brand-600" />}
-                title="Lesson practice"
-                hint={`Exercises from ${lesson.code} — choose an answer and check it.`}
+                title="Lesson test"
+                hint={`${lesson.practice.length} questions on ${lesson.code} — choose an answer and check it.`}
               />
               <Quiz
                 id={`practice-${lesson.code}`}
-                title={`${lesson.code} practice`}
+                title={`${lesson.code} test`}
                 questions={lesson.practice}
+                onPass={() => {
+                  if (!done) {
+                    toggle(unit.number, lesson.id)
+                    playSound('correct')
+                  }
+                }}
               />
             </section>
           )}
 
           {lesson.quiz && (
             <section>
-              <SectionTitle icon={<IconTarget size={17} className="text-accent-600" />} title="Practice" hint="Check your grammar and vocabulary from this unit." />
+              <SectionTitle icon={<IconTarget size={17} className="text-accent-600" />} title="Lesson test" hint="Check your grammar and vocabulary from this unit." />
               <Quiz
                 id={lesson.quiz.id}
                 title={lesson.quiz.title}

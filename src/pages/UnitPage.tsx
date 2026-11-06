@@ -2,6 +2,7 @@ import { Link, useParams } from 'react-router-dom'
 import { getUnit } from '../content/book'
 import { useProgress } from '../lib/progress'
 import PageViewer from '../components/PageViewer'
+import PageText from '../components/PageText'
 import LessonCard from '../components/LessonCard'
 import { PageHeader } from '../components/PageHeader'
 import AnimatedBar from '../components/AnimatedBar'
@@ -37,6 +38,8 @@ export default function UnitPage() {
   const audioCount = unit.lessons.reduce((total, lesson) => total + lesson.audio.length, 0)
   const review = unit.lessons.find((lesson) => lesson.quiz)
   const first = unit.lessons[0]
+  const printedPages = unit.pdfPages.map((page) => page + 1)
+  const openerCount = first.pages[0] - unit.pages[0]
 
   return (
     <div>
@@ -138,6 +141,21 @@ export default function UnitPage() {
             <LessonCard key={lesson.id} unit={unit} lesson={lesson} />
           ))}
         </div>
+      </section>
+
+      <section className="mt-8">
+        <div className="mb-3">
+          <h2 className="flex items-center gap-2 text-base font-bold">
+            <IconLayers size={18} className="text-brand-600" />
+            All pages in Unit {unit.number}
+          </h2>
+          <p className="mt-0.5 text-xs text-[var(--ink-faint)]">
+            The complete unit, including the {openerCount === 1 ? 'opener page' : `${openerCount} opener pages`} and every
+            lesson page — pp. {unit.pages[0]}–{unit.pages[1]}.
+          </p>
+        </div>
+        <PageViewer pages={unit.pdfPages} printedPages={printedPages} title={`Unit ${unit.number} — ${unit.title}`} />
+        <PageText pages={unit.pdfPages} printedPages={printedPages} />
       </section>
 
       {unit.videos.length > 0 && (
