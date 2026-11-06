@@ -106,9 +106,7 @@ ZV A
 297 7 A \\ /
 “ 1 ———-
 20 \\ A [5
-J OC EB) aS
-
-2A
+J OC EB) aS`,`2A
 3 A Work in pairs. Discuss the questions. the habits we’d like to change
 1 Have you ever tried to stop a bad habit or build
 a new positive habit? What happened?
@@ -171,9 +169,7 @@ who is trying to break a bad habit? coffee makes you feel nervous and you know i
 for you; your goal is to be a healthier person. Say it
 to yourself, out loud. You'll be surprised how much
 motivation you'll feel.
-21
-
-Unit2 | Lesson A
+21`,`Unit2 | Lesson A
 GRAMMAR SPEAKING
 present perfect continuous 8 A Make alist of three to five lifestyle habits you want to
 6A Fi 5 change, and how long you've had each habit. Include
@@ -293,9 +289,7 @@ B 2.03 | Work in pairs and listen. Say what's happening in 7 or fewer ticks: You
 each situation. Use the correct form of the phrases in bold You don't let other people's expectations and feelings
 in Ex 2A. direct your actions.
 1 He’s happy to help.
-23
-
-Unit2 | Lesson B
+23`,`Unit2 | Lesson B
 LISTENING PRONUNCIATION
 6A | chunking in relative clauses | Work in pairs and look at the
 3A)z2.0a | Listen to the podcast. Are all sentence below. Find a relative clause and the noun it refers to.
@@ -358,9 +352,7 @@ C Learn and practise. Go to the A: | think preparing in advance would work becau
 Grammar Bank. you time to think about what to say.
 [J page 109 GRAMMAR BANK B: I don’t think it would work for me. I'd forget what I'd planned
 to say!
-24
-
-2B
+24`,`2B
 WRITING 1 1 A Look at the sentences from emails (1-8). Are they
 saying no (N), giving areason (R) or giving an
 emails to decline invitations alternative suggestion (A)?
@@ -483,9 +475,7 @@ A: 1 hate it when | can see someone who needs help
 So, those are our pet hates. and no one else reacts to the situation.
 What are yours? B: Yes, | hate that, too. They just ignore the person
 and pretend they don't see or they’re too busy.
-26
-
-«Nv dr 2C
+26`,`«Nv dr 2C
 . »
 an
 - ¥.
@@ -595,9 +585,7 @@ skunk spider wasp
 choose between fighting to make his home in a tree or J
 finding a way to escape. Will he survive? 2 What do you think the ‘fight, flight or freeze
 responses’ to danger mean?
-28
-
-=r 2D
+28`,`=r 2D
 p. .
 #
 % 2
@@ -783,9 +771,7 @@ useful for you? and started writing by 7.15, finishing her day’s work by
 the most balanced? with a swim in the sea. Then he wrote from 9 till noon, had
 3 Which writer's routine is most like yours? lunch and a nap and worked more from 5 p.m. He had a
 goal of 500 words per day.
-32
-
-3A
+32`,`3A
 VOCABULARY
 B Complete the conversations with the correct
 work phrases form of phrases from Ex 3A.
@@ -833,14 +819,10 @@ B: No, you should get it done now.
 4
 5 workin pairs and discuss the questions. When
 Not every author hides from the internet. Bernardine you answer, give extra information.
-Evaristo starts her day with two cups of coffee, then . .
-
-. . 1 Do you usually get a lot done in the morning?
+Evaristo starts her day with two cups of coffee, then . .`,`. . 1 Do you usually get a lot done in the morning?
 goes online to catch up on the news and opinions 2 FE vou TEELsaR yaa Fall Bair sched ala
 about what's happening. She starts work after that and om he ons y ———— ’
-keeps at it till 9 p.m., but not without taking breaks to Oy ED, dEreasIEias ks BLO Ene Wey
-
-) . before you start difficult tasks?
+keeps at it till 9 p.m., but not without taking breaks to Oy ED, dEreasIEias ks BLO Ene Wey`,`) . before you start difficult tasks?
 exercise and take a siesta. : : ’
 4 Do you easily lose concentration when you're
 And not every writer writes at home. Poet and novelist working or studying?
@@ -850,90 +832,40 @@ she started writing. But wherever you work, if you follow 6 Is it important to k
 the advice of these writers and use your time wisely, you 7 Are you good at meeting deadlines?
 can get alot done, or at least you can finish your work 8 Do you usually deal well with unexpected
 day faster and get away from your desk sooner! problems?
-33
-
-Unit 3 | Lesson A
+33`,`Unit 3 | Lesson A
 GRAMMAR SPEAKING
 conditional structures: unless, 8A Whatis your approach to working or studying from home? Complete or
 even if, in case (of) change the sentences with your own ideas.
-6A Choose the correct words to " f : aed 4a > & “i
-
-complete the sentences. Pon THE WORK/STUDY DAY %
-
-1 If / In case you get difficult tasks EY three things I doare ... 4 ~
+6A Choose the correct words to " f : aed 4a > & “i`,"complete the sentences. Pon THE WORK/STUDY DAY %",`1 If / In case you get difficult tasks EY three things I doare ... 4 ~
 out of the way, you'll feel more Bn & 8 a
-relaxed later on. wo : A
-
-2 Unless / If you are very focused, I FF = [=
+relaxed later on. wo : A`,`2 Unless / If you are very focused, I FF = [=
 you'll find too many distractions i Ll )) p TT.
-and excuses NOT to work. : _— &] .
-
-3 Evenif / In case you live in a tiny ELE nm —_ a
+and excuses NOT to work. : _— &] .`,`3 Evenif / In case you live in a tiny ELE nm —_ a
 apartment in the middle of the ’ DAILY SCHEDULE Te a
 city, you need to find a way to do " lkeeptoa rc \\e and work/stu SN
-some sort of movement every day. ar a = le = 4
-
-4 She uses internet-blocking software EC . ;
+some sort of movement every day. ar a = le = 4`,`4 She uses internet-blocking software EC . ;
 on her laptop in case of / in case . : : :
 she feels like reacting to news or EQUIPMENT (COMPUTER, PAPER, PEN, PHONE)
-messages. The most important things
-
-| have around me are ... f———
-B Find words or phrases in Ex 6A : 5 | i
-
-which mean: by He SRE
-
-1 despite the fact that \\ I ei a 7 =
-
-2 if not OAS
-
-3 because (you/he/she) might a,
-
-a INTERNET AND PHONE ACCESS
+messages. The most important things`,`| have around me are ... f———
+B Find words or phrases in Ex 6A : 5 | i`,"which mean: by He SRE","1 despite the fact that \\ I ei a 7 =","2 if not OAS","3 because (you/he/she) might a,",`a INTERNET AND PHONE ACCESS
 C Learn and practise. Go to the Sn lp | (would) only cut off the internet if ...
 Grammar Bank. | never switch off my phone in case ...
 | d page 111 GRAMMAR BANK - 8 KING BREAKS + He) Sp Bom eh) = I
 | think you shou Id take reg ular breaks even if Pe RPELS N 5 Te =
 7A Complete the sentences with unless, ; LIK YO! Hh dias [egal a Fa id FEAL a ML ATT Er
-5 ; . I take a __-minute break every hours. Sen AE YA
-
-even if, in case (of) or if. ea Wa hahaa th, el : : % i 7
-
-1 | can’t work 1 have people pha iy) ys de te py &
+5 ; . I take a __-minute break every hours. Sen AE YA`,"even if, in case (of) or if. ea Wa hahaa th, el : : % i 7",`1 | can’t work 1 have people pha iy) ys de te py &
 around me. | like being able to | & Hea i FETs Sars 5 - U8 hes \\ VB ay
 share ideas with others and | get 4 ER 3 ; > 4 f 4 IN
-lonely when I'm working by myself. 4 414 AD | E— A /, \\ a
-
-2 I turn off my phone, | still mr ¢ 0 ea EERIE a
-find a way to check my messages. ~~. nmeme
-
-3 | always keep food at my desk ae ~
-| get hungry. / == = =
-
-4 | have music on in the : or =
+lonely when I'm working by myself. 4 414 AD | E— A /, \\ a`,`2 I turn off my phone, | still mr ¢ 0 ea EERIE a
+find a way to check my messages. ~~. nmeme`,`3 | always keep food at my desk ae ~
+| get hungry. / == = =`,`4 | have music on in the : or =
 background when I'm working, SOCIALISING
 | lose concentration. | don't like If | don't talk to someone every | E {3 ]
-working in silence. SEINE
-
-5 | could choose, I'd like to Pp | ?
+working in silence. SEINE`,`5 | could choose, I'd like to Pp | ?
 have a mixture of studying online pe (
-and face to face. ; Nn
-
-B Change the sentences so that they . i E a
-
-are true for you. a Wee \\\\ l = =
-
-| always keep a bar of chocolate in =~ w= A
-
-my bag in case | get hungry. ts - wr be ENDING THE DAY
-
-NE ; | stop working (when?) even if... -
+and face to face. ; Nn`,"B Change the sentences so that they . i E a","are true for you. a Wee \\\\ l = =","| always keep a bar of chocolate in =~ w= A","my bag in case | get hungry. ts - wr be ENDING THE DAY",`NE ; | stop working (when?) even if... -
 C Work in pairs and take turns reading == go peo mE =
-out your sentences. Do you do the
-
-same things as your partner? B Work in pairs and take turns. Student A: Talk about your ideas for two
-
-minutes. Student B: Listen and ask questions. Which ideas would you like
+out your sentences. Do you do the`,"same things as your partner? B Work in pairs and take turns. Student A: Talk about your ideas for two",`minutes. Student B: Listen and ask questions. Which ideas would you like
 to ‘borrow’ from each other?
 C Work with a new partner. Compare the different ideas you have each
 discussed. Choose the three ideas you like best.
@@ -990,9 +922,7 @@ of y my life? What do I have to be careful of, and will I earn enough to survive
 oh Join our webinar this Saturday at 3 p.m. EST to find out answers to these and
 \\ j many other questions. Our guest host is Andrea Butcher, an employment advisor,
 \\ and two special guests who will share their years of experience as gig workers.
-Click here to sign up.
-
-Unit3 | Lesson B
+Click here to sign up.`,`Unit3 | Lesson B
 LISTENING PRONUNCIATION
 6A | elision of /t/ | Work in pairs. Which phrases for
 3 A Work in pairs and list the advantages and necessity, obligation and permission in Ex 5A have
@@ -1057,9 +987,7 @@ Everyone agreed that ...
 D Learn and practise. Go to the Grammar Bank. | found it very interesting/surprising that ...
 | 4 page 112 GRAMMAR BANK Two people said they think that ...
 There were mixed opinions about ...
-36
-
-WRITING 9 A Read the cover email for an application to one of the jobs
+36`,`WRITING 9 A Read the cover email for an application to one of the jobs
 in Ex 8. Which job is the person applying for?
 a cover email for a job application
 N Gi Dear Ms Patel, ©
@@ -1178,9 +1106,7 @@ Me: I'm so glad you asked that ... ™ page 133 VOCABULARY BANK
 Of course | didn't get the job, but | learned a few important lessons. Begabve frefies
 Prepare for the basics. Remember why you're there. And be honest, but
 not too honest.
-38
-
-3C
+38`,`3C
 H ow to eee 7 A Read the Future Skills box and do the task.
 take part in an interview
 FUTURE SKILLS
@@ -1296,9 +1222,7 @@ Q2: Which would you prefer to be... ? 2 | would / had rather be a teacher.
 an author onan engimest: B Learn and practise. Go to the Grammar Bank.
 - afarmer or a politician?
 Ld page 114 GRAMMAR BANK
-40
-
-ol - - AS
+40`,`ol - - AS
 \\ i \\ 3D
 |} > { - < ,
 » E RQ
@@ -1486,9 +1410,7 @@ was over, but the story
 got a second life when it
 was made into a film. [ A
 a it CY
-44 =
-
-p 4A
+44 =`,`p 4A
 - fe
 -
 1 »! . :
@@ -1546,9 +1468,7 @@ Which letters are silent? Listen to check. Buk,
 6 listen
 B £44.01] Listen again and repeat the words. 8 FEE TEN NEE Eo ni
 your partner’s sentences true or false?
-45
-
-| SPEAKING | 7 A Work in pairs. Student A: Read text A. Student B: Read text B.
+45`,`| SPEAKING | 7 A Work in pairs. Student A: Read text A. Student B: Read text B.
 Answer the questions (1-5). Take turns to tell your story and
 6 You are going to retell the story of a hoax. add your own comments.
 First, read the Future Skills box and answer 1 What did they pretend?
@@ -1657,9 +1577,7 @@ questions to ask your partner. Use the correct intonation. vy A
 + Doyou know... 7? e Didn't...?
 |
 - i
-47
-
-Unit4 | Lesson B
+47`,`Unit4 | Lesson B
 LISTENING VOCABULARY
 4 [)4.03| You are going to adjectives to describe films
 listen to people discussing their a . "
@@ -1725,23 +1643,9 @@ Octopus [IN DEER Jaa. OY - © :
 » WN Yy Pe ~ a ~ La
 5 Teacher SESS NA Ca Be :
 Directors: Philippa Ehrlich, James Reed ——— — : “a 7 4 Sa Rix — - > :
--~ ES Sa Te JE a >
-
-4B
+-~ ES Sa Te JE a >`,`4B
 SPEAKING WRITING
-6a Imagine you have an idea for a areview
-
-documentary and you need to pitch your " . 5 be 353
-
-idea to the class to get funding. You are 7a Read the film review. What four things does the writer like about
-
-going to plan the documentary and make the film?
-
-a prereLal to the class. Think about B Which of these are included in the review of Parasite?
-
-these questions. ; : p : : :
-
-. 1 an introduction with background information (e.g., setting,
+6a Imagine you have an idea for a areview`,'documentary and you need to pitch your " . 5 be 353',"idea to the class to get funding. You are 7a Read the film review. What four things does the writer like about","going to plan the documentary and make the film?","a prereLal to the class. Think about B Which of these are included in the review of Parasite?","these questions. ; : p : : :",`. 1 an introduction with background information (e.g., setting,
 + Whatis the documentary about (a actors, director, true story behind the film)
 person, a place, an issue, etc.)? P Fiat
 « What is the title? RP Ae
@@ -1757,43 +1661,15 @@ when you pitch it to the class? (Can you 1 We first see the Kims as they despera
 : : connection.
 compare it to other films?) . .
 2 We watch the Kims cleverly deceive the Parks.
-B Work in groups. Agree on an idea and L .
-
-plan the details using the questions in B Work in pairs and answer the questions.
-
-Ex 6A. 1 Why do we use adverbs?
-
-Wouldn't it be good to film a a to describe how someone does something
-
-documentary about... ? b to describe a person
-
-Isn’t there a ... that’s more ... ? 2 What two letters do many adverbs end in?
-
-Don’t you think it might be better to ... ? 3 What actions could you describe using these adverbs:
-
-dramatically, intelligently, powerfully, slowly, wonderfully?
-C Present your documentary idea to the . . .
-
-class. During other presentations, think C Complete the sentences with the adverbs in the box. Sometimes
-
-of questions for the presenters. Ask them more than one adverb may be possible.
-
-t the end. ( 3 5 :
+B Work in groups. Agree on an idea and L .`,"plan the details using the questions in B Work in pairs and answer the questions.","Ex 6A. 1 Why do we use adverbs?","Wouldn't it be good to film a a to describe how someone does something","documentary about... ? b to describe a person","Isn’t there a ... that’s more ... ? 2 What two letters do many adverbs end in?","Don’t you think it might be better to ... ? 3 What actions could you describe using these adverbs:",`dramatically, intelligently, powerfully, slowly, wonderfully?
+C Present your documentary idea to the . . .`,"class. During other presentations, think C Complete the sentences with the adverbs in the box. Sometimes","of questions for the presenters. Ask them more than one adverb may be possible.",`t the end. ( 3 5 :
 attheen | dramatically intelligently powerfully slowly wonderfully
 Why do you think the subject is -
-important? 1 The documentary has been very thought out.
-
-Don’t you think this has been done before? 2 As we watch, we _ realise the answer to the problem.
-
-Isn’t there a way you could... ? 3 The films starts very with a man jumping out of an
-
-aeroplane.
+important? 1 The documentary has been very thought out.`,"Don’t you think this has been done before? 2 As we watch, we _ realise the answer to the problem.","Isn’t there a way you could... ? 3 The films starts very with a man jumping out of an",`aeroplane.
 D Work in groups. Which documentary 4 The footage of the mountains is shot. It's spectacular.
 would you fund? Why?
 9 Write areview of a film, documentary or TV programme. Use the
-list in Ex 7B to help.
-
-Pa rasite 0.0.90.0.9.¢ Posted on 27 May | Release date 21 May @12 (J13
+list in Ex 7B to help.`,`Pa rasite 0.0.90.0.9.¢ Posted on 27 May | Release date 21 May @12 (J13
 Parasite is a 2019 South Korean film directed by There is a lot to like about this intelligent film. The plot
 Bong Joon-ho. A dark comedy, it became the first is very original. We watch the Kims cleverly deceive
 foreign-language production to win an Academy the Parks, and this is the source of a lot of humour,
@@ -1806,14 +1682,8 @@ son gets lucky. A friend gives him the chance to teach the Parks’s extraordina
 English to the son of the Park family. Soon, the whole spaces and huge windows.
 od Si © sipioyed Byte Bards in atiotn (oles Overall, Parasite is extremely enjoyable. While it has
 driver, art tutor, and housekeeper. They pretend to be : : i
-hi oe lots to say about modern society, with the rich and the
-
-ighly qualified and never reveal to the Parks that they i g : os
-: poor living side by side, above all it’s a lot of fun.
-
-are all from the same family.
-
-49`]},{type:"vocab",title:"adjectives to describe films; films and film-making",titleAr:"adjectives to describe films; films and film-making",items:[{word:"adjectives to describe films; films and film-making",meaning:"Key vocabulary for this lesson"}]},{type:"grammar",title:"indirect and negative questions",titleAr:"indirect and negative questions",bankPage:47,explanation:"Grammar focus: indirect and negative questions.",examples:["Understand people talking about favourite documentaries.","Ask indirect and negative questions.","Describe films and the film-making process."]},{type:"text",title:"In this lesson",titleAr:"في هذا الدرس",paragraphs:["Understand people talking about favourite documentaries.","Ask indirect and negative questions.","Describe films and the film-making process.","Use intonation in indirect and negative questions."]}],"4C":[{type:"callout",title:"News",titleAr:"News",tone:"brand",text:"Talk about the news and how stories spread. Understand news headlines and news vocabulary. Stress adverbs for summarising correctly.",textAr:"Talk about the news and how stories spread. Understand news headlines and news vocabulary. Stress adverbs for summarising correctly."},{type:"text",title:"Lesson text (from book pages)",titleAr:"نص الدرس (من صفحات الكتاب)",paragraphs:[`Unit 4 | Lesson C wr \\ p
+hi oe lots to say about modern society, with the rich and the`,`ighly qualified and never reveal to the Parks that they i g : os
+: poor living side by side, above all it’s a lot of fun.`,"are all from the same family.","49"]},{type:"vocab",title:"adjectives to describe films; films and film-making",titleAr:"adjectives to describe films; films and film-making",items:[{word:"adjectives to describe films; films and film-making",meaning:"Key vocabulary for this lesson"}]},{type:"grammar",title:"indirect and negative questions",titleAr:"indirect and negative questions",bankPage:47,explanation:"Grammar focus: indirect and negative questions.",examples:["Understand people talking about favourite documentaries.","Ask indirect and negative questions.","Describe films and the film-making process."]},{type:"text",title:"In this lesson",titleAr:"في هذا الدرس",paragraphs:["Understand people talking about favourite documentaries.","Ask indirect and negative questions.","Describe films and the film-making process.","Use intonation in indirect and negative questions."]}],"4C":[{type:"callout",title:"News",titleAr:"News",tone:"brand",text:"Talk about the news and how stories spread. Understand news headlines and news vocabulary. Stress adverbs for summarising correctly.",textAr:"Talk about the news and how stories spread. Understand news headlines and news vocabulary. Stress adverbs for summarising correctly."},{type:"text",title:"Lesson text (from book pages)",titleAr:"نص الدرس (من صفحات الكتاب)",paragraphs:[`Unit 4 | Lesson C wr \\ p
 a hf = "esd oo L h |
 | = “ . |
 2 4C News | Fe
@@ -1869,9 +1739,7 @@ came and brought Zoe down several hours later. football manager who quit recentl
 e Police are holding a man whose dog turned violent in public. .
 Bill Cheney, 33, lost control of his dog in a local park. C Learn and practise. Go to the Vocabulary Bank.
 D Which of these stories might go viral? Why? jd Page BAUNCARINARY BANIC the ots
-50
-
-4C
+50`,`4C
 How to ... PRONUNCIATION
 talk about the news 5 4.05 | word stress in adverbs for summarising | Listen
 to how the speakers summarise. How many syllables do
@@ -1981,9 +1849,7 @@ Sse how there can be shocking consequences when they are | : : :
 “2% so she creates a ‘secret life’ for herself which she thinks 23
 #2: looks more interesting. | 0 25
 ai | i &
-52
-
-(SPEAKING WRITING slslc
+52`,`(SPEAKING WRITING slslc
 a conversation with an old friend a personal email/letter
 3A 4.06 | Listen to two friends having a conversation. 5 A Read the email. Is all of the information correct
 Are the statements True (T) or False (F)? according to the conversation in Ex 3A?
@@ -2172,9 +2038,7 @@ sentences in Ex 1D. Answer using the correct adjective. b Not very often. I don'
 : El it well.
 A: Do you tend to lose your temper and argue? & nevereomplain shout Sings whieh
 B: Well, | can be quite aggressive sometimes. For example ... can’t be changed.
-56
-
-5A
+56`,`5A
 LISTENING GRAMMAR
 3a B5.02| Listen to two customers complaining about clauses of purpose: to, so as to, in order to/
 a service or product and answer the questions. that, so that
@@ -2234,17 +2098,11 @@ Mostly c) You're likely to be an effective
 complainer. You only complain when it’s necessary and
 you treat people with respect whilst at the same time
 being firm and knowing what you want.
-5
-
-Unit5 | Lesson A
+5`,`Unit5 | Lesson A
 SPEAKING C Read the email again and find phrases
-that mean:
-
-7 A Work in pairs. You are going to phone to complain about a product. 1 I'm writing because I'm unhappy about...
+that mean:`,`7 A Work in pairs. You are going to phone to complain about a product. 1 I'm writing because I'm unhappy about...
 Complete the phrases (2-3) with adjectives from Ex 1D. Then I'am writing to complain about ...
-complete the sentences with your own ideas. 2 It made me angry that ...
-
-1 To complain effectively, you need to treat people with respect in 3 Iwas very surprised and upset that
+complete the sentences with your own ideas. 2 It made me angry that ...`,`1 To complain effectively, you need to treat people with respect in 3 Iwas very surprised and upset that
 orderto... 4 After this happened, | wished | hadn't ...
 2 Remember to be and so that... 5 That wasn’t the last thing that went
 3 It’s important not to be too or soasnotto... wrong.
@@ -2261,20 +2119,10 @@ customer complaints. Student A: Go to page 141. Student B: Go to emai inex 0 net
 page 143. Length
 The email should have "a lot of detail /
 only as much detail as is necessary.
-WRITING Structure
-
-IE The email should have three sections.
-
-P » Say “why you're writing / your name
-
-8A workin pairs and discuss the questions. _— job. 5
-
-5 : : » Describe *your feelings / the problem.
+WRITING Structure`,"IE The email should have three sections.","P » Say “why you're writing / your name","8A workin pairs and discuss the questions. _— job. 5",`5 : : » Describe *your feelings / the problem.
 1 Have you ever written an email or letter of complaint? Shabewiiat ackion Ayperwant youice
 2 What do you think is important in a complaint email or letter? going to take. y
-3 What sort of problems might happen when you stay in a hotel?
-
-List five or more. Style
+3 What sort of problems might happen when you stay in a hotel?`,`List five or more. Style
 The style of the email should be formal /
 B Read the complaint email, then discuss with another student. informal. You:
 1 Does the writer do any of the things you discussed in Ex 7A? +» should fuse / avoid using contractions
@@ -2346,9 +2194,7 @@ d So you love it when something is on offer and the pice; Baral
 Fry B Learn and practise. Go to the Vocabulary Bank
 e Well you should buy it now; there might be none a : * ’
 left by tomorrow. | J page 134 VOCABULARY BANK money
-59
-
-Tricks of the trade
+59`,`Tricks of the trade
 | READING | Whenever you're shopping, someone out there is trying to
 convince you to buy something. You walk into a coffee shop
 4 A Work in pairs. Look at the image in the for a takeaway coffee, and you're given a choice between
@@ -2411,9 +2257,7 @@ marketing people use to get them to spend, and spend more.
 Ironically, that awareness doesn’t seem to change our behaviour.
 Perhaps knowing the tricks makes us feel we are not being
 fooled — just accepting that it’s part of the consumer world!
-60
-
-5B
+60`,`5B
 GRAMMAR SPEAKING
 comparative and superlative 104A workin pairs and discuss. How could you use the three techniques
 structures in the article in Ex 4B to market these products?
@@ -2542,9 +2386,7 @@ Wells Rider. I'd recommend one of those, actually. 1:= a not a bad buy c apleasa
 What's the difference between those two? 1s:22 bx apthing special d.anexeellentehaie 1
 oT TE Ce er re BS C Work in pairs. Talk about things you bought recently.
 Ce ero oi Use words and phrases from Exs 3A and 3B.
-62
-
-5C
+62`,`5C
 How to PRONUNCIATION
 eee
 . . - A | int tion i isi h i irs.
@@ -2556,36 +2398,16 @@ B RU 5.07 | Listen to the phrases with commas from Exercise 4B.
 Coa oe Site oy one does Lynn Cc 5.07 | Listen again and say the phrase at the same time as the
 ME a speaker. Pay attention to intonation.
 i» in pales, amples each sentence 7 A Think of something that you've recently bought or have read or
-with one:wors, heard about. Prepare to talk about it using at least four of the
-
-1 From he says, it depends on phrases in Ex 5A.
-what you want to use it for.
-
-2 The only is that a mountain B Work with a different partner from Ex 3C and tell them about the
+with one:wors, heard about. Prepare to talk about it using at least four of the`,`1 From he says, it depends on phrases in Ex 5A.
+what you want to use it for.`,`2 The only is that a mountain B Work with a different partner from Ex 3C and tell them about the
 bike is no good for carrying things like item. Pay attention to the intonation of the summarising phrases.
-shopping.
-
-3 According. Sam, it’s quite
-
-4 Long short, it’s a better bike.
-
-5 Soit’'sa of whether you want to : : eis
+shopping.`,"3 According. Sam, it’s quite","4 Long short, it’s a better bike.",`5 Soit’'sa of whether you want to : : eis
 pay more for more range and a better 8A workin dre What are the features and qualities of a good
-uphill ride? backpack? Look at the images and discuss.
-
-6 Yes, in the , it’s a question of
-how much | want to pay.
-
-7 All all, reviewers of both
-models were happy with their bikes.
-
-8 It all comes to the price.
-
-9 Well, just something’s less
+uphill ride? backpack? Look at the images and discuss.`,`6 Yes, in the , it’s a question of
+how much | want to pay.`,`7 All all, reviewers of both
+models were happy with their bikes.`,"8 It all comes to the price.",`9 Well, just something’s less
 expensive, it doesn’t mean it’s not
-good.
-
-10 Yes, taking into account, | think
+good.`,`10 Yes, taking into account, | think
 the Wells Rider is good enough for me.
 Cc 5.06 | Listen and check your ideas.
 5A workin pairs. Put the phrases in bold in y A
@@ -2678,9 +2500,7 @@ Q2: What things do you pay .
 5 C Learn and practise. Go to the Grammar Bank.
 someone to do for you?
 [1] page 121 GRAMMAR BANK
-64
-
-I 5D
+64`,`I 5D
 i 4 o- 3 od - i ~~ pe : nS L
 ! : " a)
 So pos i » - t '
@@ -2873,9 +2693,7 @@ and then everyone finds out about it. Soon it turns into a 6 Which area is best 
 popular tourist spot, which can mean it loses its appeal. friends? Why?
 But that’s OK, great neighbourhoods change all the time,
 so it won't be long before you find a new place to visit.
-68
-
-6A
+68`,`6A
 LISTENING GRAMMAR
 3a Be.01 | Listen to three people talking so and such
 about the places in the photos. For each .
@@ -2922,38 +2740,20 @@ Yarraville didn’t want to leave.
 6 It has a lot of things to do.
 Lo . . C Work in pairs. Practise conversations about visiting cities.
 C Workin pairs. Say which neighbourhood Student A: Go to page 139. Student B: go to page 141.
-you would like to visit. Explain why.
-
-5 rravitie district, Melbourne a BAA rosedate aistricg, ioronto Wy 4 5 : LE eg Pe
+you would like to visit. Explain why.`,`5 rravitie district, Melbourne a BAA rosedate aistricg, ioronto Wy 4 5 : LE eg Pe
 BERRI lls of © A 5 BAS Pll oon N eg N : Th FORRES W ote 1
 INE, LRA Ol Es, Noe 5. ates ommend Eo HM oi er FH =
-BOS CoN foe D2 in daa Pad Cae Ee pi FY LA » » BIEERS. Ne x =
-
-SM Tg ee Gc iY, Sea ira Gy ( + plas ram gl ek Re
-i = TONER TERS TORR FE TO ae SHR = cs REED wrt So
-
-(AN me | F&) TE. Rk, NE Ff XN ZH 3 GEE ENE er eat rT
+BOS CoN foe D2 in daa Pad Cae Ee pi FY LA » » BIEERS. Ne x =`,`SM Tg ee Gc iY, Sea ira Gy ( + plas ram gl ek Re
+i = TONER TERS TORR FE TO ae SHR = cs REED wrt So`,`(AN me | F&) TE. Rk, NE Ff XN ZH 3 GEE ENE er eat rT
 fe A I ‘ > I | I K RG rey SN (ls emma : 2 2 5 9 Ed E 5 =a f gis i
-Ect wh PHBH ' i | Fi : s | 7 PL 10 hy Bi bE Fg fad a. L
-
-117 4 A gn oad dE ds: « i= A 3 En EN EE ¢
-
-y hi? Blan 80 oa AFT) Pace fri | 55) ne: = ERE af Bs yr pe BE C7
+Ect wh PHBH ' i | Fi : s | 7 PL 10 hy Bi bE Fg fad a. L`,"117 4 A gn oad dE ds: « i= A 3 En EN EE ¢",`y hi? Blan 80 oa AFT) Pace fri | 55) ne: = ERE af Bs yr pe BE C7
 duis Js IRE by. 2 WY - - Ep —— = 5 ofl Seas ERT EES mag. TE
 if = pn “By I) gy 1 E- __ _ Sy ; hed “31 d 5] I i | Bord H
-CE \\ Ad *) A Toh Rl: = I= L Hl a il PA 1) { 3
-
-2 | 1 , | iS ; 3 b> wo Tes ro = yi ; = = | pe ms - r a a
-
-erat I ul Ts EE 1- BN
-
-3 PETC — See SoBe HE UF BB Eel eS
+CE \\ Ad *) A Toh Rl: = I= L Hl a il PA 1) { 3`,"2 | 1 , | iS ; 3 b> wo Tes ro = yi ; = = | pe ms - r a a","erat I ul Ts EE 1- BN",`3 PETC — See SoBe HE UF BB Eel eS
 - a a —_—— : > Ma - - = EN 964 4 = a oF i = ak: HEE Ey iis -
 rh = % -_ 3 v ao fees. fo ye g “5 o> SRE
 A Se - gl Le os S | RE Se, 60 TF
-a a = = 5 : was” vy,
-
-Unit 6 | Lesson A
+a a = = 5 : was” vy,`,`Unit 6 | Lesson A
 SPEAKING 8A Look at the phrases for giving directions.
 Find similar examples in the email and
 6 A Plan to talk about a favourite neighbourhood either in your add them to the correct section.
@@ -3070,9 +2870,7 @@ sentences about each photo using the words in TomCyp and experience where | live
 the blog post. to travel hundreds of miles to have an
 Climbing a mountain covered in snow is tough. adventure.
 B Share your ideas with your partner.
-71
-
-Unit 6 | Lesson B
+71`,`Unit 6 | Lesson B
 READING GRAMMAR
 3 A workin pairs. Student A: Read Text A on page be/ get used to
 73. Student B: Read Text B. As you read, make St
@@ -3135,9 +2933,7 @@ y a challenging?
 = 29 ¥ B Work in groups. Take turns to describe your experiences. |
 3
 72 |
-|
-
-6B
+|`,`6B
 - - ogee
 A: Walking across a continent B: Sailing across an ocean
 Motivated by his love of Asia, Rory Stewart walked Sailing across an ocean is extremely challenging.
@@ -3265,9 +3061,7 @@ capital of the world as their tuk-
 tuks are electric and pollution-free. One tip for taking a tuk-tuk —
 try to avoid rush hour; otherwise you might find yourself sitting
 in a traffic jam with car fumes in your face!
-74
-
-6C
+74`,`6C
 How to ... SPEAKING
 ask for and confirm information
 6A Usethe prompts to complete the conversation between
@@ -3396,9 +3190,7 @@ Tot rr a ge Rename aT TE 8 = {ocr 8
 — AR lw cecomer hil, Finca WANE IF erry BE. CC” aes” |W
 76 ui i § Ee iE a El) <7 LE A Tee Te 4 BEN
 Loreen Bl a i IE i , TOIT gs i — Pre
-— ih = ai (|| PE 7 Sed iE EEE FL. aaa Be cana BEAR (Rh
-
-SPEAKING WRITING BlB]C
+— ih = ai (|| PE 7 Sed iE EEE FL. aaa Be cana BEAR (Rh`,`SPEAKING WRITING BlB]C
 a discussion about what a place a description of a business idea
 is famous for . . CL
 5 You are going to think of a business idea or a new company based
@@ -3580,9 +3372,7 @@ b was interested in how he was getting on in the job. embarrassing? Why?
 a helped his manager check her computer. 3 Are there any words in your language which
 b got up and locked the door. you make mistakes with? How about in English?
 c thought he had followed his manager's instruction.
-80
-
-7A
+80`,`7A
 GRAMMAR VOCABULARY
 reported speech reporting verbs
 3a Complete the reported speech sentences 5a Replace the words in bold with the verbs in the box. Make any other
@@ -3642,9 +3432,7 @@ ork in pairs. What words do you know for speaking loudly or quietly?
 B Learn and practise. Go to the Grammar
 Bank. B Check your ideas in the Vocabulary Bank.
 Ld page 125 GRAMMAR BANK Ld page 136 VOCABULARY BANK ways of speaking
-81
-
-Unit 7 | Lesson A
+81`,`Unit 7 | Lesson A
 SPEAKING ae
 8A Youare going to tell someone about two conversations a story about an event
 you had recently. Student A: Read the conversations on 9 . —
@@ -3764,9 +3552,7 @@ issues? In what way?
 C Match the definitions in Ex 1B with the words in the box. D Learn and practise. Go to the Vocabulary Bank.
 backup forward pop-up post | J page 137 VOCABULARY BANK internet words
 profile spam tag username
-83
-
-Unit 7 | Lesson B y \\ (f ‘ RR
+83`,`Unit 7 | Lesson B y \\ (f ‘ RR
 ores { E
 D J oll Kw EN a. |
 3 A workin pairs and discuss. What are th /d \\ = 3
@@ -3831,9 +3617,7 @@ and vacations. In the end, there wasn’t much she could do
 about it. Perhaps the only solution is not to post at all. \\ A
 o bg 22
 =
-: N=] \\
-
-7B
+: N=] \\`,`7B
 GRAMMAR SPEAKING
 passives 7 A workin pairs. Read this extract from an article about online privacy
 5 a and discuss the questions.
@@ -3972,9 +3756,7 @@ C Work in pairs and discuss. Which sentences in Ex know when to give up
 Not everyone wants to be your friend, or even have a
 conversation with you. That's totally fine. If the energy
 really isn’t there, move on — before the other person does.
-86
-
-7C
+86`,`7C
 How to... PRONUNCIATION
 keep a conversation going 5a}7.00 | intonation in short questions | Listen to the
 questions. Does the intonation go up or down?
@@ -4093,9 +3875,7 @@ A = 3 A:Do you think it’s impossible to improve?
 Q1: Are you a good communicator? B:l not.
 Q2: In what situations do you have B Learn and practise. Go to the Grammar Bank.
 difficulty communicating? [q page 128 GRAMMAR BANK
-88
-
-¥ Ci ek . 7D
+88`,`¥ Ci ek . 7D
 K R 1 1 ! % - z
 i fs Ya 4
 RA N | 3 ¥ = —— — 3
@@ -4216,25 +3996,13 @@ A: Do you think you'll go to the party tonight? 7 A tag B post C pop-up
 C Work in pairs. Student A: Say one of your sentences. 8 A have B get C got }
 Student B: Use a short answer to reply. 9 A folder B username C profile
 B R7.01| Listen and check your answers.
-90`]},{type:"text",title:"In this lesson",titleAr:"في هذا الدرس",paragraphs:["Review the grammar and vocabulary from Unit 7.","Check your progress with a short unit quiz."]}]},Gx={"8A":[{type:"callout",title:"Wise words",titleAr:"Wise words",tone:"brand",text:"Read advice from people of different ages. Talk about unreal past situations with the third conditional and should have. Use phrases of advice. Use contractions in complex sentences.",textAr:"Read advice from people of different ages. Talk about unreal past situations with the third conditional and should have. Use phrases of advice. Use contractions in complex sentences."},{type:"text",title:"Lesson text (from book pages)",titleAr:"نص الدرس (من صفحات الكتاب)",paragraphs:[`Unit 8 | Lesson A 1
-
-| a — 2 y
-—— <Q
-
-yy A y N -
-Wise “ y
-
-| y
-be ’
-
-‘words / )
-
-Aah 4 \\ % OB
+90`]},{type:"text",title:"In this lesson",titleAr:"في هذا الدرس",paragraphs:["Review the grammar and vocabulary from Unit 7.","Check your progress with a short unit quiz."]}]},Gx={"8A":[{type:"callout",title:"Wise words",titleAr:"Wise words",tone:"brand",text:"Read advice from people of different ages. Talk about unreal past situations with the third conditional and should have. Use phrases of advice. Use contractions in complex sentences.",textAr:"Read advice from people of different ages. Talk about unreal past situations with the third conditional and should have. Use phrases of advice. Use contractions in complex sentences."},{type:"text",title:"Lesson text (from book pages)",titleAr:"نص الدرس (من صفحات الكتاب)",paragraphs:["Unit 8 | Lesson A 1",`| a — 2 y
+—— <Q`,`yy A y N -
+Wise “ y`,`| y
+be ’`,"‘words / )",`Aah 4 \\ % OB
 GRAMMAR | third conditional and should have 9 Loi \\ "J
 VOCABULARY | phrases of advice » a» a 4
-PRONUNCIATION | contractions in complex sentences
-
-Za | .
+PRONUNCIATION | contractions in complex sentences`,`Za | .
 -— -
 y VP
 J pl _ ; .
@@ -4268,9 +4036,7 @@ e Don’t be afraid to do something new. Don’t be afraid to meet new people;
 f Don’t take life too seriously. you might make a friend for life.
 g Be ready to act even if it seems too late. Stop worrying about things you
 h Pay attention to the world around you and try to understand it. can’t control.
-92
-
-8A
+92`,`8A
 | READING | Advice across the ages
 BA Discuss peli. ihoseadvice doyeg What is the best way to live our lives? What can we learn
 listen to? TR What Situations? from other generations? 123 Magazine spoke to people
@@ -4336,9 +4102,7 @@ your energy with what-ifs: ‘| should have done this
 think our views on our past opinions - Pay attention to the here and now. Finally, spend all
 and actions change as we get older? your money - or your kids will do it for you!
 In what ways? Lee 100
-93
-
-Unit 8 | Lesson A
+93`,`Unit 8 | Lesson A
 GRAMMAR SPEAKING
 third conditional and should have 7 A You are going to describe a situation, then give advice.
 . Read the example. Do you agree with the advice?
@@ -4414,15 +4178,9 @@ GRAMMAR | would 4 op. i
 VOCABULARY | learning; phrasal verbs = J a
 PRONUNCIATION | contracted would a eS
 — \\ » = y 2
-— i Pi » : =
-
-[Vou CARY How it all started
+— i Pi » : =`,`[Vou CARY How it all started
 learning
-1 A workin pairs. Ask and answer the questions. on Cl ARerEIE leamt about
-
-1 Do you have any particular interests which you I i :
-
-have had since you were a child? Despite living in a city, David Attenborough spent
+1 A workin pairs. Ask and answer the questions. on Cl ARerEIE leamt about`,"1 Do you have any particular interests which you I i :",`have had since you were a child? Despite living in a city, David Attenborough spent
 B Eat Sii ii lbGiE ChT? his childhood collecting fossils, stones and natural
 3 HEEVELT TEs chained _ chs aare? specimens. His lifelong passion for the natural
 Fak - os epnblacy 9 y : world developed early and by the age of seven,
@@ -4432,54 +4190,18 @@ interested in their subject. According to the Jacquetta Hawkes, who admired his 
 article, who: later attended a lecture by famous naturalist Grey
 1 aij IEarTiTiG SEGUE Hew teehinalogi? Owl in 1936 which deepened his interest in Natural
 > SETHE aR tS AHR hE —— _ Sciences, which he studied at Cambridge University.
-ideas with younger people?
-
-3 had a mentor who influenced them? How Gitanjali Rao became a world-famous scientist
-
-2 A Complete the sentences (1-8) with the words and fd Aeron when she were Young child
-
-phrases in bold in the article. Gitanjali Rao is a scientist and inventor who was
-
-W Tard Terri Tamme Ak Bik) bi named Time magazine's first ‘kid of the year’ Gitanjali
-then | found it ch i rg ’ ’ was just four years old when she first discovered her
-
-5 HilinnAfenino bas b } ji love of science. She worked hard to master the skills
-Ane Hana ro oy eee es LE and techniques needed to develop her ideas and at
-
-3 When | have no ideas, | look at other people’s ee fhe ne of Adie - Ae
-workio rie: scientist’ for her invention of a water-testing kit. She
-
-& Mygrandimotherafvays me to stud is fascinated by new technologies, and as well as the
-hard at school. She i ‘Education is wealtn. water-testing kit, she has developed an app which can
-
-8 Teadnnlsdiolusenusncl ties foodie: foo a detect cyberbullying. Now she hopes to inspire others
-at vs per he rad ying to dream up ideas to ‘solve the world’s problems’.
-
-6 A holiday in Athens in archaeology, and
-
-5 " a Th i RAE lak wae-w= Why Priscilla Sitienei says it's never too late to learn
-- hb 4 hears A dos g lots i: nh wh a da Priscilla Sitienei was a midwife in rural Kenya. She
-
-8 Abschooli usually worked hard and gaps grew up without free primary school education and
-grades had never learnt to read or write. As she got older she
-
-’ had a powerful longing to write down her experiences
-
-B Work in pairs. Change two or three of the and knowledge in order to pass them down to the
+ideas with younger people?`,"3 had a mentor who influenced them? How Gitanjali Rao became a world-famous scientist","2 A Complete the sentences (1-8) with the words and fd Aeron when she were Young child","phrases in bold in the article. Gitanjali Rao is a scientist and inventor who was",`W Tard Terri Tamme Ak Bik) bi named Time magazine's first ‘kid of the year’ Gitanjali
+then | found it ch i rg ’ ’ was just four years old when she first discovered her`,`5 HilinnAfenino bas b } ji love of science. She worked hard to master the skills
+Ane Hana ro oy eee es LE and techniques needed to develop her ideas and at`,`3 When | have no ideas, | look at other people’s ee fhe ne of Adie - Ae
+workio rie: scientist’ for her invention of a water-testing kit. She`,`& Mygrandimotherafvays me to stud is fascinated by new technologies, and as well as the
+hard at school. She i ‘Education is wealtn. water-testing kit, she has developed an app which can`,`8 Teadnnlsdiolusenusncl ties foodie: foo a detect cyberbullying. Now she hopes to inspire others
+at vs per he rad ying to dream up ideas to ‘solve the world’s problems’.`,"6 A holiday in Athens in archaeology, and",`5 " a Th i RAE lak wae-w= Why Priscilla Sitienei says it's never too late to learn
+- hb 4 hears A dos g lots i: nh wh a da Priscilla Sitienei was a midwife in rural Kenya. She`,`8 Abschooli usually worked hard and gaps grew up without free primary school education and
+grades had never learnt to read or write. As she got older she`,"’ had a powerful longing to write down her experiences",`B Work in pairs. Change two or three of the and knowledge in order to pass them down to the
 sentences in Ex 2A so that they are true for you or next generation. Motivated by this desire, she started
-people you know. Tell your partner. attending lessons at the local school, together with
-
-her six great-great grandchildren. She was ninety
-
-C Look at the phrasal verbs highlighted in the text. at the time. Known as ‘Gogo’ to her teachers and
+people you know. Tell your partner. attending lessons at the local school, together with`,"her six great-great grandchildren. She was ninety",`C Look at the phrasal verbs highlighted in the text. at the time. Known as ‘Gogo’ to her teachers and
 Do you know what they mean? Learn and practise. classmates, Priscilla made good progress in school
-Go to the Vocabulary Bank. and enjoyed telling stories to inspire and motivate the
-
-[1] page 137 VOCABULARY BANK phrasal verbs younger children.
-
-95
-
-Unit 8 | Lesson B
+Go to the Vocabulary Bank. and enjoyed telling stories to inspire and motivate the`,"[1] page 137 VOCABULARY BANK phrasal verbs younger children.","95",`Unit 8 | Lesson B
 LISTENING GRAMMAR
 3 A Read the information about the BBC Radio would
 programme. Who was Hans Rosling?
@@ -4541,9 +4263,7 @@ D Work in pairs and discuss the questions. can usually achieve it if you break i
 1 Why do you think Hans’s father told Hans these steps. She would always encourage us to work hard to
 storie? master each new skill before moving onto the next.
 2 hol pay oung B Work in groups. Take turns to tell your stories.
-96
-
-8B
+96`,`8B
 SPEAKING WRITING
 7 A Work alone. What qualities do you think are a short biography
 important in a mentor? Add to the ideas below. p .
@@ -4659,9 +4379,7 @@ need to help students to discover and develop their creativity. :
 Robinson's talk, Do Schools Kill Creativity?, has been watched online FEE :
 over 85 million times and translated into over sixty languages. It = X
 inspires educators and others all over the world. < = J i
-98
-
-8C
+98`,`8C
 How to... (SPEAKING.
 give a presentation
 6a Prepare to give a five-minute presentation to other
@@ -4778,28 +4496,14 @@ the business. Sl ia 5%
 ( 1 br i - a)
 - ones - 3 as vai - A a r= oy — A pa
 = ===" = ===
-100 i — : . :
-
-(SPEAKING. WRITING sls]c
+100 i — : . :`,`(SPEAKING. WRITING sls]c
 pitch a business idea an email giving work-related news
-3A E)s.0o7 | Listen to a couple pitching their business 5A Read the email. What news does it describe?
-
-and answer the questions.
-
-1 What type of service do they offer? Subject: Two new cafés DO,
-
-: From: brennanmg@cafebotas.com
+3A E)s.0o7 | Listen to a couple pitching their business 5A Read the email. What news does it describe?`,"and answer the questions.","1 What type of service do they offer? Subject: Two new cafés DO,",`: From: brennanmg@cafebotas.com
 2 How much money are they asking for, and for what 2 | I
 : To: all
-percentage share of the business?
-
-3 What questions does the investor ask? Dear All,
-
-B [s.07 | Listen again and tick the phrases you hear. We are delighted to provide an update on some exciting
+percentage share of the business?`,"3 What questions does the investor ask? Dear All,",`B [s.07 | Listen again and tick the phrases you hear. We are delighted to provide an update on some exciting
 news. As you know, we recently talked to a number of
-investors about opening two new cafés. I'm pleased
-
-KEY PHRASES to announce that the food investor VJ Picaldi made an
+investors about opening two new cafés. I'm pleased`,`KEY PHRASES to announce that the food investor VJ Picaldi made an
 We run a business called ... offer which we have accepted. This allows us to start
 Examples include ... searching for two new locations and hiring more staff.
 What's special about [our business] is that we .... We will organise a meeting next week to present the
@@ -4849,96 +4553,36 @@ i i ~ a { | per
 2 | failed my exams. | should / study SERRE ™ shee dil AE er
 = 49 2 CECE, £4 ppm Jp) ye gd es
 harder Te pid Wad alii R His :
-i d ET Well LT 1 Him ul
-
-3 If study / harder / at school, / 1 / might / il iia VT LG 1 ei ER i
-go / university T= NN a = . =
-
-4 If / have / more confidence, / 1 / 5 io 4 A SN, Tae
-change jobs / earlier \\ 3 EN a © —— =
-
-5 | / not oversleep / this morning / if / 1 /
-go / to / bed earlier / last night
-
-6 | / should not / drink / so much coffee / would
-
-§ = fight | Frey re 3a Replace the past simple verb in bold with would where possible.
-
-ere was a lot of traffic so we were ws .
+i d ET Well LT 1 Him ul`,`3 If study / harder / at school, / 1 / might / il iia VT LG 1 ei ER i
+go / university T= NN a = . =`,`4 If / have / more confidence, / 1 / 5 io 4 A SN, Tae
+change jobs / earlier \\ 3 EN a © —— =`,`5 | / not oversleep / this morning / if / 1 /
+go / to / bed earlier / last night`,"6 | / should not / drink / so much coffee / would","§ = fight | Frey re 3a Replace the past simple verb in bold with would where possible.",`ere was a lot of traffic so we were ws .
 8 a ag Where it is not possible, use used to.
-arrive / on time. 1 My best friend lived in Vienna when she was younger.
-
-8 | sent the application form in but it 2 | spent most weekends with my grandparents when | was a child.
+arrive / on time. 1 My best friend lived in Vienna when she was younger.`,`8 | sent the application form in but it 2 | spent most weekends with my grandparents when | was a child.
 was too late. 1/ should / send itin/ 3 | didn’t think money was important, but | changed my mind
-sooner. when | wanted to buy an apartment.
-
-9 He would / be / on time / for the 4 Every summer holiday | worked in a café to earn some money.
-dai /if/he/ left / the house / at 5 After class | played football in the park with my friends.
-
-Co 6M ts al d ial cake f birthday.
-
-fT T——— y parents always made a special cake a my bir oF
-
-might / become / a teacher. 7 Stefan was a bank manager, but he gave it up and decided to go
-
-; into acting instead.
-
-11 If / they / give / us / the correct . .
-
-directions, / we / not / get lost. 8 When we went ona long car journey, my sister and | sang all our
-12 I would / go / on the course / if | / fral Te Solis.
-
-know / rk it. 9 Iwas so untidy when | lived at home. | always left my clothes all
-
-over the floor!
-B Think of three things you have done in 10 | played the guitar, but | gave it up because | didn’t have time.
-
-the last ten years. Discuss the questions .
-
-with a partner. B ge four of the sentences in Ex3A ws are rue for ok
-
-5 Plow Would EHings ave Baer different ompare your sentences wit ApUThes ind three things that you
+sooner. when | wanted to buy an apartment.`,`9 He would / be / on time / for the 4 Every summer holiday | worked in a café to earn some money.
+dai /if/he/ left / the house / at 5 After class | played football in the park with my friends.`,"Co 6M ts al d ial cake f birthday.","fT T——— y parents always made a special cake a my bir oF","might / become / a teacher. 7 Stefan was a bank manager, but he gave it up and decided to go","; into acting instead.","11 If / they / give / us / the correct . .",`directions, / we / not / get lost. 8 When we went ona long car journey, my sister and | sang all our
+12 I would / go / on the course / if | / fral Te Solis.`,"know / rk it. 9 Iwas so untidy when | lived at home. | always left my clothes all",`over the floor!
+B Think of three things you have done in 10 | played the guitar, but | gave it up because | didn’t have time.`,"the last ten years. Discuss the questions .","with a partner. B ge four of the sentences in Ex3A ws are rue for ok",`5 Plow Would EHings ave Baer different ompare your sentences wit ApUThes ind three things that you
 . , would both do as children, but you don’t do now.
-if you hadn't done them?
-
-« Should you have done anything
-differently?
-
-VOCABULARY
+if you hadn't done them?`,`« Should you have done anything
+differently?`,`VOCABULARY
 * Why/Why not?
 4a Complete the sentences with the words in the box.
-2 Choose the correct words.
-
-1 | hate living in this old house. | would afraid attention deepened encouraged
+2 Choose the correct words.`,`1 | hate living in this old house. | would afraid attention deepened encouraged
 be / would have been happier if most passion seriously time worrying
 we had bought / buying a modern ———
-apartment. 1 You should stop so much and try not to take everything
-
-2 If | had met / met Sandra before So) 5
+apartment. 1 You should stop so much and try not to take everything`,`2 If | had met / met Sandra before So) 5
 I'm sure | would have recognised / 2 | watched an amazing documentary which my interest in
-recognised her face. the world of plants and insects.
-
-3 They should offering / have offered 3 I'm learning jujitsu — I'm never to try something new.
-her the job — she was definitely the : z
-
-: 4 Let's go out. We need to make the of our time here.
-yy 5 My grandmother al to dance. Sh ballad
-
-% Bled leave lofi y grandmother always me to dance. She was a ballerina
-
-when she was younger.
+recognised her face. the world of plants and insects.`,`3 They should offering / have offered 3 I'm learning jujitsu — I'm never to try something new.
+her the job — she was definitely the : z`,`: 4 Let's go out. We need to make the of our time here.
+yy 5 My grandmother al to dance. Sh ballad`,"% Bled leave lofi y grandmother always me to dance. She was a ballerina",`when she was younger.
 passports at home, they would be / . .
-were in Indonesia now. 6 You Ship ae some to think about your options before
-
-5 | shouldn't have / should have taken , g
+were in Indonesia now. 6 You Ship ae some to think about your options before`,`5 | shouldn't have / should have taken , g
 on so much work — I'll never be able to 7 He never seems to pay to what's going on around him.
-finish everything on time! 8 Literature has been my lifelong .l can’t read enough.
-
-6 If she should have trained / had
+finish everything on time! 8 Literature has been my lifelong .l can’t read enough.`,`6 If she should have trained / had
 trained harder she would win / B Work in pairs. Change some of the sentences in Ex 4A so that they
-would have won the race. are true for you. Do you have anything in common?
-
-102`]},{type:"text",title:"In this lesson",titleAr:"في هذا الدرس",paragraphs:["Review the grammar and vocabulary from Unit 8.","Check your progress with a short unit quiz."]}]};function zx(r){return r.startsWith("VB")?`VB ${r.slice(2).replace("_",".")}`:r.startsWith("MB")?`MB ${r.slice(2).replace("_",".")}`:r.startsWith("R")?`Review ${r.slice(1).replace("_",".")}`:r.replace("_",".")}const Px=Xy.audio,Jx=Xy.video;function Vx(r){const l=r.match(/^(VB|MB|R)?(\d+)_(\d+)$/);if(!l)return r;const[,u,h,c]=l;return`${u?`${u} `:""}${h}.${c}`}const Zy={};for(const r of xx)(Zy[r.code]??=[]).push({label:zx(r.track),file:r.file,note:r.track,transcript:Px[Vx(r.track)]});const fd={},Fx={streetint:"BBC Street Interviews",vlogs:"Unit vlog",programmes:"BBC Programme"};for(const r of Ax)(fd[r.unit]??=[]).push({title:Fx[r.kind],file:r.file,kind:r.kind,transcript:Jx[`${r.unit}:${r.kind}`]});const Kx=[{number:1,title:"me & mine",phrase:"The story of me",question:"What's the best present you've ever received?",intro:"Talk about the possessions that tell your story, the materials they are made of, and the choices behind the things we keep.",pages:[6,18],objectives:["1A Listening — understand people talking about their possessions; describe possessions and materials; tell a story with narrative tenses; weak forms of auxiliary verbs.","1B Reading — read an article about minimalism vs. maximalism; verb patterns; stress in prepositional phrases.","1C How to … — leave phone messages; phrasal verbs about housework; intonation in polite requests.","1D BBC Street Interviews — understand people talking about gadgets and screen time; except for, apart from, (not) even; write an online forum comment."],lessons:[{code:"1A",title:"The story of me",pages:[8,10],labels:{grammar:"narrative tenses",vocabulary:"describing possessions; materials",pronunciation:"auxiliary verbs: weak forms",skills:"listening"},objectives:["Understand people talking about their possessions.","Describe possessions and the materials they are made of.","Tell the story of three objects with narrative tenses.","Hear and use weak forms of auxiliary verbs.","Write an advert to sell an item online."]},{code:"1B",title:"Less is more?",pages:[11,13],labels:{grammar:"verb patterns",vocabulary:"personal preferences",pronunciation:"stress in prepositional phrases",skills:"reading"},objectives:["Read an article about minimalism vs. maximalism.","Use verb patterns to talk about what you like and prefer.","Stress prepositions in phrases correctly.","Answer a questionnaire about personal preferences."]},{code:"1C",title:"Don't forget to …",pages:[14,15],labels:{grammar:"How to … leave phone messages",vocabulary:"phrasal verbs: housework",pronunciation:"intonation in polite requests",skills:"how to"},objectives:["Leave a clear phone message.","Use phrasal verbs to talk about housework.","Sound polite with the right intonation in requests.","Understand recorded messages and respond to them."]},{code:"1D",title:"Your gadgets",pages:[16,17],labels:{grammar:"except for, apart from, (not) even",vocabulary:"gadgets and screen time",skills:"BBC street interviews"},objectives:["Understand people talking about gadgets and screen time.","Talk about exceptions with except for, apart from and (not) even.","Answer a questionnaire about gadgets.","Write an online forum comment."]},{code:"1R",title:"Review 1",pages:[18,18],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 1.","Check your progress with a short unit quiz."],isReview:!0}]},{number:2,title:"behaviour",phrase:"Habits and people",question:"What good habits do you have?",intro:"Explore habits and behaviour, from the science of changing routines to the small things other people do that drive us mad.",pages:[19,30],objectives:["2A Reading — read an article about how to change habits; making changes; present perfect continuous; weak form of been.","2B Listening — understand people talking about being a people pleaser; relative clauses; collocations for feelings and behaviour; chunking in relative clauses.","2C How to … — talk about things that annoy you; pet hates; stress and intonation to show annoyance.","2D BBC Programme — understand a wildlife programme about an exciting escape; discuss difficult situations; write a story."],lessons:[{code:"2A",title:"Change of habit",pages:[20,22],labels:{grammar:"present perfect continuous",vocabulary:"making changes",pronunciation:"weak form of been",skills:"reading"},objectives:["Read an article about how to change habits.","Talk about actions that started in the past and continue now.","Use the weak form of been naturally.","Discuss ways of changing habits."]},{code:"2B",title:"People pleaser",pages:[23,25],labels:{grammar:"relative clauses",vocabulary:"collocations: feelings and behaviour",pronunciation:"chunking in relative clauses",skills:"listening"},objectives:["Understand people talking about being a people pleaser.","Define and add information with relative clauses.","Use collocations for feelings and behaviour.","Chunk relative clauses into meaningful groups."]},{code:"2C",title:"That's annoying!",pages:[26,27],labels:{grammar:"How to … talk about things that annoy you",vocabulary:"pet hates",pronunciation:"stress and intonation to show annoyance",skills:"how to"},objectives:["Talk about things that annoy you.","Use a range of phrases for pet hates.","Show annoyance with stress and intonation."]},{code:"2D",title:"Planet Earth II: Jungles",pages:[28,29],labels:{vocabulary:"wildlife",skills:"BBC programme"},objectives:["Understand a wildlife programme about an exciting escape.","Discuss difficult situations and how people react.","Write a story about a dramatic event."]},{code:"2R",title:"Review 2",pages:[30,30],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 2.","Check your progress with a short unit quiz."],isReview:!0}]},{number:3,title:"working life",phrase:"Work and study",question:"Where do you prefer to work or study?",intro:"Look at working life, from working from home to the gig economy, and find the language to talk about your own approach to work.",pages:[31,42],objectives:["3A Reading — read about famous authors working from home; conditional structures: unless, even if, in case (of); work phrases; stress in phrases.","3B Listening — understand people talking about gig work; necessity, obligation and permission; work vocabulary; elision of /t/.","3C How to … — take part in an interview; personality adjectives (1); negative prefixes; word stress in personality adjectives.","3D BBC Street Interviews — understand people talking about their preferred jobs; expressing preferences; write a discussion board post."],lessons:[{code:"3A",title:"Working from home",pages:[32,34],labels:{grammar:"conditional structures: unless, even if, in case (of)",vocabulary:"work phrases",pronunciation:"stress in phrases",skills:"reading"},objectives:["Read about famous authors working from home.","Use unless, even if and in case (of) to talk about conditions.","Use common work phrases.","Stress phrases naturally when speaking."]},{code:"3B",title:"Gig work",pages:[35,37],labels:{grammar:"necessity, obligation and permission",vocabulary:"work",pronunciation:"elision of /t/",skills:"listening"},objectives:["Understand people talking about gig work.","Talk about necessity, obligation and permission.","Notice and produce the elision of /t/."]},{code:"3C",title:"Good question",pages:[38,39],labels:{grammar:"How to … take part in an interview",vocabulary:"personality adjectives (1); negative prefixes",pronunciation:"word stress in personality adjectives",skills:"how to"},objectives:["Take part in a job interview.","Describe personality and form negative adjectives.","Use the correct word stress in personality adjectives."]},{code:"3D",title:"This or that?",pages:[40,41],labels:{grammar:"expressing preferences",skills:"BBC street interviews"},objectives:["Understand people talking about their preferred jobs.","Express preferences with a range of structures.","Write a discussion board post."]},{code:"3R",title:"Review 3",pages:[42,42],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 3.","Check your progress with a short unit quiz."],isReview:!0}]},{number:4,title:"fact or fiction?",phrase:"Stories and truth",question:"Do you prefer true stories or fiction?",intro:"Investigate hoaxes, documentaries and the news — and decide what you believe, how it is told and why it spreads.",pages:[43,54],objectives:["4A Reading — read about a hoax; truth and lies; past plans and intentions; silent consonants.","4B Listening — understand people talking about favourite documentaries; adjectives to describe films; indirect and negative questions; intonation.","4C How to … — talk about the news; news headlines; word stress in adverbs for summarising.","4D BBC Programme — understand a TV programme about keeping secrets; have a conversation with an old friend; write a personal email or letter."],lessons:[{code:"4A",title:"Hoax!",pages:[44,46],labels:{grammar:"past plans and intentions",vocabulary:"truth and lies",pronunciation:"silent consonants",skills:"reading"},objectives:["Read about a famous hoax.","Talk about past plans and intentions.","Use vocabulary for truth and lies.","Notice and pronounce silent consonants."]},{code:"4B",title:"Documentary making",pages:[47,49],labels:{grammar:"indirect and negative questions",vocabulary:"adjectives to describe films; films and film-making",pronunciation:"intonation in indirect and negative questions",skills:"listening"},objectives:["Understand people talking about favourite documentaries.","Ask indirect and negative questions.","Describe films and the film-making process.","Use intonation in indirect and negative questions."]},{code:"4C",title:"News",pages:[50,51],labels:{grammar:"How to … talk about the news",vocabulary:"news headlines; the news",pronunciation:"word stress in adverbs for summarising",skills:"how to"},objectives:["Talk about the news and how stories spread.","Understand news headlines and news vocabulary.","Stress adverbs for summarising correctly."]},{code:"4D",title:"Fake friends",pages:[52,53],labels:{vocabulary:"keeping secrets",skills:"BBC programme"},objectives:["Understand a TV programme about keeping secrets.","Have a conversation with an old friend.","Write a personal email or letter."]},{code:"4R",title:"Review 4",pages:[54,54],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 4.","Check your progress with a short unit quiz."],isReview:!0}]},{number:5,title:"consumer",phrase:"Shopping and money",question:"When was the last time you had a problem with a product or service?",intro:"Talk about shopping, complaints, advertising and money — and learn how to get things done when something goes wrong.",pages:[55,66],objectives:["5A Listening — understand people complaining; personality adjectives (2); clauses of purpose; roleplay a complaint; write a complaint email.","5B Reading — read marketing tips; advertising and money; comparative and superlative structures; linking r in phrases.","5C How to … — summarise information from different sources; describing products; intonation in summarising phrases.","5D BBC Street Interviews — understand people talking about DIY; causative have/get; reflexive pronouns; write a meeting summary."],lessons:[{code:"5A",title:"The customer is always right?",pages:[56,58],labels:{grammar:"clauses of purpose: to, so as to, in order to/that, so that",vocabulary:"personality adjectives (2)",pronunciation:"word stress in adjectives",skills:"listening"},objectives:["Understand people complaining about products and services.","Give reasons and purposes with clauses of purpose.","Use personality adjectives to describe behaviour.","Roleplay a complaint and write a complaint email."]},{code:"5B",title:"Too good to be true",pages:[59,61],labels:{grammar:"comparative and superlative structures",vocabulary:"advertising; money",pronunciation:"linking r in phrases",skills:"reading"},objectives:["Read marketing tips and spot persuasive language.","Compare products with comparative and superlative structures.","Use advertising and money vocabulary.","Link words naturally with linking r."]},{code:"5C",title:"Which should I buy?",pages:[62,63],labels:{grammar:"How to … summarise information from different sources",vocabulary:"describing products",pronunciation:"intonation in summarising phrases",skills:"how to"},objectives:["Summarise information from different sources.","Describe products clearly.","Use intonation in summarising phrases."]},{code:"5D",title:"I do it myself",pages:[64,65],labels:{grammar:"causative have and get; reflexive pronouns",skills:"BBC street interviews"},objectives:["Understand people talking about DIY.","Use the causative have/get and reflexive pronouns.","Write a meeting summary."]},{code:"5R",title:"Review 5",pages:[66,66],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 5.","Check your progress with a short unit quiz."],isReview:!0}]},{number:6,title:"places",phrase:"Cities and journeys",question:"What's your favourite city?",intro:"Explore cities, epic journeys and city transport, and imagine what the city of tomorrow could look like.",pages:[67,78],objectives:["6A Listening — understand people talking about great neighbourhoods; areas of a city; so and such; intonation for emphasis.","6B Reading — read about epic journeys; challenges; idioms; be/get used to.","6C How to … — ask for and confirm information; city transport; fast speech: just.","6D BBC Programme — understand a TV programme about how China has changed; talk about what a place is famous for; write a business idea."],lessons:[{code:"6A",title:"In the city",pages:[68,70],labels:{grammar:"so and such",vocabulary:"areas of a city",pronunciation:"intonation for emphasis with so and such",skills:"listening"},objectives:["Understand people talking about great neighbourhoods.","Use so and such for emphasis.","Describe areas of a city.","Write instructions for getting to a place."]},{code:"6B",title:"Great journeys",pages:[71,73],labels:{grammar:"be/get used to",vocabulary:"challenges; idioms",pronunciation:"be/get used to",skills:"reading"},objectives:["Read about epic journeys.","Talk about challenges with be/get used to.","Use travel idioms.","Pronounce be/get used to naturally."]},{code:"6C",title:"City transport",pages:[74,75],labels:{grammar:"How to … ask for and confirm information",vocabulary:"city transport",pronunciation:"fast speech: just",skills:"how to"},objectives:["Ask for and confirm information.","Use city transport vocabulary.","Understand fast speech with just."]},{code:"6D",title:"A city of tomorrow",pages:[76,77],labels:{vocabulary:"China",skills:"BBC programme"},objectives:["Understand a TV programme about how China has changed.","Talk about what a place is famous for.","Write a business idea."]},{code:"6R",title:"Review 6",pages:[78,78],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 6.","Check your progress with a short unit quiz."],isReview:!0}]},{number:7,title:"connect",phrase:"Communication",question:"What's your favourite word?",intro:"Connect with people: report conversations, talk about life online, and learn how to keep talking when a conversation stalls.",pages:[79,90],objectives:["7A Listening — understand a podcast about misunderstandings; reporting verbs; ways of speaking; reported speech; stress in reporting verbs.","7B Reading — read about oversharing online; computer use; internet words; passives; stress and weak forms in passives.","7C How to … — keep a conversation going; adverbs; intonation in short questions.","7D BBC Street Interviews — understand people talking about good and bad communication; avoiding repetition: so, to, not, be; write an advice email."],lessons:[{code:"7A",title:"Mix-up",pages:[80,82],labels:{grammar:"reported speech",vocabulary:"reporting verbs; ways of speaking",pronunciation:"stress in reporting verbs",skills:"listening"},objectives:["Understand a podcast about misunderstandings.","Report what other people said.","Use reporting verbs and ways of speaking.","Stress reporting verbs correctly."]},{code:"7B",title:"Oversharing",pages:[83,85],labels:{grammar:"passives",vocabulary:"computer use; internet words",pronunciation:"stress and weak forms in passives",skills:"reading"},objectives:["Read about oversharing online.","Use passives to focus on actions and information.","Use computer and internet vocabulary.","Notice stress and weak forms in passives."]},{code:"7C",title:"Conversation savers",pages:[86,87],labels:{grammar:"How to … keep a conversation going",vocabulary:"adverbs",pronunciation:"intonation in short questions",skills:"how to"},objectives:["Keep a conversation going.","Use adverbs to make questions and answers more natural.","Use intonation in short questions."]},{code:"7D",title:"A good communicator",pages:[88,89],labels:{grammar:"avoiding repetition: so, to, not, be",skills:"BBC street interviews"},objectives:["Understand people talking about good and bad communication.","Avoid repetition with so, to, not and be.","Write an advice email."]},{code:"7R",title:"Review 7",pages:[90,90],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 7.","Check your progress with a short unit quiz."],isReview:!0}]},{number:8,title:"wisdom",phrase:"Advice and ideas",question:"What's the best piece of advice you've ever been given?",intro:"Share wisdom, give advice and present your ideas with confidence — from life lessons to a pitch in the Dragons’ Den.",pages:[91,102],objectives:["8A Reading — read advice from people of different ages; phrases of advice; third conditional and should have; contractions in complex sentences.","8B Listening — understand the origins of one man’s curiosity; learning; phrasal verbs; would; contracted would.","8C How to … — give a presentation; presenting; stressing words in key phrases.","8D BBC Programme — understand entrepreneurs pitching ideas; talk about pitching a business idea; write a work-related email."],lessons:[{code:"8A",title:"Wise words",pages:[92,94],labels:{grammar:"third conditional and should have",vocabulary:"phrases of advice",pronunciation:"contractions in complex sentences",skills:"reading"},objectives:["Read advice from people of different ages.","Talk about unreal past situations with the third conditional and should have.","Use phrases of advice.","Use contractions in complex sentences."]},{code:"8B",title:"Life lessons",pages:[95,97],labels:{grammar:"would",vocabulary:"learning; phrasal verbs",pronunciation:"contracted would",skills:"listening"},objectives:["Understand the origins of one man’s curiosity.","Use would to talk about past habits.","Use phrasal verbs for learning.","Pronounce contracted would naturally."]},{code:"8C",title:"One thing I know …",pages:[98,99],labels:{grammar:"How to … give a presentation",vocabulary:"presenting",pronunciation:"stressing words in key phrases",skills:"how to"},objectives:["Give a presentation.","Use signposting phrases to structure a talk.","Stress key words in presentation phrases."]},{code:"8D",title:"Dragons' Den",pages:[100,101],labels:{vocabulary:"entrepreneurs",skills:"BBC programme"},objectives:["Understand entrepreneurs pitching ideas.","Talk about pitching a business idea.","Write a work-related email."]},{code:"8R",title:"Review 8",pages:[102,102],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 8.","Check your progress with a short unit quiz."],isReview:!0}]}];function uy(r){const l=[];for(let u=r[0];u<=r[1];u++)l.push(u-1);return l}function Xx(r,l){if(!l.code.endsWith("D"))return[];const u=r.number%2===1?"streetint":"programmes";return(fd[r.number]??[]).filter(h=>h.kind===u)}const $a={level:"B1+",edition:"3rd Edition",subtitle:"Student's Book"},lt=Kx.map(r=>{const l=fd[r.number]??[],u=r.lessons.map(h=>{const c=h.code,m=h.isReview?_x[r.number]:void 0;return{id:h.code.toLowerCase(),code:h.code,title:h.title,pages:h.pages,pdfPages:uy(h.pages),labels:h.labels,objectives:h.objectives,audio:Zy[c]??[],videos:Xx(r,h),grammar:Cx[h.code],vocab:jx[h.code],practice:Lx[h.code],blocks:{1:Ox,2:Dx,3:Hx,4:Mx,5:Ux,6:qx,7:Yx,8:Gx}[r.number]?.[h.code],quiz:m?{id:`unit-${r.number}`,title:`Unit ${r.number} progress check`,questions:m}:void 0}});return{id:String(r.number),number:r.number,title:r.title,phrase:r.phrase,question:r.question,intro:r.intro,pages:r.pages,pdfPages:uy(r.pages),overviewPdf:r.pages[0]-1,objectives:r.objectives,videos:l,lessons:u}});function yd(r){return lt.find(l=>String(l.number)===String(r))}function Zx(r,l){return yd(r)?.lessons.find(h=>h.id===l.toLowerCase())}function Xr(){return lt.flatMap(r=>r.lessons.map(l=>({unit:r,lesson:l})))}function Qx(r,l){const u=Xr(),h=u.findIndex(c=>String(c.unit.number)===r&&c.lesson.id===l);if(!(h<0))return u[h+1]}function $x(r,l){const u=Xr(),h=u.findIndex(c=>String(c.unit.number)===r&&c.lesson.id===l);if(!(h<=0))return u[h-1]}const Qy="speakout-b1plus.progress.v1",Fu=new Set;function Ur(){return{completed:{},quizzes:{},visits:{},startedAt:Date.now()}}function eA(){if(typeof window>"u")return Ur();try{const r=localStorage.getItem(Qy);if(!r)return Ur();const l=JSON.parse(r);return{completed:l.completed??{},quizzes:l.quizzes??{},visits:l.visits??{},last:l.last,startedAt:l.startedAt??Date.now()}}catch{return Ur()}}let it=eA();function $o(r){it=r;try{localStorage.setItem(Qy,JSON.stringify(r))}catch{}Fu.forEach(l=>l())}function ss(r,l){return`${r}/${l}`}function tA(r,l){return!!it.completed[ss(r,l)]}function nA(r,l){const u=ss(r,l);$o({...it,visits:{...it.visits,[u]:(it.visits[u]??0)+1},last:{unit:String(r),lesson:l}})}function $y(r,l){const u=ss(r,l);it.completed[u]||$o({...it,completed:{...it.completed,[u]:Date.now()},last:{unit:String(r),lesson:l}})}function aA(r,l){const u=ss(r,l),h={...it.completed};delete h[u],$o({...it,completed:h})}function oA(r,l){tA(r,l)?aA(r,l):$y(r,l)}function eg(r,l,u){const h=it.quizzes[r];if(h&&h.correct>=l){$o({...it,quizzes:{...it.quizzes,[r]:{...h,total:u}}});return}$o({...it,quizzes:{...it.quizzes,[r]:{correct:l,total:u,at:Date.now()}}})}function iA(){$o(Ur())}function to(){const r=T.useSyncExternalStore(l=>(Fu.add(l),()=>Fu.delete(l)),()=>it,()=>it);return{progress:r,get isComplete(){return(l,u)=>!!r.completed[ss(l,u)]},toggle:oA,complete:$y,visit:nA,recordQuiz:eg,reset:iA,completedCount:Object.keys(r.completed).length}}function Fo({value:r,className:l="",label:u,tone:h="brand"}){const c=Math.max(0,Math.min(100,r)),m={brand:"bg-brand-600 dark:bg-brand-400",accent:"bg-accent-600 dark:bg-accent-400",warm:"bg-warm-600 dark:bg-warm-500"};return s.jsx("div",{className:`h-2 overflow-hidden rounded-full bg-[var(--line)] ${l}`,role:"progressbar","aria-valuemin":0,"aria-valuemax":100,"aria-valuenow":Math.round(c),"aria-label":u,children:s.jsx("div",{className:`h-full rounded-full transition-[width] duration-700 ease-out ${m[h]}`,style:{width:`${c}%`}})})}function sA({open:r,onClose:l}){const u=to(),h=$v("/review")!==null;return s.jsxs(s.Fragment,{children:[s.jsx("div",{className:`fixed inset-0 z-50 bg-black/40 backdrop-blur-[2px] transition-opacity duration-300 ${r?"opacity-100":"pointer-events-none opacity-0"}`,onClick:l,"aria-hidden":"true"}),s.jsxs("aside",{className:`fixed inset-y-0 left-0 z-50 flex w-[min(88vw,380px)] flex-col border-r border-[var(--line)] bg-[var(--bg)] shadow-2xl transition-transform duration-300 ease-out ${r?"translate-x-0":"-translate-x-full"}`,"aria-label":"Book contents","aria-hidden":!r,children:[s.jsxs("div",{className:"flex items-center justify-between gap-3 border-b border-[var(--line)] px-4 py-3",children:[s.jsxs(Pn,{to:"/",onClick:l,className:"flex items-center gap-2.5",children:[s.jsx("span",{className:"grid h-9 w-9 place-items-center rounded-xl bg-brand-600 text-white shadow-sm",children:s.jsx(ft,{size:19})}),s.jsxs("span",{children:[s.jsx("span",{className:"block font-display text-lg leading-none text-[var(--ink)]",children:"Speakout"}),s.jsxs("span",{className:"text-[10px] font-bold uppercase tracking-[0.18em] text-brand-600 dark:text-brand-300",children:["B1+ · ",$a.edition]})]})]}),s.jsx("button",{type:"button",onClick:l,className:"grid h-9 w-9 place-items-center rounded-full text-[var(--ink-soft)] transition hover:bg-[var(--surface)]","aria-label":"Close contents",children:s.jsx(Ea,{size:19})})]}),s.jsxs("div",{className:"flex-1 overflow-y-auto overscroll-contain px-3 py-4",children:[s.jsx("div",{className:"mb-4 px-1",children:s.jsx(pd,{onNavigate:l})}),s.jsxs("nav",{className:"px-2",children:[s.jsx("p",{className:"mb-3 text-[10px] font-bold uppercase tracking-[0.22em] text-[var(--ink-faint)]",children:"Contents of the book"}),s.jsx("div",{className:"mb-5",children:s.jsxs(Pn,{to:"/review",onClick:l,className:`tactile flex items-center gap-2.5 rounded-xl border px-3 py-2.5 transition-colors ${h?"border-brand-500 bg-brand-600 text-white":"border-warm-200 bg-gradient-to-r from-warm-50 to-brand-50 text-brand-800 hover:shadow-sm dark:border-warm-900 dark:from-warm-950/50 dark:to-brand-950/50 dark:text-brand-200"}`,children:[s.jsx("span",{className:"grid size-9 shrink-0 place-items-center rounded-lg bg-brand-600 text-white",children:s.jsx(pt,{size:16})}),s.jsxs("span",{className:"min-w-0 flex-1",children:[s.jsx("span",{className:"block text-sm font-bold leading-tight",children:"Comprehensive review"}),s.jsx("span",{className:"block text-[11px] leading-tight text-[var(--ink-faint)]",dir:"rtl",lang:"ar",children:"المراجعة الشاملة"})]})]})}),s.jsx("div",{className:"space-y-5",children:lt.map(c=>s.jsxs("div",{children:[s.jsxs(Pn,{to:`/unit/${c.number}`,onClick:l,className:({isActive:m})=>`group flex items-baseline gap-2 transition-colors ${m?"text-brand-700 dark:text-brand-300":"hover:text-brand-700 dark:hover:text-brand-300"}`,children:[s.jsx("span",{className:"font-display text-lg font-bold leading-none tracking-tight",children:c.number}),s.jsx("span",{className:"min-w-0 truncate text-[13px] font-semibold",children:c.title}),s.jsx("span",{className:"toc-dots","aria-hidden":!0}),s.jsx("span",{className:"toc-page",children:c.lessons[0]?.pages?.[0]??""})]}),s.jsx("div",{className:"mt-1.5 space-y-0.5 border-l border-[var(--line)] pl-3",children:c.lessons.map(m=>{const f=u.isComplete(c.number,m.id)?"done":u.progress.visits[`${c.number}/${m.id}`]?"started":"todo";return s.jsxs(Pn,{to:`/unit/${c.number}/lesson/${m.id}`,onClick:l,className:({isActive:b})=>`toc-row group truncate rounded px-1.5 py-0.5 text-[13px] transition-colors ${b?"bg-[var(--line)] text-[var(--ink)]":f==="todo"?"text-[var(--ink-soft)] hover:text-[var(--ink)]":"text-[var(--ink)]"}`,children:[s.jsx("span",{className:"w-3 shrink-0 text-center text-[10px] leading-none",children:f==="done"?s.jsx(ln,{size:10,className:"text-brand-600"}):f==="started"?s.jsx("span",{className:"text-accent-600",children:"●"}):s.jsx("span",{className:"text-[var(--ink-faint)]",children:"○"})}),s.jsxs("span",{className:"min-w-0 truncate",children:[m.code!=="Review"?`${m.code} `:"",m.title]}),s.jsx("span",{className:"toc-dots","aria-hidden":!0}),s.jsx("span",{className:"toc-page shrink-0",children:m.pages[0]})]},m.id)})})]},c.id))}),s.jsxs("div",{className:"mt-6",children:[s.jsxs(Pn,{to:"/book",onClick:l,className:({isActive:c})=>`flex items-baseline gap-2 transition-colors ${c?"text-brand-700 dark:text-brand-300":"hover:text-brand-700 dark:hover:text-brand-300"}`,children:[s.jsx("span",{className:"font-display text-lg font-bold leading-none tracking-tight",children:"A"}),s.jsx("span",{className:"truncate text-[13px] font-semibold",children:"Reference banks"}),s.jsx("span",{className:"toc-dots","aria-hidden":!0}),s.jsx("span",{className:"toc-page",children:"back"})]}),s.jsxs("div",{className:"mt-1.5 space-y-0.5 border-l border-[var(--line)] pl-3",children:[s.jsxs(Pn,{to:"/bank/grammar",onClick:l,className:"toc-row group truncate rounded px-1.5 py-0.5 text-[13px] transition-colors text-[var(--ink-soft)] hover:text-[var(--ink)]",children:[s.jsx("span",{className:"w-3 shrink-0 text-[10px] leading-none text-[var(--ink-faint)]",children:"▲"}),s.jsx("span",{className:"min-w-0 truncate",children:"Grammar Bank"}),s.jsx("span",{className:"toc-dots","aria-hidden":!0}),s.jsx("span",{className:"toc-page shrink-0",children:"28"})]}),s.jsxs(Pn,{to:"/bank/vocabulary",onClick:l,className:"toc-row group truncate rounded px-1.5 py-0.5 text-[13px] transition-colors text-[var(--ink-soft)] hover:text-[var(--ink)]",children:[s.jsx("span",{className:"w-3 shrink-0 text-[10px] leading-none text-[var(--ink-faint)]",children:"▲"}),s.jsx("span",{className:"min-w-0 truncate",children:"Vocabulary Bank"}),s.jsx("span",{className:"toc-dots","aria-hidden":!0}),s.jsx("span",{className:"toc-page shrink-0",children:"132"})]})]})]})]})]}),s.jsxs("div",{className:"border-t border-[var(--line)] px-4 py-3",children:[s.jsxs("div",{className:"mb-1.5 flex items-center justify-between text-[10px] text-[var(--ink-faint)]",children:[s.jsx("span",{children:"Your progress"}),s.jsxs("span",{children:[Math.round(u.completedCount/40*100),"%"]})]}),s.jsx(Fo,{value:u.completedCount/40*100,label:"Course progress"})]})]})]})}const rA="./";function Ko(r){const l=r.replace(/^\/+/,"");return`${rA}${l}`}function Ku(r){return Ko(`book/p${String(r).padStart(3,"0")}.jpg`)}const Yu=[.5,.75,1,1.25,1.5,2];let we=null;if(typeof Audio<"u")try{we=new Audio}catch{we=null}let Gr=1,je=null,lA=0;const Xu=new Set,hA=new Set;function sn(){for(const r of Xu)r()}we&&(we.addEventListener("timeupdate",()=>{je&&(je.position=we.currentTime??0,sn())}),we.addEventListener("loadedmetadata",()=>{je&&(je.duration=Number.isFinite(we.duration)?we.duration:0,sn())}),we.addEventListener("play",()=>{je&&(je.playing=!0,sn())}),we.addEventListener("pause",()=>{je&&(je.playing=!1,sn())}),we.addEventListener("ended",()=>{je&&(je.playing=!1,je.position=0);for(const r of hA)r();sn()}),we.addEventListener("error",()=>{je&&(je.playing=!1,sn())}));function uA(){return++lA}function tg(){return je}function dA(){return Gr}function cA(r){Gr=Math.min(3,Math.max(.25,r)),we&&(we.playbackRate=Gr),sn()}function mA(r){return Xu.add(r),()=>{Xu.delete(r)}}function ng(r,l,u){if(we){if(je&&je.instance===u&&je.file===r){we.paused?we.play().catch(()=>{}):we.pause();return}we.src=r,we.load(),we.playbackRate=Gr,je={instance:u,file:r,label:l,playing:!1,position:0,duration:0},we.play().catch(()=>{}),sn()}}function ag(r){if(!we||!je)return;const l=je.duration||r,u=Math.max(0,Math.min(r,l));we.currentTime=u,je.position=u,sn()}function zr(r){if(!we||!je)return;const l=we.currentTime??je.position,u=je.duration||l+r,h=Math.max(0,Math.min(l+r,u));we.currentTime=h,je.position=h,sn()}function pA(){we&&(we.pause(),we.removeAttribute("src"),we.load()),je=null,sn()}function Pr(r){if(!Number.isFinite(r)||r<0)return"0:00";const l=Math.floor(r),u=Math.floor(l/60),h=l%60;return`${u}:${h.toString().padStart(2,"0")}`}function og(){const[,r]=T.useReducer(l=>l+1,0);return T.useEffect(()=>mA(()=>r()),[]),r}function ig({compact:r=!1}){const l=dA();return s.jsxs("button",{type:"button",onClick:()=>{const u=Yu.indexOf(l);cA(Yu[(u+1)%Yu.length])},className:`rounded-full border border-[var(--line)] font-semibold text-[var(--ink-soft)] transition hover:border-brand-500 hover:text-brand-600 dark:hover:text-brand-300 ${r?"px-2 py-0.5 text-[10px]":"px-2.5 py-1 text-xs"}`,"aria-label":`Playback speed ${l}x`,title:"Change playback speed",children:[Number.isInteger(l)?l:l.toFixed(2).replace(/0+$/,""),"×"]})}function fA({track:r}){og();const l=T.useRef(uA()),[u,h]=T.useState(!1),c=Ko(r.file),m=tg(),f=m?.file===c,b=!!(f&&m?.playing),w=f?m?.position??0:0,v=f?m?.duration??0:0,k=v?w/v*100:0;return s.jsxs("div",{className:`group rounded-xl border p-3 transition-colors ${f?"border-brand-300 bg-brand-50/70 dark:border-brand-700 dark:bg-brand-950/40":"border-[var(--line)] bg-[var(--surface)] hover:border-brand-200 dark:hover:border-brand-800"}`,children:[s.jsxs("div",{className:"flex items-center gap-3",children:[s.jsx("button",{type:"button",onClick:()=>ng(c,r.label,l.current),className:`grid h-11 w-11 shrink-0 place-items-center rounded-full text-white shadow-sm transition-transform active:scale-95 ${b?"bg-accent-600 hover:bg-accent-700":"bg-brand-600 hover:bg-brand-700"}`,"aria-label":b?`Pause track ${r.label}`:`Play track ${r.label}`,children:b?s.jsx(Jy,{size:19}):s.jsx(is,{size:19})}),s.jsxs("div",{className:"min-w-0 flex-1",children:[s.jsxs("div",{className:"flex items-center gap-2",children:[s.jsxs("span",{className:"inline-flex items-center gap-1.5 rounded-full bg-[var(--bg)] px-2 py-0.5 text-[11px] font-bold tracking-wide text-brand-700 ring-1 ring-[var(--line)] dark:text-brand-300",children:[s.jsx(Vy,{size:12}),r.label]}),r.note&&s.jsxs("span",{className:"hidden text-[11px] text-[var(--ink-faint)] sm:inline",children:["Audio ",r.note.replaceAll("_",".")]}),b&&s.jsxs("span",{className:"ml-auto flex h-3 items-end gap-0.5","aria-hidden":"true",children:[s.jsx("i",{className:"eq-bar h-2 w-0.5 animate-pulse rounded-full bg-brand-600"}),s.jsx("i",{className:"eq-bar h-3 w-0.5 animate-pulse rounded-full bg-brand-600 [animation-delay:120ms]"}),s.jsx("i",{className:"eq-bar h-1.5 w-0.5 animate-pulse rounded-full bg-brand-600 [animation-delay:240ms]"})]})]}),s.jsxs("div",{className:"mt-2 flex items-center gap-2",children:[s.jsx("span",{className:"w-9 text-right text-[10px] tabular-nums text-[var(--ink-faint)]",children:Pr(w)}),s.jsx("input",{type:"range",min:0,max:v||0,step:.1,value:Math.min(w,v||0),onChange:g=>ag(Number(g.target.value)),className:"h-1.5 min-w-0 flex-1 cursor-pointer accent-brand-600","aria-label":`Seek track ${r.label}`,disabled:!f,style:{backgroundSize:`${k}% 100%`}}),s.jsx("span",{className:"w-9 text-[10px] tabular-nums text-[var(--ink-faint)]",children:f?Pr(v):"--:--"})]})]}),s.jsxs("div",{className:"hidden shrink-0 flex-col items-end gap-1.5 sm:flex",children:[s.jsx(ig,{compact:!0}),s.jsxs("div",{className:"flex items-center gap-0.5",children:[s.jsx("button",{type:"button",onClick:()=>zr(-10),className:"grid h-7 w-7 place-items-center rounded-full text-[var(--ink-faint)] transition hover:bg-[var(--bg)] hover:text-brand-600","aria-label":"Rewind 10 seconds",children:s.jsx(Fy,{size:15})}),s.jsx("button",{type:"button",onClick:()=>zr(10),className:"grid h-7 w-7 place-items-center rounded-full text-[var(--ink-faint)] transition hover:bg-[var(--bg)] hover:text-brand-600","aria-label":"Forward 10 seconds",children:s.jsx(Ky,{size:15})})]})]})]}),r.transcript&&s.jsxs("div",{className:"mt-2 border-t border-[var(--line)] pt-2",children:[s.jsx("button",{type:"button",onClick:()=>h(g=>!g),className:"rounded-full border border-[var(--line)] px-2.5 py-1 text-[11px] font-semibold text-[var(--ink-soft)] transition hover:border-brand-500 hover:text-brand-600 dark:hover:text-brand-300","aria-expanded":u,children:u?"Hide script":"Show script"}),u&&s.jsx("div",{className:"mt-2 max-h-72 overflow-auto whitespace-pre-line rounded-lg bg-[var(--bg)] p-3 text-[13px] leading-relaxed text-[var(--ink-soft)]",children:r.transcript})]})]})}function gd({tracks:r,emptyLabel:l="No audio for this lesson."}){return r.length?s.jsx("div",{className:"space-y-2.5",children:r.map(u=>s.jsx(fA,{track:u},`${u.file}-${u.label}`))}):s.jsx("p",{className:"rounded-xl border border-dashed border-[var(--line-strong)] px-4 py-5 text-sm text-[var(--ink-faint)]",children:l})}function yA(){og();const r=tg();if(!r)return null;const l=r.duration?r.position/r.duration*100:0;return s.jsx("div",{className:"fixed inset-x-0 bottom-0 z-40 border-t border-[var(--line)] bg-[var(--surface)]/95 pb-[env(safe-area-inset-bottom)] shadow-[0_-10px_30px_rgb(0_0_0/0.08)] backdrop-blur",children:s.jsx("div",{className:"mx-auto max-w-4xl px-3 py-2.5 sm:px-6",children:s.jsxs("div",{className:"flex items-center gap-3",children:[s.jsx("button",{type:"button",onClick:()=>ng(r.file,r.label,r.instance),className:"grid h-10 w-10 shrink-0 place-items-center rounded-full bg-brand-600 text-white shadow-sm transition hover:bg-brand-700 active:scale-95","aria-label":r.playing?"Pause audio":"Play audio",children:r.playing?s.jsx(Jy,{size:17}):s.jsx(is,{size:17})}),s.jsxs("div",{className:"min-w-0 flex-1",children:[s.jsxs("div",{className:"flex items-baseline gap-2",children:[s.jsxs("p",{className:"truncate text-xs font-semibold text-[var(--ink)]",children:["Audio ",r.label]}),s.jsxs("span",{className:"ml-auto text-[10px] tabular-nums text-[var(--ink-faint)]",children:[Pr(r.position)," / ",Pr(r.duration)]})]}),s.jsx("input",{type:"range",min:0,max:r.duration||0,step:.1,value:Math.min(r.position,r.duration||0),onChange:u=>ag(Number(u.target.value)),className:"mt-1 h-1.5 w-full cursor-pointer accent-brand-600","aria-label":"Seek audio",style:{backgroundSize:`${l}% 100%`}})]}),s.jsxs("div",{className:"hidden items-center gap-1 sm:flex",children:[s.jsx("button",{type:"button",onClick:()=>zr(-10),className:"grid h-8 w-8 place-items-center rounded-full text-[var(--ink-faint)] transition hover:bg-[var(--bg)] hover:text-brand-600","aria-label":"Rewind 10 seconds",children:s.jsx(Fy,{size:16})}),s.jsx("button",{type:"button",onClick:()=>zr(10),className:"grid h-8 w-8 place-items-center rounded-full text-[var(--ink-faint)] transition hover:bg-[var(--bg)] hover:text-brand-600","aria-label":"Forward 10 seconds",children:s.jsx(Ky,{size:16})}),s.jsx(ig,{compact:!0})]}),s.jsx("button",{type:"button",onClick:pA,className:"grid h-8 w-8 place-items-center rounded-full text-[var(--ink-faint)] transition hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-900/30","aria-label":"Close audio player",children:s.jsx(Py,{size:16})})]})})})}const gA="speakout-b1plus.scroll:";function sg(r){return`${gA}${r}`}function wA(r){try{const l=Number(sessionStorage.getItem(sg(r)));return Number.isFinite(l)&&l>0?l:0}catch{return 0}}function dy(r,l){try{sessionStorage.setItem(sg(r),String(l))}catch{}}function bA(){const{pathname:r}=Ot(),l=Qv();return T.useEffect(()=>{"scrollRestoration"in window.history&&(window.history.scrollRestoration="manual")},[]),T.useEffect(()=>{let u=0,h=0;const c=()=>{h=0,u=performance.now(),dy(r,window.scrollY)},m=()=>{const w=120-(performance.now()-u);w<=0?c():h||(h=window.setTimeout(c,w))},f=()=>{h&&(window.clearTimeout(h),h=0),dy(r,window.scrollY)},b=()=>{document.visibilityState==="hidden"&&f()};return window.addEventListener("scroll",m,{passive:!0}),window.addEventListener("pagehide",f),document.addEventListener("visibilitychange",b),()=>{h&&window.clearTimeout(h),window.removeEventListener("scroll",m),window.removeEventListener("pagehide",f),document.removeEventListener("visibilitychange",b)}},[r]),T.useEffect(()=>{const u=l==="POP"?wA(r):0;if(u<=0){window.scrollTo({top:0,behavior:"instant"});return}let h=0,c=0,m=!1;const f=()=>{m=!0},b=()=>{m||(window.scrollTo({top:u,behavior:"instant"}),c<30&&Math.abs(window.scrollY-u)>2&&(c+=1,h=requestAnimationFrame(b)))};b();const w=[window.setTimeout(b,200),window.setTimeout(b,700)],v=()=>b();return window.addEventListener("load",v,{once:!0}),window.addEventListener("wheel",f,{once:!0,passive:!0}),window.addEventListener("touchstart",f,{once:!0,passive:!0}),window.addEventListener("keydown",f,{once:!0}),()=>{m=!0,h&&cancelAnimationFrame(h),w.forEach(k=>window.clearTimeout(k)),window.removeEventListener("load",v),window.removeEventListener("wheel",f),window.removeEventListener("touchstart",f),window.removeEventListener("keydown",f)}},[r,l]),null}function vA(){const[r,l]=T.useState(0);return T.useEffect(()=>{const u=()=>{const h=document.documentElement.scrollHeight-window.innerHeight;l(h>0?window.scrollY/h*100:0)};return u(),window.addEventListener("scroll",u,{passive:!0}),window.addEventListener("resize",u),()=>{window.removeEventListener("scroll",u),window.removeEventListener("resize",u)}},[]),s.jsx("div",{className:"fixed inset-x-0 top-0 z-[35] h-0.5 bg-transparent","aria-hidden":"true",children:s.jsx("div",{className:"h-full bg-brand-500 transition-[width] duration-150",style:{width:`${r}%`}})})}function kA(){const[r,l]=T.useState(!1);return s.jsxs("div",{className:"flex min-h-screen flex-col",children:[s.jsx(bA,{}),s.jsx(vA,{}),s.jsx(kx,{onContents:()=>l(!0)}),s.jsx(sA,{open:r,onClose:()=>l(!1)}),s.jsx("main",{className:"mx-auto w-full max-w-4xl flex-1 px-4 pb-28 pt-6 sm:px-6 sm:pt-8",children:s.jsx(yk,{})}),s.jsx("footer",{className:"mt-auto border-t border-[var(--line)] pb-24",children:s.jsxs("div",{className:"mx-auto grid max-w-4xl gap-6 px-4 py-8 sm:grid-cols-[1fr_auto] sm:px-6",children:[s.jsxs("div",{children:[s.jsxs(z,{to:"/",className:"inline-flex items-center gap-2",children:[s.jsx("span",{className:"grid h-8 w-8 place-items-center rounded-lg bg-brand-600 text-white",children:s.jsx(ft,{size:16})}),s.jsxs("span",{className:"font-display text-lg text-[var(--ink)]",children:["Speakout ",$a.level]})]}),s.jsxs("p",{className:"mt-2 max-w-md text-xs leading-relaxed text-[var(--ink-faint)]",children:[$a.edition," ",$a.subtitle,". All lesson pages, audio, video, grammar notes and vocabulary are taken from the B1+ Student’s Book. The page image is authoritative wherever a transcription is shown."]})]}),s.jsxs("nav",{className:"flex flex-wrap gap-x-5 gap-y-2 text-xs font-semibold text-[var(--ink-soft)]","aria-label":"Footer",children:[s.jsx(z,{className:"hover:text-brand-600",to:"/book",children:"Contents"}),s.jsxs(z,{className:"inline-flex items-center gap-1 hover:text-brand-600",to:"/bank/grammar",children:[s.jsx(pt,{size:13})," Grammar"]}),s.jsxs(z,{className:"inline-flex items-center gap-1 hover:text-brand-600",to:"/bank/vocabulary",children:[s.jsx(ft,{size:13})," Vocabulary"]}),s.jsxs(z,{className:"inline-flex items-center gap-1 hover:text-brand-600",to:"/media",children:[s.jsx(hn,{size:13})," Media"]})]})]})}),s.jsx(yA,{})]})}function cy({children:r,className:l="",delay:u=0,as:h="div"}){const c=T.useRef(null);return T.useEffect(()=>{const m=c.current;if(!m)return;if(window.matchMedia?.("(prefers-reduced-motion: reduce)").matches){m.classList.add("is-visible");return}const f=new IntersectionObserver(b=>{for(const w of b)w.isIntersecting&&(m.classList.add("is-visible"),f.disconnect())},{threshold:.08,rootMargin:"0px 0px -40px 0px"});return f.observe(m),()=>f.disconnect()},[]),s.jsx(h,{ref:c,className:`reveal ${l}`,style:u?{transitionDelay:`${u}ms`}:void 0,children:r})}function xA(){const{progress:r,isComplete:l,completedCount:u}=to(),h=Xr(),c=Math.round(u/h.length*100),m=r.last,f=m?h.find(v=>String(v.unit.number)===m.unit&&v.lesson.id===m.lesson):void 0,b=f?`/unit/${f.unit.number}/lesson/${f.lesson.id}`:"/unit/1/lesson/1a",w=f?`Continue ${f.lesson.code}`:"Start with 1A";return s.jsxs("div",{className:"space-y-10 sm:space-y-14",children:[s.jsxs("section",{className:"relative grid items-center gap-8 md:grid-cols-[1.15fr_0.85fr]",children:[s.jsxs("div",{className:"relative z-10",children:[s.jsxs("p",{className:"inline-flex items-center gap-2 rounded-full border border-brand-200 bg-brand-50 px-3 py-1 text-[10px] font-bold uppercase tracking-[0.17em] text-brand-700 dark:border-brand-800 dark:bg-brand-950/50 dark:text-brand-300",children:[s.jsx(md,{size:13}),$a.edition," · English course"]}),s.jsxs("h1",{className:"mt-4 font-display text-5xl leading-[0.95] text-[var(--ink)] sm:text-6xl",children:["Speakout",s.jsx("span",{className:"ml-2 inline-block rounded-2xl bg-accent-600 px-3 py-1 align-middle text-2xl font-sans font-black tracking-tight text-white shadow-lg shadow-accent-600/25 sm:text-3xl",children:"B1+"})]}),s.jsxs("p",{className:"mt-4 max-w-lg text-[15px] leading-relaxed text-[var(--ink-soft)]",children:["The complete ",$a.subtitle,", page by page. Every lesson, audio track and BBC video from the book, with the full Grammar and Vocabulary Banks in one calm place to study."]}),s.jsxs("div",{className:"mt-6 flex flex-wrap items-center gap-3",children:[s.jsxs(z,{to:b,className:"inline-flex items-center gap-2 rounded-full bg-brand-600 px-5 py-2.5 text-sm font-semibold text-white shadow-lg shadow-brand-600/20 transition hover:-translate-y-0.5 hover:bg-brand-700",children:[s.jsx(is,{size:16}),w]}),s.jsxs(z,{to:"/book",className:"inline-flex items-center gap-2 rounded-full border border-[var(--line-strong)] bg-[var(--surface)] px-5 py-2.5 text-sm font-semibold text-[var(--ink)] transition hover:border-brand-400 hover:text-brand-700",children:["Browse contents",s.jsx(Vn,{size:15})]})]}),s.jsx("dl",{className:"mt-7 grid max-w-lg grid-cols-4 gap-2 border-t border-[var(--line)] pt-4",children:[["8","units"],["40","lessons"],["81","audio"],["16","videos"]].map(([v,k])=>s.jsxs("div",{children:[s.jsx("dt",{className:"font-display text-2xl text-brand-700 dark:text-brand-300",children:v}),s.jsx("dd",{className:"text-[10px] font-semibold uppercase tracking-[0.14em] text-[var(--ink-faint)]",children:k})]},k))})]}),s.jsxs("div",{className:"relative mx-auto w-full max-w-[280px] md:max-w-none",children:[s.jsx("div",{className:"absolute -inset-8 -z-10 rounded-full bg-gradient-to-br from-brand-200/60 via-accent-100/50 to-warm-100/60 blur-3xl dark:from-brand-800/30 dark:via-accent-900/20 dark:to-warm-900/20"}),s.jsx(z,{to:"/book",className:"book-cover book-cover-sheen block rotate-2 overflow-hidden rounded-lg border border-[var(--line)] shadow-[0_30px_60px_-25px_rgb(0_0_0/0.55)] transition-transform duration-500 hover:rotate-0 hover:scale-[1.02]","aria-label":"Open the book contents",children:s.jsx("img",{src:Ku(1),alt:"Speakout B1+ Student's Book cover",className:"aspect-[1/1.414] w-full object-cover"})}),s.jsxs("div",{className:"absolute -left-5 bottom-16 hidden rounded-xl border border-[var(--line)] bg-[var(--surface)]/95 px-3 py-2 shadow-xl backdrop-blur sm:block",children:[s.jsxs("p",{className:"flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-wide text-brand-600 dark:text-brand-300",children:[s.jsx(Fn,{size:12})," Listen & watch"]}),s.jsx("p",{className:"mt-0.5 text-xs font-semibold text-[var(--ink)]",children:"All book media included"})]}),s.jsxs("div",{className:"absolute -right-4 top-10 hidden rounded-xl border border-[var(--line)] bg-[var(--surface)]/95 px-3 py-2 shadow-xl backdrop-blur sm:block",children:[s.jsx("p",{className:"text-[10px] font-bold uppercase tracking-wide text-warm-600",children:"Your progress"}),s.jsxs("div",{className:"mt-1 flex items-center gap-2",children:[s.jsx(Fo,{value:c,className:"w-16",tone:"warm"}),s.jsxs("span",{className:"text-xs font-bold tabular-nums text-[var(--ink)]",children:[c,"%"]})]})]})]})]}),s.jsxs(cy,{as:"section",className:"rounded-2xl border border-[var(--line)] bg-[var(--surface)] p-4 shadow-sm sm:p-5",children:[s.jsxs("div",{className:"flex flex-wrap items-center justify-between gap-3",children:[s.jsxs("div",{className:"flex items-center gap-3",children:[s.jsx("span",{className:"grid h-10 w-10 place-items-center rounded-xl bg-brand-100 text-brand-700 dark:bg-brand-950 dark:text-brand-300",children:s.jsx(pt,{size:20})}),s.jsxs("div",{children:[s.jsx("p",{className:"text-sm font-bold text-[var(--ink)]",children:u===0?"Your course starts here":`${u} of ${h.length} lessons complete`}),s.jsx("p",{className:"text-xs text-[var(--ink-faint)]",children:u===0?"Mark a lesson complete at the bottom of its page.":c===100?"You have completed the whole book. Excellent work!":"Keep going — every lesson builds on the last."})]})]}),s.jsxs(z,{to:b,className:"inline-flex items-center gap-1.5 rounded-full bg-[var(--bg)] px-3 py-1.5 text-xs font-semibold text-brand-700 ring-1 ring-[var(--line)] transition hover:bg-brand-50 dark:text-brand-300 dark:hover:bg-brand-950/40",children:[w," ",s.jsx(Qa,{size:13})]})]}),s.jsx(Fo,{value:c,className:"mt-4 h-2.5",label:"Course progress"})]}),s.jsxs("section",{children:[s.jsxs("div",{className:"mb-4 flex flex-wrap items-end justify-between gap-2",children:[s.jsxs("div",{children:[s.jsx("p",{className:"text-[10px] font-bold uppercase tracking-[0.18em] text-brand-600 dark:text-brand-300",children:"The course"}),s.jsx("h2",{className:"mt-1 font-display text-2xl text-[var(--ink)] sm:text-3xl",children:"Eight units, one journey"})]}),s.jsx(z,{to:"/book",className:"text-xs font-semibold text-brand-700 hover:underline dark:text-brand-300",children:"See full contents →"})]}),s.jsx("div",{className:"grid gap-3 sm:grid-cols-2",children:lt.map((v,k)=>{const g=v.lessons.filter(O=>l(v.number,O.id)).length,R=Math.round(g/v.lessons.length*100);return s.jsx(cy,{delay:k*35,children:s.jsxs(z,{to:`/unit/${v.number}`,className:"group flex h-full gap-3.5 rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4 transition-all hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-lg dark:hover:border-brand-800",children:[s.jsx("span",{className:"grid h-12 w-12 shrink-0 place-items-center rounded-xl bg-brand-600 font-display text-xl text-white shadow-sm transition-transform group-hover:-rotate-3",children:v.number}),s.jsxs("div",{className:"min-w-0 flex-1",children:[s.jsxs("div",{className:"flex items-start justify-between gap-2",children:[s.jsx("h3",{className:"font-display text-lg leading-tight text-[var(--ink)]",children:v.title}),s.jsx(Vn,{size:16,className:"mt-1 shrink-0 text-[var(--ink-faint)] transition group-hover:translate-x-0.5 group-hover:text-brand-600"})]}),s.jsxs("p",{className:"mt-0.5 line-clamp-1 text-[11px] italic text-[var(--ink-faint)]",children:["“",v.question,"”"]}),s.jsxs("div",{className:"mt-2.5 flex items-center gap-2",children:[s.jsx(Fo,{value:R,className:"h-1.5"}),s.jsxs("span",{className:"shrink-0 text-[10px] tabular-nums text-[var(--ink-faint)]",children:[g,"/",v.lessons.length]})]})]})]})},v.id)})})]}),s.jsx("section",{className:"grid gap-3 sm:grid-cols-3",children:[{to:"/bank/grammar",icon:s.jsx(pt,{size:19}),title:"Grammar Bank",text:`${Sa.length} reference lessons with examples and page images.`,tone:"bg-brand-100 text-brand-700 dark:bg-brand-950 dark:text-brand-300"},{to:"/bank/vocabulary",icon:s.jsx(ft,{size:19}),title:"Vocabulary Bank",text:`${En.length} word groups — materials, films, money, idioms and more.`,tone:"bg-accent-100 text-accent-700 dark:bg-accent-950 dark:text-accent-300"},{to:"/media",icon:s.jsx(hn,{size:19}),title:"Audio & video",text:"81 tracks and 16 BBC videos, organised by unit and lesson.",tone:"bg-warm-100 text-warm-700 dark:bg-warm-950/60 dark:text-warm-300"}].map(v=>s.jsxs(z,{to:v.to,className:"group rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4 transition hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-md dark:hover:border-brand-800",children:[s.jsx("span",{className:`grid h-9 w-9 place-items-center rounded-lg ${v.tone}`,children:v.icon}),s.jsxs("h3",{className:"mt-2.5 flex items-center gap-1 text-sm font-bold text-[var(--ink)]",children:[v.title,s.jsx(Qa,{size:13,className:"opacity-0 transition group-hover:opacity-100"})]}),s.jsx("p",{className:"mt-1 text-xs leading-relaxed text-[var(--ink-faint)]",children:v.text})]},v.to))}),s.jsx("section",{className:"rounded-2xl border border-[var(--line)] bg-gradient-to-br from-brand-600 to-brand-800 p-5 text-white shadow-lg sm:p-7",children:s.jsxs("div",{className:"flex flex-wrap items-center justify-between gap-4",children:[s.jsxs("div",{className:"max-w-lg",children:[s.jsxs("p",{className:"flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-[0.18em] text-brand-200",children:[s.jsx(ln,{size:13})," Everything in one place"]}),s.jsx("h2",{className:"mt-1.5 font-display text-2xl sm:text-3xl",children:"Read the page. Play the audio. Do the practice."}),s.jsx("p",{className:"mt-1.5 text-sm text-brand-100/90",children:"Every lesson follows the same rhythm so you always know what to do next."})]}),s.jsxs("div",{className:"flex flex-wrap gap-2",children:[s.jsx(z,{to:"/review",className:"rounded-full bg-white px-4 py-2 text-xs font-bold text-brand-800 transition hover:bg-brand-50",children:"Review & practice"}),s.jsx(z,{to:"/scripts",className:"rounded-full border border-white/40 px-4 py-2 text-xs font-bold text-white transition hover:bg-white/10",children:"Audio scripts"})]})]})})]})}function Sn({eyebrow:r,title:l,description:u,backTo:h,backLabel:c="Back",children:m}){return s.jsxs("header",{className:"mb-6 sm:mb-8",children:[h&&s.jsxs(z,{to:h,className:"mb-3 inline-flex items-center gap-1 text-xs font-semibold text-[var(--ink-soft)] transition hover:text-brand-600",children:[s.jsx(Yr,{size:14}),c]}),r&&s.jsx("p",{className:"mb-2 text-[10px] font-bold uppercase tracking-[0.2em] text-brand-600 dark:text-brand-300",children:r}),s.jsx("h1",{className:"font-display text-3xl leading-[1.1] text-[var(--ink)] sm:text-4xl",children:l}),u&&s.jsx("p",{className:"mt-2.5 max-w-2xl text-sm leading-relaxed text-[var(--ink-soft)]",children:u}),m&&s.jsx("div",{className:"mt-4",children:m})]})}function Vt({icon:r,title:l,hint:u,action:h}){return s.jsxs("div",{className:"mb-3 flex flex-wrap items-end justify-between gap-2",children:[s.jsxs("div",{children:[s.jsxs("h2",{className:"flex items-center gap-2 text-base font-bold text-[var(--ink)]",children:[r,l]}),u&&s.jsx("p",{className:"mt-0.5 text-xs text-[var(--ink-faint)]",children:u})]}),h]})}function yt({children:r,tone:l="neutral"}){const u={neutral:"bg-[var(--bg)] text-[var(--ink-soft)] ring-[var(--line)]",brand:"bg-brand-100 text-brand-800 ring-brand-200 dark:bg-brand-950 dark:text-brand-200 dark:ring-brand-800",accent:"bg-accent-100 text-accent-800 ring-accent-200 dark:bg-accent-950 dark:text-accent-200 dark:ring-accent-800",warm:"bg-warm-100 text-warm-900 ring-warm-200 dark:bg-warm-950/60 dark:text-warm-200 dark:ring-warm-800"};return s.jsx("span",{className:`inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-semibold ring-1 ${u[l]}`,children:r})}function AA(){const{isComplete:r,completedCount:l}=to();return s.jsxs("div",{children:[s.jsx(Sn,{eyebrow:"Speakout B1+ · Student's Book",title:"Contents",description:`The complete book, ${$a.edition}. Printed page numbers are shown for every lesson; each lesson page opens the original book pages, audio and practice.`,children:s.jsxs("div",{className:"flex flex-wrap gap-2 text-xs",children:[s.jsxs("span",{className:"rounded-full bg-brand-100 px-3 py-1 font-semibold text-brand-800 dark:bg-brand-950 dark:text-brand-200",children:[lt.length," units"]}),s.jsx("span",{className:"rounded-full bg-[var(--surface)] px-3 py-1 font-semibold text-[var(--ink-soft)] ring-1 ring-[var(--line)]",children:"40 lessons"}),s.jsxs("span",{className:"rounded-full bg-[var(--surface)] px-3 py-1 font-semibold text-[var(--ink-soft)] ring-1 ring-[var(--line)]",children:[l," complete"]})]})}),s.jsx("div",{className:"book-page overflow-hidden p-1 sm:p-2",children:s.jsxs("div",{className:"rounded-[3px] border border-[var(--line)] bg-[var(--surface)]",children:[s.jsxs("div",{className:"flex items-center justify-between gap-3 border-b border-[var(--line)] px-4 py-3 sm:px-6",children:[s.jsxs("div",{children:[s.jsx("p",{className:"text-[10px] font-bold uppercase tracking-[0.2em] text-brand-600 dark:text-brand-300",children:"Book map"}),s.jsx("p",{className:"text-xs text-[var(--ink-faint)]",children:"Unit opener · lessons · review"})]}),s.jsx("span",{className:"text-xs tabular-nums text-[var(--ink-faint)]",children:"pp. 6–102"})]}),s.jsx("div",{className:"divide-y divide-[var(--line)]",children:lt.map(u=>s.jsxs("section",{className:"px-3 py-4 sm:px-5 sm:py-5",children:[s.jsxs("div",{className:"flex items-start gap-3",children:[s.jsx(z,{to:`/unit/${u.number}`,className:"grid h-12 w-12 shrink-0 place-items-center rounded-xl bg-brand-600 font-display text-xl text-white shadow-sm transition hover:-rotate-3 hover:bg-brand-700","aria-label":`Open Unit ${u.number}`,children:u.number}),s.jsxs("div",{className:"min-w-0 flex-1",children:[s.jsxs("div",{className:"flex flex-wrap items-baseline gap-x-2",children:[s.jsx(z,{to:`/unit/${u.number}`,className:"font-display text-xl text-[var(--ink)] hover:text-brand-700",children:u.title}),s.jsxs("span",{className:"text-[10px] font-bold uppercase tracking-[0.16em] text-[var(--ink-faint)]",children:["Unit ",u.number," · p. ",u.pages[0]]})]}),s.jsxs("p",{className:"mt-0.5 text-xs italic text-[var(--ink-soft)]",children:["“",u.question,"”"]})]})]}),s.jsx("div",{className:"mt-3 divide-y divide-[var(--line)] rounded-lg border border-[var(--line)] bg-[var(--bg)]/35",children:u.lessons.map(h=>{const c=r(u.number,h.id);return s.jsxs(z,{to:`/unit/${u.number}/lesson/${h.id}`,className:"toc-row group px-3 py-2.5 transition hover:bg-brand-50/60 dark:hover:bg-brand-950/30",children:[s.jsx("span",{className:"w-12 shrink-0 text-[11px] font-black text-brand-600 dark:text-brand-300",children:h.code}),s.jsxs("span",{className:"min-w-0 shrink-0",children:[s.jsx("span",{className:`block text-xs font-semibold ${c?"text-brand-700 dark:text-brand-300":"text-[var(--ink)]"}`,children:h.title}),s.jsx("span",{className:"hidden text-[10px] text-[var(--ink-faint)] sm:block",children:h.labels.grammar??h.labels.vocabulary??h.labels.skills})]}),s.jsx("span",{className:"toc-dots"}),c&&s.jsx("span",{className:"text-[10px] font-semibold text-brand-600",children:"done"}),s.jsx("span",{className:"toc-page tabular-nums",children:h.pages[0]}),s.jsx(Vn,{size:13,className:"shrink-0 text-[var(--ink-faint)] transition group-hover:translate-x-0.5 group-hover:text-brand-600"})]},h.id)})})]},u.id))})]})}),s.jsxs("section",{className:"mt-8",children:[s.jsx(Vt,{icon:s.jsx(px,{size:18}),title:"Reference banks",hint:"Extra pages at the back of the book."}),s.jsxs("div",{className:"grid gap-3 sm:grid-cols-3",children:[s.jsxs(z,{to:"/bank/grammar",className:"group rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4 transition hover:border-brand-300 hover:shadow-md",children:[s.jsx(pt,{size:19,className:"text-brand-600"}),s.jsx("h3",{className:"mt-2 text-sm font-bold",children:"Grammar Bank"}),s.jsxs("p",{className:"mt-0.5 text-xs text-[var(--ink-faint)]",children:[Sa.length," lessons · pp. 104–131"]})]}),s.jsxs(z,{to:"/bank/vocabulary",className:"group rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4 transition hover:border-accent-300 hover:shadow-md",children:[s.jsx(ft,{size:19,className:"text-accent-600"}),s.jsx("h3",{className:"mt-2 text-sm font-bold",children:"Vocabulary Bank"}),s.jsxs("p",{className:"mt-0.5 text-xs text-[var(--ink-faint)]",children:[En.length," groups · pp. 132–137"]})]}),s.jsxs(z,{to:"/media",className:"group rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4 transition hover:border-warm-300 hover:shadow-md",children:[s.jsx(hn,{size:19,className:"text-warm-600"}),s.jsx("h3",{className:"mt-2 text-sm font-bold",children:"Audio & video"}),s.jsx("p",{className:"mt-0.5 text-xs text-[var(--ink-faint)]",children:"81 tracks · 16 BBC videos"})]})]})]})]})}function as({pages:r,printedPages:l,title:u,compact:h=!1}){const[c,m]=T.useState(null),[f,b]=T.useState(!1),w=c!==null,v=R=>l?.[R]??r[R],k=T.useCallback(()=>{m(null),b(!1)},[]),g=T.useCallback(R=>{m(O=>O===null?O:(O+R+r.length)%r.length),b(!1)},[r.length]);return T.useEffect(()=>{if(!w)return;const R=document.body.style.overflow;document.body.style.overflow="hidden";const O=q=>{q.key==="Escape"&&k(),q.key==="ArrowLeft"&&g(-1),q.key==="ArrowRight"&&g(1)};return window.addEventListener("keydown",O),()=>{document.body.style.overflow=R,window.removeEventListener("keydown",O)}},[w,k,g]),s.jsxs(s.Fragment,{children:[s.jsx("div",{className:`grid gap-4 ${r.length>1?"sm:grid-cols-2":""} ${h?"gap-3":""}`,children:r.map((R,O)=>s.jsxs("figure",{className:"group min-w-0",children:[s.jsx("button",{type:"button",onClick:()=>m(O),className:"book-cover page-sweep block w-full overflow-hidden rounded-xl border border-[var(--line)] bg-[var(--surface)] text-left shadow-sm transition-all hover:-translate-y-0.5 hover:shadow-xl focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-600","aria-label":`Open page ${v(O)} of ${u}`,children:s.jsx("img",{src:Ku(R),alt:`${u} — page ${v(O)}`,loading:"lazy",decoding:"async",className:"aspect-[1/1.414] w-full object-cover transition-transform duration-500 group-hover:scale-[1.015]"})}),s.jsxs("figcaption",{className:"mt-2 flex items-center justify-between gap-2 px-0.5 text-xs text-[var(--ink-faint)]",children:[s.jsxs("span",{className:"inline-flex items-center gap-1.5",children:[s.jsx(dx,{size:13}),"Page ",v(O)]}),s.jsx("span",{className:"opacity-0 transition-opacity group-hover:opacity-100",children:"Click to zoom"})]})]},R))}),w&&Qk.createPortal(s.jsxs("div",{className:"fixed inset-0 z-[90] flex flex-col bg-[#0b1113]/95 text-white backdrop-blur-sm",role:"dialog","aria-modal":"true","aria-label":`${u}, page ${v(c)}`,children:[s.jsxs("div",{className:"flex items-center justify-between gap-3 border-b border-white/10 px-4 py-3 sm:px-6",children:[s.jsxs("div",{className:"min-w-0",children:[s.jsx("p",{className:"truncate text-sm font-semibold",children:u}),s.jsxs("p",{className:"text-xs text-white/60",children:[c+1," / ",r.length," · Page ",v(c)]})]}),s.jsxs("div",{className:"flex items-center gap-1.5",children:[s.jsx("button",{type:"button",onClick:()=>b(R=>!R),className:"grid h-9 w-9 place-items-center rounded-full bg-white/10 transition hover:bg-white/20","aria-label":f?"Zoom out":"Zoom in",title:f?"Zoom out":"Zoom in",children:f?s.jsx(mx,{size:18}):s.jsx(cx,{size:18})}),s.jsx("button",{type:"button",onClick:k,className:"grid h-9 w-9 place-items-center rounded-full bg-white/10 transition hover:bg-white/20","aria-label":"Close viewer",children:s.jsx(Py,{size:18})})]})]}),s.jsx("div",{className:`relative flex-1 ${f?"overflow-auto":"overflow-hidden"}`,onClick:R=>{R.target===R.currentTarget&&k()},children:s.jsx("div",{className:`flex min-h-full items-center justify-center p-3 sm:p-6 ${f?"w-max min-w-full":""}`,children:s.jsx("img",{src:Ku(r[c]),alt:`${u} — page ${v(c)}`,className:`rounded-md bg-white shadow-2xl transition-[width] duration-300 ${f?"w-[1600px] max-w-none":"max-h-[calc(100vh-9rem)] max-w-full object-contain"}`})})}),r.length>1&&s.jsxs(s.Fragment,{children:[s.jsx("button",{type:"button",onClick:()=>g(-1),className:"absolute left-2 top-1/2 grid h-11 w-11 -translate-y-1/2 place-items-center rounded-full bg-black/40 text-white backdrop-blur transition hover:bg-black/60 sm:left-5","aria-label":"Previous page",children:s.jsx(Yr,{size:24})}),s.jsx("button",{type:"button",onClick:()=>g(1),className:"absolute right-2 top-1/2 grid h-11 w-11 -translate-y-1/2 place-items-center rounded-full bg-black/40 text-white backdrop-blur transition hover:bg-black/60 sm:right-5","aria-label":"Next page",children:s.jsx(Vn,{size:24})})]})]}),document.body)]})}const IA={6:{text:`LISTENING/VIDEO SPEAKING WRITING
+would have won the race. are true for you. Do you have anything in common?`,"102"]},{type:"text",title:"In this lesson",titleAr:"في هذا الدرس",paragraphs:["Review the grammar and vocabulary from Unit 8.","Check your progress with a short unit quiz."]}]};function zx(r){return r.startsWith("VB")?`VB ${r.slice(2).replace("_",".")}`:r.startsWith("MB")?`MB ${r.slice(2).replace("_",".")}`:r.startsWith("R")?`Review ${r.slice(1).replace("_",".")}`:r.replace("_",".")}const Px=Xy.audio,Jx=Xy.video;function Vx(r){const l=r.match(/^(VB|MB|R)?(\d+)_(\d+)$/);if(!l)return r;const[,u,h,c]=l;return`${u?`${u} `:""}${h}.${c}`}const Zy={};for(const r of xx)(Zy[r.code]??=[]).push({label:zx(r.track),file:r.file,note:r.track,transcript:Px[Vx(r.track)]});const fd={},Fx={streetint:"BBC Street Interviews",vlogs:"Unit vlog",programmes:"BBC Programme"};for(const r of Ax)(fd[r.unit]??=[]).push({title:Fx[r.kind],file:r.file,kind:r.kind,transcript:Jx[`${r.unit}:${r.kind}`]});const Kx=[{number:1,title:"me & mine",phrase:"The story of me",question:"What's the best present you've ever received?",intro:"Talk about the possessions that tell your story, the materials they are made of, and the choices behind the things we keep.",pages:[6,18],objectives:["1A Listening — understand people talking about their possessions; describe possessions and materials; tell a story with narrative tenses; weak forms of auxiliary verbs.","1B Reading — read an article about minimalism vs. maximalism; verb patterns; stress in prepositional phrases.","1C How to … — leave phone messages; phrasal verbs about housework; intonation in polite requests.","1D BBC Street Interviews — understand people talking about gadgets and screen time; except for, apart from, (not) even; write an online forum comment."],lessons:[{code:"1A",title:"The story of me",pages:[8,10],labels:{grammar:"narrative tenses",vocabulary:"describing possessions; materials",pronunciation:"auxiliary verbs: weak forms",skills:"listening"},objectives:["Understand people talking about their possessions.","Describe possessions and the materials they are made of.","Tell the story of three objects with narrative tenses.","Hear and use weak forms of auxiliary verbs.","Write an advert to sell an item online."]},{code:"1B",title:"Less is more?",pages:[11,13],labels:{grammar:"verb patterns",vocabulary:"personal preferences",pronunciation:"stress in prepositional phrases",skills:"reading"},objectives:["Read an article about minimalism vs. maximalism.","Use verb patterns to talk about what you like and prefer.","Stress prepositions in phrases correctly.","Answer a questionnaire about personal preferences."]},{code:"1C",title:"Don't forget to …",pages:[14,15],labels:{grammar:"How to … leave phone messages",vocabulary:"phrasal verbs: housework",pronunciation:"intonation in polite requests",skills:"how to"},objectives:["Leave a clear phone message.","Use phrasal verbs to talk about housework.","Sound polite with the right intonation in requests.","Understand recorded messages and respond to them."]},{code:"1D",title:"Your gadgets",pages:[16,17],labels:{grammar:"except for, apart from, (not) even",vocabulary:"gadgets and screen time",skills:"BBC street interviews"},objectives:["Understand people talking about gadgets and screen time.","Talk about exceptions with except for, apart from and (not) even.","Answer a questionnaire about gadgets.","Write an online forum comment."]},{code:"1R",title:"Review 1",pages:[18,18],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 1.","Check your progress with a short unit quiz."],isReview:!0}]},{number:2,title:"behaviour",phrase:"Habits and people",question:"What good habits do you have?",intro:"Explore habits and behaviour, from the science of changing routines to the small things other people do that drive us mad.",pages:[19,30],objectives:["2A Reading — read an article about how to change habits; making changes; present perfect continuous; weak form of been.","2B Listening — understand people talking about being a people pleaser; relative clauses; collocations for feelings and behaviour; chunking in relative clauses.","2C How to … — talk about things that annoy you; pet hates; stress and intonation to show annoyance.","2D BBC Programme — understand a wildlife programme about an exciting escape; discuss difficult situations; write a story."],lessons:[{code:"2A",title:"Change of habit",pages:[20,22],labels:{grammar:"present perfect continuous",vocabulary:"making changes",pronunciation:"weak form of been",skills:"reading"},objectives:["Read an article about how to change habits.","Talk about actions that started in the past and continue now.","Use the weak form of been naturally.","Discuss ways of changing habits."]},{code:"2B",title:"People pleaser",pages:[23,25],labels:{grammar:"relative clauses",vocabulary:"collocations: feelings and behaviour",pronunciation:"chunking in relative clauses",skills:"listening"},objectives:["Understand people talking about being a people pleaser.","Define and add information with relative clauses.","Use collocations for feelings and behaviour.","Chunk relative clauses into meaningful groups."]},{code:"2C",title:"That's annoying!",pages:[26,27],labels:{grammar:"How to … talk about things that annoy you",vocabulary:"pet hates",pronunciation:"stress and intonation to show annoyance",skills:"how to"},objectives:["Talk about things that annoy you.","Use a range of phrases for pet hates.","Show annoyance with stress and intonation."]},{code:"2D",title:"Planet Earth II: Jungles",pages:[28,29],labels:{vocabulary:"wildlife",skills:"BBC programme"},objectives:["Understand a wildlife programme about an exciting escape.","Discuss difficult situations and how people react.","Write a story about a dramatic event."]},{code:"2R",title:"Review 2",pages:[30,30],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 2.","Check your progress with a short unit quiz."],isReview:!0}]},{number:3,title:"working life",phrase:"Work and study",question:"Where do you prefer to work or study?",intro:"Look at working life, from working from home to the gig economy, and find the language to talk about your own approach to work.",pages:[31,42],objectives:["3A Reading — read about famous authors working from home; conditional structures: unless, even if, in case (of); work phrases; stress in phrases.","3B Listening — understand people talking about gig work; necessity, obligation and permission; work vocabulary; elision of /t/.","3C How to … — take part in an interview; personality adjectives (1); negative prefixes; word stress in personality adjectives.","3D BBC Street Interviews — understand people talking about their preferred jobs; expressing preferences; write a discussion board post."],lessons:[{code:"3A",title:"Working from home",pages:[32,34],labels:{grammar:"conditional structures: unless, even if, in case (of)",vocabulary:"work phrases",pronunciation:"stress in phrases",skills:"reading"},objectives:["Read about famous authors working from home.","Use unless, even if and in case (of) to talk about conditions.","Use common work phrases.","Stress phrases naturally when speaking."]},{code:"3B",title:"Gig work",pages:[35,37],labels:{grammar:"necessity, obligation and permission",vocabulary:"work",pronunciation:"elision of /t/",skills:"listening"},objectives:["Understand people talking about gig work.","Talk about necessity, obligation and permission.","Notice and produce the elision of /t/."]},{code:"3C",title:"Good question",pages:[38,39],labels:{grammar:"How to … take part in an interview",vocabulary:"personality adjectives (1); negative prefixes",pronunciation:"word stress in personality adjectives",skills:"how to"},objectives:["Take part in a job interview.","Describe personality and form negative adjectives.","Use the correct word stress in personality adjectives."]},{code:"3D",title:"This or that?",pages:[40,41],labels:{grammar:"expressing preferences",skills:"BBC street interviews"},objectives:["Understand people talking about their preferred jobs.","Express preferences with a range of structures.","Write a discussion board post."]},{code:"3R",title:"Review 3",pages:[42,42],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 3.","Check your progress with a short unit quiz."],isReview:!0}]},{number:4,title:"fact or fiction?",phrase:"Stories and truth",question:"Do you prefer true stories or fiction?",intro:"Investigate hoaxes, documentaries and the news — and decide what you believe, how it is told and why it spreads.",pages:[43,54],objectives:["4A Reading — read about a hoax; truth and lies; past plans and intentions; silent consonants.","4B Listening — understand people talking about favourite documentaries; adjectives to describe films; indirect and negative questions; intonation.","4C How to … — talk about the news; news headlines; word stress in adverbs for summarising.","4D BBC Programme — understand a TV programme about keeping secrets; have a conversation with an old friend; write a personal email or letter."],lessons:[{code:"4A",title:"Hoax!",pages:[44,46],labels:{grammar:"past plans and intentions",vocabulary:"truth and lies",pronunciation:"silent consonants",skills:"reading"},objectives:["Read about a famous hoax.","Talk about past plans and intentions.","Use vocabulary for truth and lies.","Notice and pronounce silent consonants."]},{code:"4B",title:"Documentary making",pages:[47,49],labels:{grammar:"indirect and negative questions",vocabulary:"adjectives to describe films; films and film-making",pronunciation:"intonation in indirect and negative questions",skills:"listening"},objectives:["Understand people talking about favourite documentaries.","Ask indirect and negative questions.","Describe films and the film-making process.","Use intonation in indirect and negative questions."]},{code:"4C",title:"News",pages:[50,51],labels:{grammar:"How to … talk about the news",vocabulary:"news headlines; the news",pronunciation:"word stress in adverbs for summarising",skills:"how to"},objectives:["Talk about the news and how stories spread.","Understand news headlines and news vocabulary.","Stress adverbs for summarising correctly."]},{code:"4D",title:"Fake friends",pages:[52,53],labels:{vocabulary:"keeping secrets",skills:"BBC programme"},objectives:["Understand a TV programme about keeping secrets.","Have a conversation with an old friend.","Write a personal email or letter."]},{code:"4R",title:"Review 4",pages:[54,54],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 4.","Check your progress with a short unit quiz."],isReview:!0}]},{number:5,title:"consumer",phrase:"Shopping and money",question:"When was the last time you had a problem with a product or service?",intro:"Talk about shopping, complaints, advertising and money — and learn how to get things done when something goes wrong.",pages:[55,66],objectives:["5A Listening — understand people complaining; personality adjectives (2); clauses of purpose; roleplay a complaint; write a complaint email.","5B Reading — read marketing tips; advertising and money; comparative and superlative structures; linking r in phrases.","5C How to … — summarise information from different sources; describing products; intonation in summarising phrases.","5D BBC Street Interviews — understand people talking about DIY; causative have/get; reflexive pronouns; write a meeting summary."],lessons:[{code:"5A",title:"The customer is always right?",pages:[56,58],labels:{grammar:"clauses of purpose: to, so as to, in order to/that, so that",vocabulary:"personality adjectives (2)",pronunciation:"word stress in adjectives",skills:"listening"},objectives:["Understand people complaining about products and services.","Give reasons and purposes with clauses of purpose.","Use personality adjectives to describe behaviour.","Roleplay a complaint and write a complaint email."]},{code:"5B",title:"Too good to be true",pages:[59,61],labels:{grammar:"comparative and superlative structures",vocabulary:"advertising; money",pronunciation:"linking r in phrases",skills:"reading"},objectives:["Read marketing tips and spot persuasive language.","Compare products with comparative and superlative structures.","Use advertising and money vocabulary.","Link words naturally with linking r."]},{code:"5C",title:"Which should I buy?",pages:[62,63],labels:{grammar:"How to … summarise information from different sources",vocabulary:"describing products",pronunciation:"intonation in summarising phrases",skills:"how to"},objectives:["Summarise information from different sources.","Describe products clearly.","Use intonation in summarising phrases."]},{code:"5D",title:"I do it myself",pages:[64,65],labels:{grammar:"causative have and get; reflexive pronouns",skills:"BBC street interviews"},objectives:["Understand people talking about DIY.","Use the causative have/get and reflexive pronouns.","Write a meeting summary."]},{code:"5R",title:"Review 5",pages:[66,66],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 5.","Check your progress with a short unit quiz."],isReview:!0}]},{number:6,title:"places",phrase:"Cities and journeys",question:"What's your favourite city?",intro:"Explore cities, epic journeys and city transport, and imagine what the city of tomorrow could look like.",pages:[67,78],objectives:["6A Listening — understand people talking about great neighbourhoods; areas of a city; so and such; intonation for emphasis.","6B Reading — read about epic journeys; challenges; idioms; be/get used to.","6C How to … — ask for and confirm information; city transport; fast speech: just.","6D BBC Programme — understand a TV programme about how China has changed; talk about what a place is famous for; write a business idea."],lessons:[{code:"6A",title:"In the city",pages:[68,70],labels:{grammar:"so and such",vocabulary:"areas of a city",pronunciation:"intonation for emphasis with so and such",skills:"listening"},objectives:["Understand people talking about great neighbourhoods.","Use so and such for emphasis.","Describe areas of a city.","Write instructions for getting to a place."]},{code:"6B",title:"Great journeys",pages:[71,73],labels:{grammar:"be/get used to",vocabulary:"challenges; idioms",pronunciation:"be/get used to",skills:"reading"},objectives:["Read about epic journeys.","Talk about challenges with be/get used to.","Use travel idioms.","Pronounce be/get used to naturally."]},{code:"6C",title:"City transport",pages:[74,75],labels:{grammar:"How to … ask for and confirm information",vocabulary:"city transport",pronunciation:"fast speech: just",skills:"how to"},objectives:["Ask for and confirm information.","Use city transport vocabulary.","Understand fast speech with just."]},{code:"6D",title:"A city of tomorrow",pages:[76,77],labels:{vocabulary:"China",skills:"BBC programme"},objectives:["Understand a TV programme about how China has changed.","Talk about what a place is famous for.","Write a business idea."]},{code:"6R",title:"Review 6",pages:[78,78],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 6.","Check your progress with a short unit quiz."],isReview:!0}]},{number:7,title:"connect",phrase:"Communication",question:"What's your favourite word?",intro:"Connect with people: report conversations, talk about life online, and learn how to keep talking when a conversation stalls.",pages:[79,90],objectives:["7A Listening — understand a podcast about misunderstandings; reporting verbs; ways of speaking; reported speech; stress in reporting verbs.","7B Reading — read about oversharing online; computer use; internet words; passives; stress and weak forms in passives.","7C How to … — keep a conversation going; adverbs; intonation in short questions.","7D BBC Street Interviews — understand people talking about good and bad communication; avoiding repetition: so, to, not, be; write an advice email."],lessons:[{code:"7A",title:"Mix-up",pages:[80,82],labels:{grammar:"reported speech",vocabulary:"reporting verbs; ways of speaking",pronunciation:"stress in reporting verbs",skills:"listening"},objectives:["Understand a podcast about misunderstandings.","Report what other people said.","Use reporting verbs and ways of speaking.","Stress reporting verbs correctly."]},{code:"7B",title:"Oversharing",pages:[83,85],labels:{grammar:"passives",vocabulary:"computer use; internet words",pronunciation:"stress and weak forms in passives",skills:"reading"},objectives:["Read about oversharing online.","Use passives to focus on actions and information.","Use computer and internet vocabulary.","Notice stress and weak forms in passives."]},{code:"7C",title:"Conversation savers",pages:[86,87],labels:{grammar:"How to … keep a conversation going",vocabulary:"adverbs",pronunciation:"intonation in short questions",skills:"how to"},objectives:["Keep a conversation going.","Use adverbs to make questions and answers more natural.","Use intonation in short questions."]},{code:"7D",title:"A good communicator",pages:[88,89],labels:{grammar:"avoiding repetition: so, to, not, be",skills:"BBC street interviews"},objectives:["Understand people talking about good and bad communication.","Avoid repetition with so, to, not and be.","Write an advice email."]},{code:"7R",title:"Review 7",pages:[90,90],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 7.","Check your progress with a short unit quiz."],isReview:!0}]},{number:8,title:"wisdom",phrase:"Advice and ideas",question:"What's the best piece of advice you've ever been given?",intro:"Share wisdom, give advice and present your ideas with confidence — from life lessons to a pitch in the Dragons’ Den.",pages:[91,102],objectives:["8A Reading — read advice from people of different ages; phrases of advice; third conditional and should have; contractions in complex sentences.","8B Listening — understand the origins of one man’s curiosity; learning; phrasal verbs; would; contracted would.","8C How to … — give a presentation; presenting; stressing words in key phrases.","8D BBC Programme — understand entrepreneurs pitching ideas; talk about pitching a business idea; write a work-related email."],lessons:[{code:"8A",title:"Wise words",pages:[92,94],labels:{grammar:"third conditional and should have",vocabulary:"phrases of advice",pronunciation:"contractions in complex sentences",skills:"reading"},objectives:["Read advice from people of different ages.","Talk about unreal past situations with the third conditional and should have.","Use phrases of advice.","Use contractions in complex sentences."]},{code:"8B",title:"Life lessons",pages:[95,97],labels:{grammar:"would",vocabulary:"learning; phrasal verbs",pronunciation:"contracted would",skills:"listening"},objectives:["Understand the origins of one man’s curiosity.","Use would to talk about past habits.","Use phrasal verbs for learning.","Pronounce contracted would naturally."]},{code:"8C",title:"One thing I know …",pages:[98,99],labels:{grammar:"How to … give a presentation",vocabulary:"presenting",pronunciation:"stressing words in key phrases",skills:"how to"},objectives:["Give a presentation.","Use signposting phrases to structure a talk.","Stress key words in presentation phrases."]},{code:"8D",title:"Dragons' Den",pages:[100,101],labels:{vocabulary:"entrepreneurs",skills:"BBC programme"},objectives:["Understand entrepreneurs pitching ideas.","Talk about pitching a business idea.","Write a work-related email."]},{code:"8R",title:"Review 8",pages:[102,102],labels:{skills:"review"},objectives:["Review the grammar and vocabulary from Unit 8.","Check your progress with a short unit quiz."],isReview:!0}]}];function uy(r){const l=[];for(let u=r[0];u<=r[1];u++)l.push(u-1);return l}function Xx(r,l){if(!l.code.endsWith("D"))return[];const u=r.number%2===1?"streetint":"programmes";return(fd[r.number]??[]).filter(h=>h.kind===u)}const $a={level:"B1+",edition:"3rd Edition",subtitle:"Student's Book"},lt=Kx.map(r=>{const l=fd[r.number]??[],u=r.lessons.map(h=>{const c=h.code,m=h.isReview?_x[r.number]:void 0;return{id:h.code.toLowerCase(),code:h.code,title:h.title,pages:h.pages,pdfPages:uy(h.pages),labels:h.labels,objectives:h.objectives,audio:Zy[c]??[],videos:Xx(r,h),grammar:Cx[h.code],vocab:jx[h.code],practice:Lx[h.code],blocks:{1:Ox,2:Dx,3:Hx,4:Mx,5:Ux,6:qx,7:Yx,8:Gx}[r.number]?.[h.code],quiz:m?{id:`unit-${r.number}`,title:`Unit ${r.number} progress check`,questions:m}:void 0}});return{id:String(r.number),number:r.number,title:r.title,phrase:r.phrase,question:r.question,intro:r.intro,pages:r.pages,pdfPages:uy(r.pages),overviewPdf:r.pages[0]-1,objectives:r.objectives,videos:l,lessons:u}});function yd(r){return lt.find(l=>String(l.number)===String(r))}function Zx(r,l){return yd(r)?.lessons.find(h=>h.id===l.toLowerCase())}function Xr(){return lt.flatMap(r=>r.lessons.map(l=>({unit:r,lesson:l})))}function Qx(r,l){const u=Xr(),h=u.findIndex(c=>String(c.unit.number)===r&&c.lesson.id===l);if(!(h<0))return u[h+1]}function $x(r,l){const u=Xr(),h=u.findIndex(c=>String(c.unit.number)===r&&c.lesson.id===l);if(!(h<=0))return u[h-1]}const Qy="speakout-b1plus.progress.v1",Fu=new Set;function Ur(){return{completed:{},quizzes:{},visits:{},startedAt:Date.now()}}function eA(){if(typeof window>"u")return Ur();try{const r=localStorage.getItem(Qy);if(!r)return Ur();const l=JSON.parse(r);return{completed:l.completed??{},quizzes:l.quizzes??{},visits:l.visits??{},last:l.last,startedAt:l.startedAt??Date.now()}}catch{return Ur()}}let it=eA();function $o(r){it=r;try{localStorage.setItem(Qy,JSON.stringify(r))}catch{}Fu.forEach(l=>l())}function ss(r,l){return`${r}/${l}`}function tA(r,l){return!!it.completed[ss(r,l)]}function nA(r,l){const u=ss(r,l);$o({...it,visits:{...it.visits,[u]:(it.visits[u]??0)+1},last:{unit:String(r),lesson:l}})}function $y(r,l){const u=ss(r,l);it.completed[u]||$o({...it,completed:{...it.completed,[u]:Date.now()},last:{unit:String(r),lesson:l}})}function aA(r,l){const u=ss(r,l),h={...it.completed};delete h[u],$o({...it,completed:h})}function oA(r,l){tA(r,l)?aA(r,l):$y(r,l)}function eg(r,l,u){const h=it.quizzes[r];if(h&&h.correct>=l){$o({...it,quizzes:{...it.quizzes,[r]:{...h,total:u}}});return}$o({...it,quizzes:{...it.quizzes,[r]:{correct:l,total:u,at:Date.now()}}})}function iA(){$o(Ur())}function to(){const r=T.useSyncExternalStore(l=>(Fu.add(l),()=>Fu.delete(l)),()=>it,()=>it);return{progress:r,get isComplete(){return(l,u)=>!!r.completed[ss(l,u)]},toggle:oA,complete:$y,visit:nA,recordQuiz:eg,reset:iA,completedCount:Object.keys(r.completed).length}}function Fo({value:r,className:l="",label:u,tone:h="brand"}){const c=Math.max(0,Math.min(100,r)),m={brand:"bg-brand-600 dark:bg-brand-400",accent:"bg-accent-600 dark:bg-accent-400",warm:"bg-warm-600 dark:bg-warm-500"};return s.jsx("div",{className:`h-2 overflow-hidden rounded-full bg-[var(--line)] ${l}`,role:"progressbar","aria-valuemin":0,"aria-valuemax":100,"aria-valuenow":Math.round(c),"aria-label":u,children:s.jsx("div",{className:`h-full rounded-full transition-[width] duration-700 ease-out ${m[h]}`,style:{width:`${c}%`}})})}function sA({open:r,onClose:l}){const u=to(),h=$v("/review")!==null;return s.jsxs(s.Fragment,{children:[s.jsx("div",{className:`fixed inset-0 z-50 bg-black/40 backdrop-blur-[2px] transition-opacity duration-300 ${r?"opacity-100":"pointer-events-none opacity-0"}`,onClick:l,"aria-hidden":"true"}),s.jsxs("aside",{className:`fixed inset-y-0 left-0 z-50 flex w-[min(88vw,380px)] flex-col border-r border-[var(--line)] bg-[var(--bg)] shadow-2xl transition-transform duration-300 ease-out ${r?"translate-x-0":"-translate-x-full"}`,"aria-label":"Book contents","aria-hidden":!r,children:[s.jsxs("div",{className:"flex items-center justify-between gap-3 border-b border-[var(--line)] px-4 py-3",children:[s.jsxs(Pn,{to:"/",onClick:l,className:"flex items-center gap-2.5",children:[s.jsx("span",{className:"grid h-9 w-9 place-items-center rounded-xl bg-brand-600 text-white shadow-sm",children:s.jsx(ft,{size:19})}),s.jsxs("span",{children:[s.jsx("span",{className:"block font-display text-lg leading-none text-[var(--ink)]",children:"Speakout"}),s.jsxs("span",{className:"text-[10px] font-bold uppercase tracking-[0.18em] text-brand-600 dark:text-brand-300",children:["B1+ · ",$a.edition]})]})]}),s.jsx("button",{type:"button",onClick:l,className:"grid h-9 w-9 place-items-center rounded-full text-[var(--ink-soft)] transition hover:bg-[var(--surface)]","aria-label":"Close contents",children:s.jsx(Ea,{size:19})})]}),s.jsxs("div",{className:"flex-1 overflow-y-auto overscroll-contain px-3 py-4",children:[s.jsx("div",{className:"mb-4 px-1",children:s.jsx(pd,{onNavigate:l})}),s.jsxs("nav",{className:"px-2",children:[s.jsx("p",{className:"mb-3 text-[10px] font-bold uppercase tracking-[0.22em] text-[var(--ink-faint)]",children:"Contents of the book"}),s.jsx("div",{className:"mb-5",children:s.jsxs(Pn,{to:"/review",onClick:l,className:`tactile flex items-center gap-2.5 rounded-xl border px-3 py-2.5 transition-colors ${h?"border-brand-500 bg-brand-600 text-white":"border-warm-200 bg-gradient-to-r from-warm-50 to-brand-50 text-brand-800 hover:shadow-sm dark:border-warm-900 dark:from-warm-950/50 dark:to-brand-950/50 dark:text-brand-200"}`,children:[s.jsx("span",{className:"grid size-9 shrink-0 place-items-center rounded-lg bg-brand-600 text-white",children:s.jsx(pt,{size:16})}),s.jsxs("span",{className:"min-w-0 flex-1",children:[s.jsx("span",{className:"block text-sm font-bold leading-tight",children:"Comprehensive review"}),s.jsx("span",{className:"block text-[11px] leading-tight text-[var(--ink-faint)]",dir:"rtl",lang:"ar",children:"المراجعة الشاملة"})]})]})}),s.jsx("div",{className:"space-y-5",children:lt.map(c=>s.jsxs("div",{children:[s.jsxs(Pn,{to:`/unit/${c.number}`,onClick:l,className:({isActive:m})=>`group flex items-baseline gap-2 transition-colors ${m?"text-brand-700 dark:text-brand-300":"hover:text-brand-700 dark:hover:text-brand-300"}`,children:[s.jsx("span",{className:"font-display text-lg font-bold leading-none tracking-tight",children:c.number}),s.jsx("span",{className:"min-w-0 truncate text-[13px] font-semibold",children:c.title}),s.jsx("span",{className:"toc-dots","aria-hidden":!0}),s.jsx("span",{className:"toc-page",children:c.lessons[0]?.pages?.[0]??""})]}),s.jsx("div",{className:"mt-1.5 space-y-0.5 border-l border-[var(--line)] pl-3",children:c.lessons.map(m=>{const f=u.isComplete(c.number,m.id)?"done":u.progress.visits[`${c.number}/${m.id}`]?"started":"todo";return s.jsxs(Pn,{to:`/unit/${c.number}/lesson/${m.id}`,onClick:l,className:({isActive:b})=>`toc-row group truncate rounded px-1.5 py-0.5 text-[13px] transition-colors ${b?"bg-[var(--line)] text-[var(--ink)]":f==="todo"?"text-[var(--ink-soft)] hover:text-[var(--ink)]":"text-[var(--ink)]"}`,children:[s.jsx("span",{className:"w-3 shrink-0 text-center text-[10px] leading-none",children:f==="done"?s.jsx(ln,{size:10,className:"text-brand-600"}):f==="started"?s.jsx("span",{className:"text-accent-600",children:"●"}):s.jsx("span",{className:"text-[var(--ink-faint)]",children:"○"})}),s.jsxs("span",{className:"min-w-0 truncate",children:[m.code!=="Review"?`${m.code} `:"",m.title]}),s.jsx("span",{className:"toc-dots","aria-hidden":!0}),s.jsx("span",{className:"toc-page shrink-0",children:m.pages[0]})]},m.id)})})]},c.id))}),s.jsxs("div",{className:"mt-6",children:[s.jsxs(Pn,{to:"/book",onClick:l,className:({isActive:c})=>`flex items-baseline gap-2 transition-colors ${c?"text-brand-700 dark:text-brand-300":"hover:text-brand-700 dark:hover:text-brand-300"}`,children:[s.jsx("span",{className:"font-display text-lg font-bold leading-none tracking-tight",children:"A"}),s.jsx("span",{className:"truncate text-[13px] font-semibold",children:"Reference banks"}),s.jsx("span",{className:"toc-dots","aria-hidden":!0}),s.jsx("span",{className:"toc-page",children:"back"})]}),s.jsxs("div",{className:"mt-1.5 space-y-0.5 border-l border-[var(--line)] pl-3",children:[s.jsxs(Pn,{to:"/bank/grammar",onClick:l,className:"toc-row group truncate rounded px-1.5 py-0.5 text-[13px] transition-colors text-[var(--ink-soft)] hover:text-[var(--ink)]",children:[s.jsx("span",{className:"w-3 shrink-0 text-[10px] leading-none text-[var(--ink-faint)]",children:"▲"}),s.jsx("span",{className:"min-w-0 truncate",children:"Grammar Bank"}),s.jsx("span",{className:"toc-dots","aria-hidden":!0}),s.jsx("span",{className:"toc-page shrink-0",children:"28"})]}),s.jsxs(Pn,{to:"/bank/vocabulary",onClick:l,className:"toc-row group truncate rounded px-1.5 py-0.5 text-[13px] transition-colors text-[var(--ink-soft)] hover:text-[var(--ink)]",children:[s.jsx("span",{className:"w-3 shrink-0 text-[10px] leading-none text-[var(--ink-faint)]",children:"▲"}),s.jsx("span",{className:"min-w-0 truncate",children:"Vocabulary Bank"}),s.jsx("span",{className:"toc-dots","aria-hidden":!0}),s.jsx("span",{className:"toc-page shrink-0",children:"132"})]})]})]})]})]}),s.jsxs("div",{className:"border-t border-[var(--line)] px-4 py-3",children:[s.jsxs("div",{className:"mb-1.5 flex items-center justify-between text-[10px] text-[var(--ink-faint)]",children:[s.jsx("span",{children:"Your progress"}),s.jsxs("span",{children:[Math.round(u.completedCount/40*100),"%"]})]}),s.jsx(Fo,{value:u.completedCount/40*100,label:"Course progress"})]})]})]})}const rA="./";function Ko(r){const l=r.replace(/^\/+/,"");return`${rA}${l}`}function Ku(r){return Ko(`book/p${String(r).padStart(3,"0")}.jpg`)}const Yu=[.5,.75,1,1.25,1.5,2];let we=null;if(typeof Audio<"u")try{we=new Audio}catch{we=null}let Gr=1,je=null,lA=0;const Xu=new Set,hA=new Set;function sn(){for(const r of Xu)r()}we&&(we.addEventListener("timeupdate",()=>{je&&(je.position=we.currentTime??0,sn())}),we.addEventListener("loadedmetadata",()=>{je&&(je.duration=Number.isFinite(we.duration)?we.duration:0,sn())}),we.addEventListener("play",()=>{je&&(je.playing=!0,sn())}),we.addEventListener("pause",()=>{je&&(je.playing=!1,sn())}),we.addEventListener("ended",()=>{je&&(je.playing=!1,je.position=0);for(const r of hA)r();sn()}),we.addEventListener("error",()=>{je&&(je.playing=!1,sn())}));function uA(){return++lA}function tg(){return je}function dA(){return Gr}function cA(r){Gr=Math.min(3,Math.max(.25,r)),we&&(we.playbackRate=Gr),sn()}function mA(r){return Xu.add(r),()=>{Xu.delete(r)}}function ng(r,l,u){if(we){if(je&&je.instance===u&&je.file===r){we.paused?we.play().catch(()=>{}):we.pause();return}we.src=r,we.load(),we.playbackRate=Gr,je={instance:u,file:r,label:l,playing:!1,position:0,duration:0},we.play().catch(()=>{}),sn()}}function ag(r){if(!we||!je)return;const l=je.duration||r,u=Math.max(0,Math.min(r,l));we.currentTime=u,je.position=u,sn()}function zr(r){if(!we||!je)return;const l=we.currentTime??je.position,u=je.duration||l+r,h=Math.max(0,Math.min(l+r,u));we.currentTime=h,je.position=h,sn()}function pA(){we&&(we.pause(),we.removeAttribute("src"),we.load()),je=null,sn()}function Pr(r){if(!Number.isFinite(r)||r<0)return"0:00";const l=Math.floor(r),u=Math.floor(l/60),h=l%60;return`${u}:${h.toString().padStart(2,"0")}`}function og(){const[,r]=T.useReducer(l=>l+1,0);return T.useEffect(()=>mA(()=>r()),[]),r}function ig({compact:r=!1}){const l=dA();return s.jsxs("button",{type:"button",onClick:()=>{const u=Yu.indexOf(l);cA(Yu[(u+1)%Yu.length])},className:`rounded-full border border-[var(--line)] font-semibold text-[var(--ink-soft)] transition hover:border-brand-500 hover:text-brand-600 dark:hover:text-brand-300 ${r?"px-2 py-0.5 text-[10px]":"px-2.5 py-1 text-xs"}`,"aria-label":`Playback speed ${l}x`,title:"Change playback speed",children:[Number.isInteger(l)?l:l.toFixed(2).replace(/0+$/,""),"×"]})}function fA({track:r}){og();const l=T.useRef(uA()),[u,h]=T.useState(!1),c=Ko(r.file),m=tg(),f=m?.file===c,b=!!(f&&m?.playing),w=f?m?.position??0:0,v=f?m?.duration??0:0,k=v?w/v*100:0;return s.jsxs("div",{className:`group rounded-xl border p-3 transition-colors ${f?"border-brand-300 bg-brand-50/70 dark:border-brand-700 dark:bg-brand-950/40":"border-[var(--line)] bg-[var(--surface)] hover:border-brand-200 dark:hover:border-brand-800"}`,children:[s.jsxs("div",{className:"flex items-center gap-3",children:[s.jsx("button",{type:"button",onClick:()=>ng(c,r.label,l.current),className:`grid h-11 w-11 shrink-0 place-items-center rounded-full text-white shadow-sm transition-transform active:scale-95 ${b?"bg-accent-600 hover:bg-accent-700":"bg-brand-600 hover:bg-brand-700"}`,"aria-label":b?`Pause track ${r.label}`:`Play track ${r.label}`,children:b?s.jsx(Jy,{size:19}):s.jsx(is,{size:19})}),s.jsxs("div",{className:"min-w-0 flex-1",children:[s.jsxs("div",{className:"flex items-center gap-2",children:[s.jsxs("span",{className:"inline-flex items-center gap-1.5 rounded-full bg-[var(--bg)] px-2 py-0.5 text-[11px] font-bold tracking-wide text-brand-700 ring-1 ring-[var(--line)] dark:text-brand-300",children:[s.jsx(Vy,{size:12}),r.label]}),r.note&&s.jsxs("span",{className:"hidden text-[11px] text-[var(--ink-faint)] sm:inline",children:["Audio ",r.note.replaceAll("_",".")]}),b&&s.jsxs("span",{className:"ml-auto flex h-3 items-end gap-0.5","aria-hidden":"true",children:[s.jsx("i",{className:"eq-bar h-2 w-0.5 animate-pulse rounded-full bg-brand-600"}),s.jsx("i",{className:"eq-bar h-3 w-0.5 animate-pulse rounded-full bg-brand-600 [animation-delay:120ms]"}),s.jsx("i",{className:"eq-bar h-1.5 w-0.5 animate-pulse rounded-full bg-brand-600 [animation-delay:240ms]"})]})]}),s.jsxs("div",{className:"mt-2 flex items-center gap-2",children:[s.jsx("span",{className:"w-9 text-right text-[10px] tabular-nums text-[var(--ink-faint)]",children:Pr(w)}),s.jsx("input",{type:"range",min:0,max:v||0,step:.1,value:Math.min(w,v||0),onChange:g=>ag(Number(g.target.value)),className:"h-1.5 min-w-0 flex-1 cursor-pointer accent-brand-600","aria-label":`Seek track ${r.label}`,disabled:!f,style:{backgroundSize:`${k}% 100%`}}),s.jsx("span",{className:"w-9 text-[10px] tabular-nums text-[var(--ink-faint)]",children:f?Pr(v):"--:--"})]})]}),s.jsxs("div",{className:"hidden shrink-0 flex-col items-end gap-1.5 sm:flex",children:[s.jsx(ig,{compact:!0}),s.jsxs("div",{className:"flex items-center gap-0.5",children:[s.jsx("button",{type:"button",onClick:()=>zr(-10),className:"grid h-7 w-7 place-items-center rounded-full text-[var(--ink-faint)] transition hover:bg-[var(--bg)] hover:text-brand-600","aria-label":"Rewind 10 seconds",children:s.jsx(Fy,{size:15})}),s.jsx("button",{type:"button",onClick:()=>zr(10),className:"grid h-7 w-7 place-items-center rounded-full text-[var(--ink-faint)] transition hover:bg-[var(--bg)] hover:text-brand-600","aria-label":"Forward 10 seconds",children:s.jsx(Ky,{size:15})})]})]})]}),r.transcript&&s.jsxs("div",{className:"mt-2 border-t border-[var(--line)] pt-2",children:[s.jsx("button",{type:"button",onClick:()=>h(g=>!g),className:"rounded-full border border-[var(--line)] px-2.5 py-1 text-[11px] font-semibold text-[var(--ink-soft)] transition hover:border-brand-500 hover:text-brand-600 dark:hover:text-brand-300","aria-expanded":u,children:u?"Hide script":"Show script"}),u&&s.jsx("div",{className:"mt-2 max-h-72 overflow-auto whitespace-pre-line rounded-lg bg-[var(--bg)] p-3 text-[13px] leading-relaxed text-[var(--ink-soft)]",children:r.transcript})]})]})}function gd({tracks:r,emptyLabel:l="No audio for this lesson."}){return r.length?s.jsx("div",{className:"space-y-2.5",children:r.map(u=>s.jsx(fA,{track:u},`${u.file}-${u.label}`))}):s.jsx("p",{className:"rounded-xl border border-dashed border-[var(--line-strong)] px-4 py-5 text-sm text-[var(--ink-faint)]",children:l})}function yA(){og();const r=tg();if(!r)return null;const l=r.duration?r.position/r.duration*100:0;return s.jsx("div",{className:"fixed inset-x-0 bottom-0 z-40 border-t border-[var(--line)] bg-[var(--surface)]/95 pb-[env(safe-area-inset-bottom)] shadow-[0_-10px_30px_rgb(0_0_0/0.08)] backdrop-blur",children:s.jsx("div",{className:"mx-auto max-w-4xl px-3 py-2.5 sm:px-6",children:s.jsxs("div",{className:"flex items-center gap-3",children:[s.jsx("button",{type:"button",onClick:()=>ng(r.file,r.label,r.instance),className:"grid h-10 w-10 shrink-0 place-items-center rounded-full bg-brand-600 text-white shadow-sm transition hover:bg-brand-700 active:scale-95","aria-label":r.playing?"Pause audio":"Play audio",children:r.playing?s.jsx(Jy,{size:17}):s.jsx(is,{size:17})}),s.jsxs("div",{className:"min-w-0 flex-1",children:[s.jsxs("div",{className:"flex items-baseline gap-2",children:[s.jsxs("p",{className:"truncate text-xs font-semibold text-[var(--ink)]",children:["Audio ",r.label]}),s.jsxs("span",{className:"ml-auto text-[10px] tabular-nums text-[var(--ink-faint)]",children:[Pr(r.position)," / ",Pr(r.duration)]})]}),s.jsx("input",{type:"range",min:0,max:r.duration||0,step:.1,value:Math.min(r.position,r.duration||0),onChange:u=>ag(Number(u.target.value)),className:"mt-1 h-1.5 w-full cursor-pointer accent-brand-600","aria-label":"Seek audio",style:{backgroundSize:`${l}% 100%`}})]}),s.jsxs("div",{className:"hidden items-center gap-1 sm:flex",children:[s.jsx("button",{type:"button",onClick:()=>zr(-10),className:"grid h-8 w-8 place-items-center rounded-full text-[var(--ink-faint)] transition hover:bg-[var(--bg)] hover:text-brand-600","aria-label":"Rewind 10 seconds",children:s.jsx(Fy,{size:16})}),s.jsx("button",{type:"button",onClick:()=>zr(10),className:"grid h-8 w-8 place-items-center rounded-full text-[var(--ink-faint)] transition hover:bg-[var(--bg)] hover:text-brand-600","aria-label":"Forward 10 seconds",children:s.jsx(Ky,{size:16})}),s.jsx(ig,{compact:!0})]}),s.jsx("button",{type:"button",onClick:pA,className:"grid h-8 w-8 place-items-center rounded-full text-[var(--ink-faint)] transition hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-900/30","aria-label":"Close audio player",children:s.jsx(Py,{size:16})})]})})})}const gA="speakout-b1plus.scroll:";function sg(r){return`${gA}${r}`}function wA(r){try{const l=Number(sessionStorage.getItem(sg(r)));return Number.isFinite(l)&&l>0?l:0}catch{return 0}}function dy(r,l){try{sessionStorage.setItem(sg(r),String(l))}catch{}}function bA(){const{pathname:r}=Ot(),l=Qv();return T.useEffect(()=>{"scrollRestoration"in window.history&&(window.history.scrollRestoration="manual")},[]),T.useEffect(()=>{let u=0,h=0;const c=()=>{h=0,u=performance.now(),dy(r,window.scrollY)},m=()=>{const w=120-(performance.now()-u);w<=0?c():h||(h=window.setTimeout(c,w))},f=()=>{h&&(window.clearTimeout(h),h=0),dy(r,window.scrollY)},b=()=>{document.visibilityState==="hidden"&&f()};return window.addEventListener("scroll",m,{passive:!0}),window.addEventListener("pagehide",f),document.addEventListener("visibilitychange",b),()=>{h&&window.clearTimeout(h),window.removeEventListener("scroll",m),window.removeEventListener("pagehide",f),document.removeEventListener("visibilitychange",b)}},[r]),T.useEffect(()=>{const u=l==="POP"?wA(r):0;if(u<=0){window.scrollTo({top:0,behavior:"instant"});return}let h=0,c=0,m=!1;const f=()=>{m=!0},b=()=>{m||(window.scrollTo({top:u,behavior:"instant"}),c<30&&Math.abs(window.scrollY-u)>2&&(c+=1,h=requestAnimationFrame(b)))};b();const w=[window.setTimeout(b,200),window.setTimeout(b,700)],v=()=>b();return window.addEventListener("load",v,{once:!0}),window.addEventListener("wheel",f,{once:!0,passive:!0}),window.addEventListener("touchstart",f,{once:!0,passive:!0}),window.addEventListener("keydown",f,{once:!0}),()=>{m=!0,h&&cancelAnimationFrame(h),w.forEach(k=>window.clearTimeout(k)),window.removeEventListener("load",v),window.removeEventListener("wheel",f),window.removeEventListener("touchstart",f),window.removeEventListener("keydown",f)}},[r,l]),null}function vA(){const[r,l]=T.useState(0);return T.useEffect(()=>{const u=()=>{const h=document.documentElement.scrollHeight-window.innerHeight;l(h>0?window.scrollY/h*100:0)};return u(),window.addEventListener("scroll",u,{passive:!0}),window.addEventListener("resize",u),()=>{window.removeEventListener("scroll",u),window.removeEventListener("resize",u)}},[]),s.jsx("div",{className:"fixed inset-x-0 top-0 z-[35] h-0.5 bg-transparent","aria-hidden":"true",children:s.jsx("div",{className:"h-full bg-brand-500 transition-[width] duration-150",style:{width:`${r}%`}})})}function kA(){const[r,l]=T.useState(!1);return s.jsxs("div",{className:"flex min-h-screen flex-col",children:[s.jsx(bA,{}),s.jsx(vA,{}),s.jsx(kx,{onContents:()=>l(!0)}),s.jsx(sA,{open:r,onClose:()=>l(!1)}),s.jsx("main",{className:"mx-auto w-full max-w-4xl flex-1 px-4 pb-28 pt-6 sm:px-6 sm:pt-8",children:s.jsx(yk,{})}),s.jsx("footer",{className:"mt-auto border-t border-[var(--line)] pb-24",children:s.jsxs("div",{className:"mx-auto grid max-w-4xl gap-6 px-4 py-8 sm:grid-cols-[1fr_auto] sm:px-6",children:[s.jsxs("div",{children:[s.jsxs(z,{to:"/",className:"inline-flex items-center gap-2",children:[s.jsx("span",{className:"grid h-8 w-8 place-items-center rounded-lg bg-brand-600 text-white",children:s.jsx(ft,{size:16})}),s.jsxs("span",{className:"font-display text-lg text-[var(--ink)]",children:["Speakout ",$a.level]})]}),s.jsxs("p",{className:"mt-2 max-w-md text-xs leading-relaxed text-[var(--ink-faint)]",children:[$a.edition," ",$a.subtitle,". All lesson pages, audio, video, grammar notes and vocabulary are taken from the B1+ Student’s Book. The page image is authoritative wherever a transcription is shown."]})]}),s.jsxs("nav",{className:"flex flex-wrap gap-x-5 gap-y-2 text-xs font-semibold text-[var(--ink-soft)]","aria-label":"Footer",children:[s.jsx(z,{className:"hover:text-brand-600",to:"/book",children:"Contents"}),s.jsxs(z,{className:"inline-flex items-center gap-1 hover:text-brand-600",to:"/bank/grammar",children:[s.jsx(pt,{size:13})," Grammar"]}),s.jsxs(z,{className:"inline-flex items-center gap-1 hover:text-brand-600",to:"/bank/vocabulary",children:[s.jsx(ft,{size:13})," Vocabulary"]}),s.jsxs(z,{className:"inline-flex items-center gap-1 hover:text-brand-600",to:"/media",children:[s.jsx(hn,{size:13})," Media"]})]})]})}),s.jsx(yA,{})]})}function cy({children:r,className:l="",delay:u=0,as:h="div"}){const c=T.useRef(null);return T.useEffect(()=>{const m=c.current;if(!m)return;if(window.matchMedia?.("(prefers-reduced-motion: reduce)").matches){m.classList.add("is-visible");return}const f=new IntersectionObserver(b=>{for(const w of b)w.isIntersecting&&(m.classList.add("is-visible"),f.disconnect())},{threshold:.08,rootMargin:"0px 0px -40px 0px"});return f.observe(m),()=>f.disconnect()},[]),s.jsx(h,{ref:c,className:`reveal ${l}`,style:u?{transitionDelay:`${u}ms`}:void 0,children:r})}function xA(){const{progress:r,isComplete:l,completedCount:u}=to(),h=Xr(),c=Math.round(u/h.length*100),m=r.last,f=m?h.find(v=>String(v.unit.number)===m.unit&&v.lesson.id===m.lesson):void 0,b=f?`/unit/${f.unit.number}/lesson/${f.lesson.id}`:"/unit/1/lesson/1a",w=f?`Continue ${f.lesson.code}`:"Start with 1A";return s.jsxs("div",{className:"space-y-10 sm:space-y-14",children:[s.jsxs("section",{className:"relative grid items-center gap-8 md:grid-cols-[1.15fr_0.85fr]",children:[s.jsxs("div",{className:"relative z-10",children:[s.jsxs("p",{className:"inline-flex items-center gap-2 rounded-full border border-brand-200 bg-brand-50 px-3 py-1 text-[10px] font-bold uppercase tracking-[0.17em] text-brand-700 dark:border-brand-800 dark:bg-brand-950/50 dark:text-brand-300",children:[s.jsx(md,{size:13}),$a.edition," · English course"]}),s.jsxs("h1",{className:"mt-4 font-display text-5xl leading-[0.95] text-[var(--ink)] sm:text-6xl",children:["Speakout",s.jsx("span",{className:"ml-2 inline-block rounded-2xl bg-accent-600 px-3 py-1 align-middle text-2xl font-sans font-black tracking-tight text-white shadow-lg shadow-accent-600/25 sm:text-3xl",children:"B1+"})]}),s.jsxs("p",{className:"mt-4 max-w-lg text-[15px] leading-relaxed text-[var(--ink-soft)]",children:["The complete ",$a.subtitle,", page by page. Every lesson, audio track and BBC video from the book, with the full Grammar and Vocabulary Banks in one calm place to study."]}),s.jsxs("div",{className:"mt-6 flex flex-wrap items-center gap-3",children:[s.jsxs(z,{to:b,className:"inline-flex items-center gap-2 rounded-full bg-brand-600 px-5 py-2.5 text-sm font-semibold text-white shadow-lg shadow-brand-600/20 transition hover:-translate-y-0.5 hover:bg-brand-700",children:[s.jsx(is,{size:16}),w]}),s.jsxs(z,{to:"/book",className:"inline-flex items-center gap-2 rounded-full border border-[var(--line-strong)] bg-[var(--surface)] px-5 py-2.5 text-sm font-semibold text-[var(--ink)] transition hover:border-brand-400 hover:text-brand-700",children:["Browse contents",s.jsx(Vn,{size:15})]})]}),s.jsx("dl",{className:"mt-7 grid max-w-lg grid-cols-4 gap-2 border-t border-[var(--line)] pt-4",children:[["8","units"],["40","lessons"],["81","audio"],["16","videos"]].map(([v,k])=>s.jsxs("div",{children:[s.jsx("dt",{className:"font-display text-2xl text-brand-700 dark:text-brand-300",children:v}),s.jsx("dd",{className:"text-[10px] font-semibold uppercase tracking-[0.14em] text-[var(--ink-faint)]",children:k})]},k))})]}),s.jsxs("div",{className:"relative mx-auto w-full max-w-[280px] md:max-w-none",children:[s.jsx("div",{className:"absolute -inset-8 -z-10 rounded-full bg-gradient-to-br from-brand-200/60 via-accent-100/50 to-warm-100/60 blur-3xl dark:from-brand-800/30 dark:via-accent-900/20 dark:to-warm-900/20"}),s.jsx(z,{to:"/book",className:"book-cover book-cover-sheen block rotate-2 overflow-hidden rounded-lg border border-[var(--line)] shadow-[0_30px_60px_-25px_rgb(0_0_0/0.55)] transition-transform duration-500 hover:rotate-0 hover:scale-[1.02]","aria-label":"Open the book contents",children:s.jsx("img",{src:Ku(1),alt:"Speakout B1+ Student's Book cover",className:"aspect-[1/1.414] w-full object-cover"})}),s.jsxs("div",{className:"absolute -left-5 bottom-16 hidden rounded-xl border border-[var(--line)] bg-[var(--surface)]/95 px-3 py-2 shadow-xl backdrop-blur sm:block",children:[s.jsxs("p",{className:"flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-wide text-brand-600 dark:text-brand-300",children:[s.jsx(Fn,{size:12})," Listen & watch"]}),s.jsx("p",{className:"mt-0.5 text-xs font-semibold text-[var(--ink)]",children:"All book media included"})]}),s.jsxs("div",{className:"absolute -right-4 top-10 hidden rounded-xl border border-[var(--line)] bg-[var(--surface)]/95 px-3 py-2 shadow-xl backdrop-blur sm:block",children:[s.jsx("p",{className:"text-[10px] font-bold uppercase tracking-wide text-warm-600",children:"Your progress"}),s.jsxs("div",{className:"mt-1 flex items-center gap-2",children:[s.jsx(Fo,{value:c,className:"w-16",tone:"warm"}),s.jsxs("span",{className:"text-xs font-bold tabular-nums text-[var(--ink)]",children:[c,"%"]})]})]})]})]}),s.jsxs(cy,{as:"section",className:"rounded-2xl border border-[var(--line)] bg-[var(--surface)] p-4 shadow-sm sm:p-5",children:[s.jsxs("div",{className:"flex flex-wrap items-center justify-between gap-3",children:[s.jsxs("div",{className:"flex items-center gap-3",children:[s.jsx("span",{className:"grid h-10 w-10 place-items-center rounded-xl bg-brand-100 text-brand-700 dark:bg-brand-950 dark:text-brand-300",children:s.jsx(pt,{size:20})}),s.jsxs("div",{children:[s.jsx("p",{className:"text-sm font-bold text-[var(--ink)]",children:u===0?"Your course starts here":`${u} of ${h.length} lessons complete`}),s.jsx("p",{className:"text-xs text-[var(--ink-faint)]",children:u===0?"Mark a lesson complete at the bottom of its page.":c===100?"You have completed the whole book. Excellent work!":"Keep going — every lesson builds on the last."})]})]}),s.jsxs(z,{to:b,className:"inline-flex items-center gap-1.5 rounded-full bg-[var(--bg)] px-3 py-1.5 text-xs font-semibold text-brand-700 ring-1 ring-[var(--line)] transition hover:bg-brand-50 dark:text-brand-300 dark:hover:bg-brand-950/40",children:[w," ",s.jsx(Qa,{size:13})]})]}),s.jsx(Fo,{value:c,className:"mt-4 h-2.5",label:"Course progress"})]}),s.jsxs("section",{children:[s.jsxs("div",{className:"mb-4 flex flex-wrap items-end justify-between gap-2",children:[s.jsxs("div",{children:[s.jsx("p",{className:"text-[10px] font-bold uppercase tracking-[0.18em] text-brand-600 dark:text-brand-300",children:"The course"}),s.jsx("h2",{className:"mt-1 font-display text-2xl text-[var(--ink)] sm:text-3xl",children:"Eight units, one journey"})]}),s.jsx(z,{to:"/book",className:"text-xs font-semibold text-brand-700 hover:underline dark:text-brand-300",children:"See full contents →"})]}),s.jsx("div",{className:"grid gap-3 sm:grid-cols-2",children:lt.map((v,k)=>{const g=v.lessons.filter(O=>l(v.number,O.id)).length,R=Math.round(g/v.lessons.length*100);return s.jsx(cy,{delay:k*35,children:s.jsxs(z,{to:`/unit/${v.number}`,className:"group flex h-full gap-3.5 rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4 transition-all hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-lg dark:hover:border-brand-800",children:[s.jsx("span",{className:"grid h-12 w-12 shrink-0 place-items-center rounded-xl bg-brand-600 font-display text-xl text-white shadow-sm transition-transform group-hover:-rotate-3",children:v.number}),s.jsxs("div",{className:"min-w-0 flex-1",children:[s.jsxs("div",{className:"flex items-start justify-between gap-2",children:[s.jsx("h3",{className:"font-display text-lg leading-tight text-[var(--ink)]",children:v.title}),s.jsx(Vn,{size:16,className:"mt-1 shrink-0 text-[var(--ink-faint)] transition group-hover:translate-x-0.5 group-hover:text-brand-600"})]}),s.jsxs("p",{className:"mt-0.5 line-clamp-1 text-[11px] italic text-[var(--ink-faint)]",children:["“",v.question,"”"]}),s.jsxs("div",{className:"mt-2.5 flex items-center gap-2",children:[s.jsx(Fo,{value:R,className:"h-1.5"}),s.jsxs("span",{className:"shrink-0 text-[10px] tabular-nums text-[var(--ink-faint)]",children:[g,"/",v.lessons.length]})]})]})]})},v.id)})})]}),s.jsx("section",{className:"grid gap-3 sm:grid-cols-3",children:[{to:"/bank/grammar",icon:s.jsx(pt,{size:19}),title:"Grammar Bank",text:`${Sa.length} reference lessons with examples and page images.`,tone:"bg-brand-100 text-brand-700 dark:bg-brand-950 dark:text-brand-300"},{to:"/bank/vocabulary",icon:s.jsx(ft,{size:19}),title:"Vocabulary Bank",text:`${En.length} word groups — materials, films, money, idioms and more.`,tone:"bg-accent-100 text-accent-700 dark:bg-accent-950 dark:text-accent-300"},{to:"/media",icon:s.jsx(hn,{size:19}),title:"Audio & video",text:"81 tracks and 16 BBC videos, organised by unit and lesson.",tone:"bg-warm-100 text-warm-700 dark:bg-warm-950/60 dark:text-warm-300"}].map(v=>s.jsxs(z,{to:v.to,className:"group rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4 transition hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-md dark:hover:border-brand-800",children:[s.jsx("span",{className:`grid h-9 w-9 place-items-center rounded-lg ${v.tone}`,children:v.icon}),s.jsxs("h3",{className:"mt-2.5 flex items-center gap-1 text-sm font-bold text-[var(--ink)]",children:[v.title,s.jsx(Qa,{size:13,className:"opacity-0 transition group-hover:opacity-100"})]}),s.jsx("p",{className:"mt-1 text-xs leading-relaxed text-[var(--ink-faint)]",children:v.text})]},v.to))}),s.jsx("section",{className:"rounded-2xl border border-[var(--line)] bg-gradient-to-br from-brand-600 to-brand-800 p-5 text-white shadow-lg sm:p-7",children:s.jsxs("div",{className:"flex flex-wrap items-center justify-between gap-4",children:[s.jsxs("div",{className:"max-w-lg",children:[s.jsxs("p",{className:"flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-[0.18em] text-brand-200",children:[s.jsx(ln,{size:13})," Everything in one place"]}),s.jsx("h2",{className:"mt-1.5 font-display text-2xl sm:text-3xl",children:"Read the page. Play the audio. Do the practice."}),s.jsx("p",{className:"mt-1.5 text-sm text-brand-100/90",children:"Every lesson follows the same rhythm so you always know what to do next."})]}),s.jsxs("div",{className:"flex flex-wrap gap-2",children:[s.jsx(z,{to:"/review",className:"rounded-full bg-white px-4 py-2 text-xs font-bold text-brand-800 transition hover:bg-brand-50",children:"Review & practice"}),s.jsx(z,{to:"/scripts",className:"rounded-full border border-white/40 px-4 py-2 text-xs font-bold text-white transition hover:bg-white/10",children:"Audio scripts"})]})]})})]})}function Sn({eyebrow:r,title:l,description:u,backTo:h,backLabel:c="Back",children:m}){return s.jsxs("header",{className:"mb-6 sm:mb-8",children:[h&&s.jsxs(z,{to:h,className:"mb-3 inline-flex items-center gap-1 text-xs font-semibold text-[var(--ink-soft)] transition hover:text-brand-600",children:[s.jsx(Yr,{size:14}),c]}),r&&s.jsx("p",{className:"mb-2 text-[10px] font-bold uppercase tracking-[0.2em] text-brand-600 dark:text-brand-300",children:r}),s.jsx("h1",{className:"font-display text-3xl leading-[1.1] text-[var(--ink)] sm:text-4xl",children:l}),u&&s.jsx("p",{className:"mt-2.5 max-w-2xl text-sm leading-relaxed text-[var(--ink-soft)]",children:u}),m&&s.jsx("div",{className:"mt-4",children:m})]})}function Vt({icon:r,title:l,hint:u,action:h}){return s.jsxs("div",{className:"mb-3 flex flex-wrap items-end justify-between gap-2",children:[s.jsxs("div",{children:[s.jsxs("h2",{className:"flex items-center gap-2 text-base font-bold text-[var(--ink)]",children:[r,l]}),u&&s.jsx("p",{className:"mt-0.5 text-xs text-[var(--ink-faint)]",children:u})]}),h]})}function yt({children:r,tone:l="neutral"}){const u={neutral:"bg-[var(--bg)] text-[var(--ink-soft)] ring-[var(--line)]",brand:"bg-brand-100 text-brand-800 ring-brand-200 dark:bg-brand-950 dark:text-brand-200 dark:ring-brand-800",accent:"bg-accent-100 text-accent-800 ring-accent-200 dark:bg-accent-950 dark:text-accent-200 dark:ring-accent-800",warm:"bg-warm-100 text-warm-900 ring-warm-200 dark:bg-warm-950/60 dark:text-warm-200 dark:ring-warm-800"};return s.jsx("span",{className:`inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-semibold ring-1 ${u[l]}`,children:r})}function AA(){const{isComplete:r,completedCount:l}=to();return s.jsxs("div",{children:[s.jsx(Sn,{eyebrow:"Speakout B1+ · Student's Book",title:"Contents",description:`The complete book, ${$a.edition}. Printed page numbers are shown for every lesson; each lesson page opens the original book pages, audio and practice.`,children:s.jsxs("div",{className:"flex flex-wrap gap-2 text-xs",children:[s.jsxs("span",{className:"rounded-full bg-brand-100 px-3 py-1 font-semibold text-brand-800 dark:bg-brand-950 dark:text-brand-200",children:[lt.length," units"]}),s.jsx("span",{className:"rounded-full bg-[var(--surface)] px-3 py-1 font-semibold text-[var(--ink-soft)] ring-1 ring-[var(--line)]",children:"40 lessons"}),s.jsxs("span",{className:"rounded-full bg-[var(--surface)] px-3 py-1 font-semibold text-[var(--ink-soft)] ring-1 ring-[var(--line)]",children:[l," complete"]})]})}),s.jsx("div",{className:"book-page overflow-hidden p-1 sm:p-2",children:s.jsxs("div",{className:"rounded-[3px] border border-[var(--line)] bg-[var(--surface)]",children:[s.jsxs("div",{className:"flex items-center justify-between gap-3 border-b border-[var(--line)] px-4 py-3 sm:px-6",children:[s.jsxs("div",{children:[s.jsx("p",{className:"text-[10px] font-bold uppercase tracking-[0.2em] text-brand-600 dark:text-brand-300",children:"Book map"}),s.jsx("p",{className:"text-xs text-[var(--ink-faint)]",children:"Unit opener · lessons · review"})]}),s.jsx("span",{className:"text-xs tabular-nums text-[var(--ink-faint)]",children:"pp. 6–102"})]}),s.jsx("div",{className:"divide-y divide-[var(--line)]",children:lt.map(u=>s.jsxs("section",{className:"px-3 py-4 sm:px-5 sm:py-5",children:[s.jsxs("div",{className:"flex items-start gap-3",children:[s.jsx(z,{to:`/unit/${u.number}`,className:"grid h-12 w-12 shrink-0 place-items-center rounded-xl bg-brand-600 font-display text-xl text-white shadow-sm transition hover:-rotate-3 hover:bg-brand-700","aria-label":`Open Unit ${u.number}`,children:u.number}),s.jsxs("div",{className:"min-w-0 flex-1",children:[s.jsxs("div",{className:"flex flex-wrap items-baseline gap-x-2",children:[s.jsx(z,{to:`/unit/${u.number}`,className:"font-display text-xl text-[var(--ink)] hover:text-brand-700",children:u.title}),s.jsxs("span",{className:"text-[10px] font-bold uppercase tracking-[0.16em] text-[var(--ink-faint)]",children:["Unit ",u.number," · p. ",u.pages[0]]})]}),s.jsxs("p",{className:"mt-0.5 text-xs italic text-[var(--ink-soft)]",children:["“",u.question,"”"]})]})]}),s.jsx("div",{className:"mt-3 divide-y divide-[var(--line)] rounded-lg border border-[var(--line)] bg-[var(--bg)]/35",children:u.lessons.map(h=>{const c=r(u.number,h.id);return s.jsxs(z,{to:`/unit/${u.number}/lesson/${h.id}`,className:"toc-row group px-3 py-2.5 transition hover:bg-brand-50/60 dark:hover:bg-brand-950/30",children:[s.jsx("span",{className:"w-12 shrink-0 text-[11px] font-black text-brand-600 dark:text-brand-300",children:h.code}),s.jsxs("span",{className:"min-w-0 shrink-0",children:[s.jsx("span",{className:`block text-xs font-semibold ${c?"text-brand-700 dark:text-brand-300":"text-[var(--ink)]"}`,children:h.title}),s.jsx("span",{className:"hidden text-[10px] text-[var(--ink-faint)] sm:block",children:h.labels.grammar??h.labels.vocabulary??h.labels.skills})]}),s.jsx("span",{className:"toc-dots"}),c&&s.jsx("span",{className:"text-[10px] font-semibold text-brand-600",children:"done"}),s.jsx("span",{className:"toc-page tabular-nums",children:h.pages[0]}),s.jsx(Vn,{size:13,className:"shrink-0 text-[var(--ink-faint)] transition group-hover:translate-x-0.5 group-hover:text-brand-600"})]},h.id)})})]},u.id))})]})}),s.jsxs("section",{className:"mt-8",children:[s.jsx(Vt,{icon:s.jsx(px,{size:18}),title:"Reference banks",hint:"Extra pages at the back of the book."}),s.jsxs("div",{className:"grid gap-3 sm:grid-cols-3",children:[s.jsxs(z,{to:"/bank/grammar",className:"group rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4 transition hover:border-brand-300 hover:shadow-md",children:[s.jsx(pt,{size:19,className:"text-brand-600"}),s.jsx("h3",{className:"mt-2 text-sm font-bold",children:"Grammar Bank"}),s.jsxs("p",{className:"mt-0.5 text-xs text-[var(--ink-faint)]",children:[Sa.length," lessons · pp. 104–131"]})]}),s.jsxs(z,{to:"/bank/vocabulary",className:"group rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4 transition hover:border-accent-300 hover:shadow-md",children:[s.jsx(ft,{size:19,className:"text-accent-600"}),s.jsx("h3",{className:"mt-2 text-sm font-bold",children:"Vocabulary Bank"}),s.jsxs("p",{className:"mt-0.5 text-xs text-[var(--ink-faint)]",children:[En.length," groups · pp. 132–137"]})]}),s.jsxs(z,{to:"/media",className:"group rounded-xl border border-[var(--line)] bg-[var(--surface)] p-4 transition hover:border-warm-300 hover:shadow-md",children:[s.jsx(hn,{size:19,className:"text-warm-600"}),s.jsx("h3",{className:"mt-2 text-sm font-bold",children:"Audio & video"}),s.jsx("p",{className:"mt-0.5 text-xs text-[var(--ink-faint)]",children:"81 tracks · 16 BBC videos"})]})]})]})]})}function as({pages:r,printedPages:l,title:u,compact:h=!1}){const[c,m]=T.useState(null),[f,b]=T.useState(!1),w=c!==null,v=R=>l?.[R]??r[R],k=T.useCallback(()=>{m(null),b(!1)},[]),g=T.useCallback(R=>{m(O=>O===null?O:(O+R+r.length)%r.length),b(!1)},[r.length]);return T.useEffect(()=>{if(!w)return;const R=document.body.style.overflow;document.body.style.overflow="hidden";const O=q=>{q.key==="Escape"&&k(),q.key==="ArrowLeft"&&g(-1),q.key==="ArrowRight"&&g(1)};return window.addEventListener("keydown",O),()=>{document.body.style.overflow=R,window.removeEventListener("keydown",O)}},[w,k,g]),s.jsxs(s.Fragment,{children:[s.jsx("div",{className:`grid gap-4 ${r.length>1?"sm:grid-cols-2":""} ${h?"gap-3":""}`,children:r.map((R,O)=>s.jsxs("figure",{className:"group min-w-0",children:[s.jsx("button",{type:"button",onClick:()=>m(O),className:"book-cover page-sweep block w-full overflow-hidden rounded-xl border border-[var(--line)] bg-[var(--surface)] text-left shadow-sm transition-all hover:-translate-y-0.5 hover:shadow-xl focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-600","aria-label":`Open page ${v(O)} of ${u}`,children:s.jsx("img",{src:Ku(R),alt:`${u} — page ${v(O)}`,loading:"lazy",decoding:"async",className:"aspect-[1/1.414] w-full object-cover transition-transform duration-500 group-hover:scale-[1.015]"})}),s.jsxs("figcaption",{className:"mt-2 flex items-center justify-between gap-2 px-0.5 text-xs text-[var(--ink-faint)]",children:[s.jsxs("span",{className:"inline-flex items-center gap-1.5",children:[s.jsx(dx,{size:13}),"Page ",v(O)]}),s.jsx("span",{className:"opacity-0 transition-opacity group-hover:opacity-100",children:"Click to zoom"})]})]},R))}),w&&Qk.createPortal(s.jsxs("div",{className:"fixed inset-0 z-[90] flex flex-col bg-[#0b1113]/95 text-white backdrop-blur-sm",role:"dialog","aria-modal":"true","aria-label":`${u}, page ${v(c)}`,children:[s.jsxs("div",{className:"flex items-center justify-between gap-3 border-b border-white/10 px-4 py-3 sm:px-6",children:[s.jsxs("div",{className:"min-w-0",children:[s.jsx("p",{className:"truncate text-sm font-semibold",children:u}),s.jsxs("p",{className:"text-xs text-white/60",children:[c+1," / ",r.length," · Page ",v(c)]})]}),s.jsxs("div",{className:"flex items-center gap-1.5",children:[s.jsx("button",{type:"button",onClick:()=>b(R=>!R),className:"grid h-9 w-9 place-items-center rounded-full bg-white/10 transition hover:bg-white/20","aria-label":f?"Zoom out":"Zoom in",title:f?"Zoom out":"Zoom in",children:f?s.jsx(mx,{size:18}):s.jsx(cx,{size:18})}),s.jsx("button",{type:"button",onClick:k,className:"grid h-9 w-9 place-items-center rounded-full bg-white/10 transition hover:bg-white/20","aria-label":"Close viewer",children:s.jsx(Py,{size:18})})]})]}),s.jsx("div",{className:`relative flex-1 ${f?"overflow-auto":"overflow-hidden"}`,onClick:R=>{R.target===R.currentTarget&&k()},children:s.jsx("div",{className:`flex min-h-full items-center justify-center p-3 sm:p-6 ${f?"w-max min-w-full":""}`,children:s.jsx("img",{src:Ku(r[c]),alt:`${u} — page ${v(c)}`,className:`rounded-md bg-white shadow-2xl transition-[width] duration-300 ${f?"w-[1600px] max-w-none":"max-h-[calc(100vh-9rem)] max-w-full object-contain"}`})})}),r.length>1&&s.jsxs(s.Fragment,{children:[s.jsx("button",{type:"button",onClick:()=>g(-1),className:"absolute left-2 top-1/2 grid h-11 w-11 -translate-y-1/2 place-items-center rounded-full bg-black/40 text-white backdrop-blur transition hover:bg-black/60 sm:left-5","aria-label":"Previous page",children:s.jsx(Yr,{size:24})}),s.jsx("button",{type:"button",onClick:()=>g(1),className:"absolute right-2 top-1/2 grid h-11 w-11 -translate-y-1/2 place-items-center rounded-full bg-black/40 text-white backdrop-blur transition hover:bg-black/60 sm:right-5","aria-label":"Next page",children:s.jsx(Vn,{size:24})})]})]}),document.body)]})}const IA={6:{text:`LISTENING/VIDEO SPEAKING WRITING
 Listen to people making Roleplay making complaints Write a complaint email
 complaints
 Discuss a marketing campaign

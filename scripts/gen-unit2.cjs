@@ -9,8 +9,9 @@ for (const l of ul) {
   const pages = [];
   for (let p = l.pages[0]; p <= l.pages[1]; p++) pages.push(p);
   const ocr = pages.map(p => pageText[String(p)]?.text || '').join('\n\n').trim();
+  const paras = ocr.split(/\n{2,}/).map(x=>x.trim()).filter(x=>x.length>0);
   blocks.push({ type:'callout', title: l.title, titleAr: l.title, tone:'brand', text: l.objectives.join(' '), textAr: l.objectives.join(' ') });
-  if (ocr) blocks.push({ type:'text', title: 'Lesson text (from book pages)', titleAr: 'نص الدرس (من صفحات الكتاب)', paragraphs: [ocr] });
+  if (paras.length) blocks.push({ type:'text', title: 'Lesson text (from book pages)', titleAr: 'نص الدرس (من صفحات الكتاب)', paragraphs: paras });
   if (l.labels.vocabulary) blocks.push({ type:'vocab', title: l.labels.vocabulary, titleAr: l.labels.vocabulary, items: [{ word: l.labels.vocabulary, meaning: 'Key vocabulary for this lesson' }] });
   if (l.labels.grammar) blocks.push({ type:'grammar', title: l.labels.grammar, titleAr: l.labels.grammar, bankPage: l.pages[0], explanation: 'Grammar focus: ' + l.labels.grammar + '.', examples: l.objectives.slice(0,3) });
   blocks.push({ type:'text', title:'In this lesson', titleAr:'في هذا الدرس', paragraphs: l.objectives });
