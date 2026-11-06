@@ -71,10 +71,14 @@ function PageTextItem({ printed, text, confidence }: { printed: number; text: st
         )}
       </button>
       {open && (
-        <div className="mt-1 whitespace-pre-line pb-3 text-[13px] leading-relaxed text-[var(--ink-soft)]">
-          {lowQuality
-            ? 'This page is image-heavy and could not be transcribed reliably. Please use the page image above.'
-            : text}
+        <div className="mt-1 pb-3 text-[13px] leading-relaxed text-[var(--ink-soft)]">
+          {lowQuality && (
+            <p className="mb-2 rounded-md bg-amber-50 px-2 py-1.5 text-[11px] leading-relaxed text-amber-800 dark:bg-amber-950/40 dark:text-amber-200">
+              This page is image-heavy, so the transcription below may contain errors. Use the page image above as the
+              reference.
+            </p>
+          )}
+          <div className="whitespace-pre-line">{text}</div>
         </div>
       )}
     </div>
