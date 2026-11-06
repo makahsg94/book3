@@ -6,7 +6,6 @@ import { playSound } from '../lib/sounds'
 import { burstConfetti } from '../lib/confetti'
 import PageViewer from '../components/PageViewer'
 import PageText from '../components/PageText'
-import Blocks from '../components/Blocks'
 import { AudioList } from '../components/AudioPlayer'
 import { VideoList } from '../components/VideoCard'
 import Quiz from '../components/Quiz'
@@ -136,10 +135,6 @@ export default function LessonPage() {
               ))}
             </ul>
           </section>
-
-          {lesson.blocks && lesson.blocks.length > 0 && (
-            <Blocks blocks={lesson.blocks} unitNumber={unit.number} />
-          )}
 
           <section>
             <SectionTitle
